@@ -1,8 +1,18 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
       "type": "main-page",
-      "settings": {}
+      "settings": {
+      }
     },
     "f2f5ce2f-0096-445f-952d-84469001ea58": {
       "type": "collection-list-custom",
@@ -76,7 +86,7 @@
           "settings": {
             "collection": "joy-1",
             "image": "shopify:\/\/shop_images\/joyhome.jpg",
-            "sub-title": "NEW"
+            "sub-title": "NEW2"
           }
         },
         "b3fc1944-1321-4b1f-bb73-ef58c923710b": {
