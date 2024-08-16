@@ -1,0 +1,222 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "168e044d-6a64-4707-bab0-419255d8206d": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }} - {{ product.metafields.custom.serie.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_h1": true
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": true
+          }
+        },
+        "f256dd1c-015c-4188-80c4-fe82eff46434": {
+          "type": "sku",
+          "settings": {}
+        },
+        "8c85abef-0ebf-4a93-b1f2-a9995fd59686": {
+          "type": "inventory_level",
+          "settings": {
+            "inventory_threshold": 10,
+            "show_inventory_notice": "always",
+            "show_inventory_count": "low",
+            "show_inventory_indicator_bar": false,
+            "col_indicator_below": "#dd9a1a",
+            "col_indicator_above": "#108043"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_style": "underlined",
+            "show_realtime_availability": true,
+            "show_size_chart": false,
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_multi_quantity_selector": true,
+            "enable_payment_button": false,
+            "show_pickup_availability": false,
+            "enable_mobile_sticky_cart": false
+          }
+        },
+        "5c385997-0c67-4ea7-a936-28e6e4b0a09e": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "display": "accordion_open",
+            "icon": "eye"
+          }
+        },
+        "54c37e45-b6e0-4263-a771-ddfef128daba": {
+          "type": "accordion",
+          "disabled": true,
+          "settings": {
+            "icon": "ruler",
+            "title": "Information",
+            "content": "<p><strong>Materials<\/strong><\/p><p>{{ product.metafields.custom.farbe.value }}<\/p><p>{{ product.metafields.custom.material.value }}<\/p><p>{{ product.metafields.custom.finish.value }}<\/p><p><strong>Dimensions<\/strong><\/p><p>{{ product.metafields.custom.inhalt | metafield_tag }}<\/p><p>{{ product.metafields.custom.durchmesser | metafield_tag }}<\/p><p> {{ product.metafields.custom.hohe | metafield_tag }}<\/p><p>{{ product.metafields.custom.lange | metafield_tag }}<\/p><p>{{ product.metafields.custom.breite | metafield_tag }}<\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>",
+            "page": "",
+            "open": false
+          }
+        },
+        "80061d98-b635-4472-8c65-edab3c74e750": {
+          "type": "accordion",
+          "disabled": true,
+          "settings": {
+            "icon": "heart",
+            "title": "Care Guide",
+            "content": "<p>{{ product.metafields.descriptors.care_guide | metafield_tag }}<\/p>",
+            "page": "",
+            "open": false
+          }
+        },
+        "7b42c506-29ee-4967-9174-f9bbd008fd44": {
+          "type": "trust_icons",
+          "disabled": true,
+          "settings": {
+            "icon_size": 30,
+            "show_icon1": true,
+            "text1": "<p>Trust label<\/p>",
+            "icon1": "award",
+            "show_icon2": true,
+            "text2": "<p>Trust label<\/p>",
+            "icon2": "truck",
+            "show_icon3": true,
+            "text3": "<p>Trust label<\/p>",
+            "icon3": "return",
+            "show_icon4": true,
+            "text4": "<p>Trust label<\/p>",
+            "icon4": "check_mark"
+          }
+        },
+        "c924e1fc-3b83-4618-a870-a5420da2a7be": {
+          "type": "complementary",
+          "disabled": true,
+          "settings": {
+            "block_heading": "Pairs well with",
+            "enable_carousel": true,
+            "max_products": 10,
+            "show_vendor": false,
+            "hide_swatches": false
+          }
+        }
+      },
+      "block_order": [
+        "168e044d-6a64-4707-bab0-419255d8206d",
+        "title",
+        "price",
+        "f256dd1c-015c-4188-80c4-fe82eff46434",
+        "8c85abef-0ebf-4a93-b1f2-a9995fd59686",
+        "rating",
+        "variant_picker",
+        "buy_buttons",
+        "5c385997-0c67-4ea7-a936-28e6e4b0a09e",
+        "54c37e45-b6e0-4263-a771-ddfef128daba",
+        "80061d98-b635-4472-8c65-edab3c74e750",
+        "7b42c506-29ee-4967-9174-f9bbd008fd44",
+        "c924e1fc-3b83-4618-a870-a5420da2a7be"
+      ],
+      "custom_css": [
+        ".swiper-wrapper img {background: #f5f5f5;}"
+      ],
+      "settings": {
+        "media_style": "one-column",
+        "sticky_behaviour": "bottom",
+        "full_width": false,
+        "show_backorder_text": true,
+        "slide_nav_style": "dots",
+        "media_crop": "top",
+        "enable_zoom": true,
+        "zoom_cursor": "standard",
+        "show_thumbnails": true,
+        "enable_video_looping": false,
+        "scroll_to_variant_media": false,
+        "highlight_selected_media": false,
+        "variant_media_grouping": false,
+        "variant_media_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "e0dc5d29-454e-4d88-b091-cce1426b7b32": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "{{ product.metafields.custom.serie_information.value.serie_name.value }}",
+        "title": "Media with text",
+        "title_size": 54,
+        "text": "<p>{{ product.metafields.custom.serie_information.value.serie_description_short | metafield_tag }}<\/p><p><\/p>",
+        "button_label": "test",
+        "button_link": "",
+        "text_alignment": "center",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "{{ product.metafields.custom.serie_information.value.main_image.value }}",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "cover",
+        "color_scheme": "custom",
+        "color_bg": "{{ product.metafields.custom.serie_information.value.background_color.value }}",
+        "color_text": "{{ product.metafields.custom.serie_information.value.text_color.value }}"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "title": "You may also like",
+        "hide_swatches": false,
+        "show_vendor": true,
+        "grid": 4
+      }
+    },
+    "2d1d3ab9-ab7d-4e36-b01a-cd3198949f80": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Geschenkgutschein",
+        "title_size": 32,
+        "heading_h1": false,
+        "text": "<p>Geschenkgutschein für den ASA Online-Shop. Geschirr, Vasen oder doch lieber Dekoration? Überlassen Sie die Wahl des neuen Lieblingsstücks in Küche oder Wohnraum doch lieber dem Beschenkten. In unserem vielfältigen Sortiment findet wirklich jeder Hobbykoch und jede Hobbyköchin ein neues Schmuckstück! Bitte Füllen Sie die angegeben Felder sorgfältig aus. Der Gutschein wird Ihnen per E-mail zugeschickt.<\/p>",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "color_scheme": "alt",
+        "color_bg": "",
+        "color_text": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "e0dc5d29-454e-4d88-b091-cce1426b7b32",
+    "product-recommendations",
+    "2d1d3ab9-ab7d-4e36-b01a-cd3198949f80"
+  ]
+}

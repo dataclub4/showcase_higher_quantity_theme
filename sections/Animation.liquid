@@ -1,0 +1,24 @@
+{% if section.settings.enable_animations %}
+  <script>
+    animationForMobile();
+    animationForDesktop();
+  </script>
+{%  endif %}
+
+{% schema %}
+  {
+    "name": "Animations enabled",
+    "limit": 1,
+    "settings": [
+      {
+        "type": "checkbox",
+        "id": "enable_animations",
+        "label": "Enable animations",
+        "default": true
+      }
+    ],
+    "presets": [{
+      "name": "Animations enabled"
+    }]
+  }
+{% endschema %}

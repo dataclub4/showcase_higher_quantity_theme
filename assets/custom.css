@@ -1,0 +1,157 @@
+.section-footer___custom-logo img{
+  height:50px;
+  margin-right: 20px;
+}
+@media screen and (min-width: 650px) {
+.section-footer___custom-logo img{
+  height:75px;
+}
+}
+
+
+.careguideList{
+      
+}
+
+.careguideListItem{
+      display: flex;
+      margin-top: 10px;
+      align-items: center;
+}
+
+.careguideListItemImage{
+    height: 35px;
+    width: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.careguideListItemImage svg{
+    height: 100%;
+    width: 100%;
+}
+
+.InformationListItem{
+      padding: 5px;
+}
+
+.InformationListItemTitle{
+  font-weight: 600;
+}
+
+.InformationListItemUl{
+  text-transform: capitalize;
+}
+
+.logo etrusted-product-review-list-widget-product-star-extension{
+  
+    font-size: 16px;
+    padding-bottom: 5px;
+    display: none;
+    margin-left: -5px;
+}
+
+
+
+.page-gastroanfragen #shopify-section-footer{
+  margin-top: -70px;
+}
+
+
+.template-suffix-geschirr-list .section-collection-list collection-list-custom, .template-suffix-interior-list .section-collection-list, .template-suffix-kuche-list .section-collection-list{
+  margin-top: -100px;
+}
+
+.shopify-section.section-collection-list.collection-list-custom{
+  margin-top: -70px;
+}
+
+.asavariants {
+  display: inline-block;
+  margin-right: 10px;
+  text-align: center;
+  padding: 5px;
+  background-color: #f5f5f5;
+  width: 74px;
+  height: 98px;
+  overflow: hidden;
+}
+
+.asavariants.asavariants-active {
+  border: 1px solid #bbbbbb;
+  font-weight: bold;
+  padding: 4px;
+}
+
+.asavariants a {
+  outline-style: none !important;
+  font-size: 80%;
+  white-space: nowrap;
+}
+
+.asavariants img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.subcolection-block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    text-align: center;
+    hyphens: auto;
+    background-color: #d7e5e1;
+    position: relative;
+    cursor: pointer;
+    transform: scale(1);
+    transition: .3s;
+}
+
+.subcolection-block:hover{
+  transform: scale(1.05);
+}
+
+.subcolection-block-url{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+.subcollection-list .product-list{
+  padding-bottom: 0;
+}
+
+.subcollection-list .swiper-container .swiper-wrapper{
+  margin-top: 0;
+}
+
+.subcollection-list .swiper-container .swiper-button-prev, .subcollection-list .swiper-container .swiper-button-next{
+  margin-top: 0;
+      top: 15%;
+}
+
+.klaviyo-bis-trigger.button{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.section-background-video{
+  margin-top: 5px;
+}
+
+.product_info_top{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.product_info_top .merkmal{
+  font-size: 12px;
+}

@@ -1,0 +1,348 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {}
+    },
+    "subcollection_list_3kAFfV": {
+      "type": "subcollection-list",
+      "blocks": {
+        "collection_XzXMhT": {
+          "type": "collection",
+          "settings": {
+            "collection": "vases",
+            "bg_color": "#f5f5f5"
+          }
+        },
+        "collection_YGTQRq": {
+          "type": "collection",
+          "settings": {
+            "collection": "ubertopfe",
+            "bg_color": "#f5f5f5"
+          }
+        },
+        "collection_HtPzDC": {
+          "type": "collection",
+          "settings": {
+            "collection": "deko-schale",
+            "bg_color": "#f5f5f5"
+          }
+        },
+        "collection_YhRmaf": {
+          "type": "collection",
+          "settings": {
+            "collection": "kerzenhalter",
+            "bg_color": "#f5f5f5"
+          }
+        },
+        "collection_xXWBi7": {
+          "type": "collection",
+          "settings": {
+            "collection": "dekoartikel",
+            "bg_color": "#f5f5f5"
+          }
+        },
+        "collection_e4ekCw": {
+          "type": "collection",
+          "settings": {
+            "collection": "pflanzen-zweige",
+            "bg_color": "#f5f5f5"
+          }
+        }
+      },
+      "block_order": [
+        "collection_XzXMhT",
+        "collection_YGTQRq",
+        "collection_HtPzDC",
+        "collection_YhRmaf",
+        "collection_xXWBi7",
+        "collection_e4ekCw"
+      ],
+      "settings": {
+        "title": "",
+        "height": 60,
+        "grid": 6,
+        "grid_mobile": "3",
+        "show_view_all": false,
+        "alternate_bg_color": false
+      }
+    },
+    "5b8d630e-7723-4a72-aab9-934eb98d1013": {
+      "type": "collection-list-custom",
+      "blocks": {
+        "template--18985993568580__5b8d630e-7723-4a72-aab9-934eb98d1013-16897545038792ee44-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "carve",
+            "image": "shopify:\/\/shop_images\/Carve_3602782d-72d8-4bdf-ac35-5332a0086178.jpg",
+            "sub-title": ""
+          }
+        },
+        "template--18985993568580__5b8d630e-7723-4a72-aab9-934eb98d1013-16897545038792ee44-1": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "stone",
+            "image": "shopify:\/\/shop_images\/Stone-blackiron-kollektion.jpg",
+            "sub-title": ""
+          }
+        },
+        "collection_qVVFjB": {
+          "type": "collection",
+          "settings": {
+            "collection": "casita",
+            "image": "shopify:\/\/shop_images\/casita.jpg",
+            "sub-title": "NEW"
+          }
+        },
+        "template--18985993568580__5b8d630e-7723-4a72-aab9-934eb98d1013-16897545038792ee44-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "art-deco",
+            "image": "shopify:\/\/shop_images\/artdeco_0668543c-c3c3-49b3-9b63-4f270561d00e.jpg",
+            "sub-title": ""
+          }
+        },
+        "332484cc-36d3-46f7-b8cd-2a27105b0348": {
+          "type": "collection",
+          "settings": {
+            "collection": "ease",
+            "image": "shopify:\/\/shop_images\/ease_a6812787-dac4-4d2d-afc5-5fcd3b9d158c.jpg",
+            "sub-title": ""
+          }
+        },
+        "55294a34-55e9-45ce-b578-b01df72718a3": {
+          "type": "collection",
+          "settings": {
+            "collection": "swing",
+            "image": "shopify:\/\/shop_images\/swing_421b2fef-d611-4f4c-9bff-771b6f47cddc.jpg",
+            "sub-title": ""
+          }
+        },
+        "5ee37b06-80d0-488c-99a9-45b94679c13b": {
+          "type": "collection",
+          "settings": {
+            "collection": "como",
+            "image": "shopify:\/\/shop_images\/como_7e7c4563-7763-49f6-92d6-0405e0b864f0.jpg",
+            "sub-title": ""
+          }
+        },
+        "956ba785-6a48-4533-8f0f-f47e75a5cd76": {
+          "type": "collection",
+          "settings": {
+            "collection": "mara",
+            "image": "shopify:\/\/shop_images\/maraserie.jpg",
+            "sub-title": ""
+          }
+        },
+        "24d29b29-c14f-4d7c-9ade-2f65b77b185f": {
+          "type": "collection",
+          "settings": {
+            "collection": "quadro",
+            "image": "shopify:\/\/shop_images\/quadro_a5264bb2-4593-4add-835b-e1a2f9d98a0d.jpg",
+            "sub-title": ""
+          }
+        },
+        "d4137468-12d6-4d71-960d-1a7bd6949b13": {
+          "type": "collection",
+          "settings": {
+            "collection": "bruna",
+            "image": "shopify:\/\/shop_images\/bruna_c8261119-3a20-4895-a2ff-fa6840357f6d.jpg",
+            "sub-title": ""
+          }
+        },
+        "collection_WbWFaw": {
+          "type": "collection",
+          "settings": {
+            "collection": "tamago",
+            "image": "shopify:\/\/shop_images\/tamagoserie.jpg",
+            "sub-title": "NEW"
+          }
+        },
+        "collection_akr3RM": {
+          "type": "collection",
+          "settings": {
+            "collection": "moon",
+            "image": "shopify:\/\/shop_images\/moon-serie_564f308b-5ba8-4817-b5e2-833e6b11259e.jpg",
+            "sub-title": "new"
+          }
+        },
+        "1ac3c6c2-0c9e-4412-8ad1-ee9b974aa75c": {
+          "type": "collection",
+          "settings": {
+            "collection": "cube-blue",
+            "image": "shopify:\/\/shop_images\/cube_blue_21b74f44-3ab5-4eed-8f56-415a7f171940.jpg",
+            "sub-title": ""
+          }
+        },
+        "3fbad9e9-16fd-44d9-bd59-a47daefedd75": {
+          "type": "collection",
+          "settings": {
+            "collection": "rayu",
+            "image": "shopify:\/\/shop_images\/rayu_34aa5188-e5aa-4333-bc93-f96f27510711.jpg",
+            "sub-title": ""
+          }
+        },
+        "fd6e9f9f-8da8-4dd7-ab7e-53f0bf55ca07": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "florea",
+            "image": "shopify:\/\/shop_images\/florea_80e325ea-739d-4679-bf30-5914f2f3fc18.jpg",
+            "sub-title": ""
+          }
+        },
+        "collection_YtkPWC": {
+          "type": "collection",
+          "settings": {
+            "collection": "oliveira",
+            "image": "shopify:\/\/shop_images\/Oliveira-perola-lagoa_1f480e77-020a-4adc-9f74-567364b0de27.jpg",
+            "sub-title": "NEW"
+          }
+        },
+        "collection_hEbDqg": {
+          "type": "collection",
+          "settings": {
+            "collection": "japandi-home",
+            "image": "shopify:\/\/shop_images\/JapandiHome-Vasen1.jpg",
+            "sub-title": "NEW"
+          }
+        },
+        "e34fe31f-9340-4d61-b5b1-07d7a0912967": {
+          "type": "collection",
+          "settings": {
+            "collection": "haruko",
+            "image": "shopify:\/\/shop_images\/Haruko_431d5e7f-4aaf-4de8-8377-a69cc69d2a14.jpg",
+            "sub-title": ""
+          }
+        },
+        "collection_MaUAPY": {
+          "type": "collection",
+          "settings": {
+            "collection": "l-a-loft",
+            "image": "shopify:\/\/shop_images\/laloft-serie.jpg",
+            "sub-title": "new"
+          }
+        },
+        "62710238-ad00-404a-a7ec-49b76d717a67": {
+          "type": "collection",
+          "settings": {
+            "collection": "white-gloss",
+            "image": "shopify:\/\/shop_images\/white_gloss_757c2af4-3529-4aa0-9b53-e2b9c13ffd99.jpg",
+            "sub-title": ""
+          }
+        },
+        "50dbb4ef-f53a-4fb8-852a-39d5a75fb511": {
+          "type": "collection",
+          "settings": {
+            "collection": "ajana",
+            "image": "shopify:\/\/shop_images\/ajana_6459847e-51fe-4bcd-9ae0-0583433a033d.jpg",
+            "sub-title": ""
+          }
+        },
+        "aee5e52a-38ff-4684-adbf-fa82818f7238": {
+          "type": "collection",
+          "settings": {
+            "collection": "dekoartikel",
+            "image": "shopify:\/\/shop_images\/Deko_70c2e26e-f52f-44e4-b47a-b2d85b1be87b.jpg",
+            "sub-title": ""
+          }
+        },
+        "33126ca6-5803-42ec-9ef9-8855d3bb0348": {
+          "type": "collection",
+          "settings": {
+            "collection": "windlicht",
+            "image": "shopify:\/\/shop_images\/windlichter_b7b5cc07-7141-4880-b04a-a97f37cf0832.jpg",
+            "sub-title": ""
+          }
+        },
+        "c7aa2746-07e6-4c45-959b-8aeb1b6cfb3f": {
+          "type": "collection",
+          "settings": {
+            "collection": "pflanzen-zweige",
+            "image": "shopify:\/\/shop_images\/dekoflowers-_-plants_cf2f4d7e-8b78-4426-9de6-a18e2400d6c0.jpg",
+            "sub-title": ""
+          }
+        },
+        "collection_CaGgyr": {
+          "type": "collection",
+          "settings": {
+            "collection": "verana-vases",
+            "image": "shopify:\/\/shop_images\/Verana-Vasen-Kollektion-grid.jpg",
+            "sub-title": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18985993568580__5b8d630e-7723-4a72-aab9-934eb98d1013-16897545038792ee44-0",
+        "template--18985993568580__5b8d630e-7723-4a72-aab9-934eb98d1013-16897545038792ee44-1",
+        "collection_qVVFjB",
+        "template--18985993568580__5b8d630e-7723-4a72-aab9-934eb98d1013-16897545038792ee44-2",
+        "332484cc-36d3-46f7-b8cd-2a27105b0348",
+        "55294a34-55e9-45ce-b578-b01df72718a3",
+        "5ee37b06-80d0-488c-99a9-45b94679c13b",
+        "956ba785-6a48-4533-8f0f-f47e75a5cd76",
+        "24d29b29-c14f-4d7c-9ade-2f65b77b185f",
+        "d4137468-12d6-4d71-960d-1a7bd6949b13",
+        "collection_WbWFaw",
+        "collection_akr3RM",
+        "1ac3c6c2-0c9e-4412-8ad1-ee9b974aa75c",
+        "3fbad9e9-16fd-44d9-bd59-a47daefedd75",
+        "fd6e9f9f-8da8-4dd7-ab7e-53f0bf55ca07",
+        "collection_YtkPWC",
+        "collection_hEbDqg",
+        "e34fe31f-9340-4d61-b5b1-07d7a0912967",
+        "collection_MaUAPY",
+        "62710238-ad00-404a-a7ec-49b76d717a67",
+        "50dbb4ef-f53a-4fb8-852a-39d5a75fb511",
+        "aee5e52a-38ff-4684-adbf-fa82818f7238",
+        "33126ca6-5803-42ec-9ef9-8855d3bb0348",
+        "c7aa2746-07e6-4c45-959b-8aeb1b6cfb3f",
+        "collection_CaGgyr"
+      ],
+      "custom_css": [
+        ".collection-block {margin-top: 20px;}"
+      ],
+      "settings": {
+        "title": "",
+        "layout": "rows",
+        "grid": 4,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "alternate_bg_color": false
+      }
+    },
+    "34c374b3-4b0c-4dda-80dc-159d166e34e7": {
+      "type": "rich-text",
+      "custom_css": [
+        ".metafield-rich_text_field {font-size: 0.9em;}",
+        "h2 {margin-bottom: 0em; font-size: 1.2em;}",
+        "h3 {margin-bottom: 0em; font-size: 1.2em;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Inneneinrichtung und Dekoration von ASA Selection entdecken",
+        "title_size": 26,
+        "heading_h1": true,
+        "text": "<p>In der Vasen und Dekoration Sektion von ASA Selection finden Sie die unterschiedlichsten <a href=\"https:\/\/www.asa-selection.com\/produkte\/wohnaccessoires\/vasen\/\">Vasen<\/a> und Behältnisse. Die hochwertigen, handgefertigten Blumenvasen passen sich verschiedensten Wohnstilen ideal an. Ob in Kombination mit anderen <a href=\"https:\/\/www.asa-selection.com\/produkte\/wohnaccessoires\/dekoartikel\/\">Dekoartikeln<\/a> oder alleine machen sie eine gute Figur. Von Allroundern, über Klassiker bis hin zu modernen Designs, lassen die ASA Selection Vasen Ihre Inneneinrichtung in neuem Glanz erstrahlen. Egal ob klein oder groß, auch Ihre Liebsten werden gefallen an den vielfältigen Dekoartikeln finden. Entdecken Sie neue, außergewöhnliche Wege, um ihre Dekoration neu zu erfinden. Mit ASA Selection sind Sie für jeden Anlass gewappnet, da sich die vielfältigen Gefäße optimal zur Dekoration verschiedenster Sträuße eignen. Finden und genießen Sie jetzt eine Vielzahl an Dekoartikeln, welche das Zusammensein mit Freunden und Familie noch schöner gestalten.<\/p><h2>Succulenten von ASA Selection online bestellen<\/h2><p>In der <em>succulenten<\/em> Kategorie von ASA Selection finden Sie klassische und ausgefallene <a href=\"„https:\/\/www.asa-selection.com\/produkte\/wohnaccessoires\/uebertoepfe\/&quot;\">Töpfe<\/a> aus Beton. Das feste Material in zeitlosem Design fügt sich wie von selbst in Ihre Dekorationsideen ein und überzeugt mit seinem schlichten, aber trotzdem ansprechenden, Erscheinungsbild. Egal ob Sie sich für eine echte Pflanze oder für eine Dekorationspflanze entscheiden - bei den verschiedenen Durchmessern und Ausführungen der Töpfe ist für jede Art von Pflanze etwas dabei. Somit können Ihre Liebsten jederzeit, bei gemeinsamer Zeit in der Wohnung, Ihre Lieblingspflanzen um sich haben und diese genießen. Sie würden ihre Lieblings Hänge-Sukkulente gerne außerhalb der Reichweite von zum Beispiel spielenden Kinder aufbewahren? Kein Problem, denn in unserer Kategorie <em>succulenten<\/em> finden Sie auch schöne Töpfe zum Aufhängen. Diese sind nicht nur praktisch, sondern auch ein echter Blickfang.<\/p><h2>Deko Flowers im ASA Selection Onlineshop<\/h2><p>In der ASA Selection Deko Flowers Kategorie finden Sie verschiedene Dekoartikel für jede Jahreszeit und zu jedem Anlass. Lassen Sie sich zum Beispiel von verschiedensten Ausführungen von Blattzweigen begeistern. Diese passen nicht nur perfekt zu unseren ASA Selection Vasen - sie runden Ihr Dekorationserlebnis zu jedem Zeitpunkt ab. Egal ob Küche, Wohnraum oder Schlafzimmer - bei der ASA Selection Kategorie Deko Flowers ist für jeden Raum etwas dabei. So bereiten Ihnen die verschiedenen Ausführungen in klassischen und ausgefallenen Farben Vorfreude und lassen Ihr Umfeld in neuem Glanz erstrahlen. Auch in dieser Kategorie können Sie unechte Pflanzen finden, welche Ihrer Umgebung eine angenehme Atmosphäre verpassen. Lassen Sie sich und ihre Liebsten auch von unseren ausgewählten Dekosets verzaubern. Diese schaffen es mal auffällig, mal subtil eine warme, angenehme Stimmung zu verbreiten und sorgen für eine tolle Wohnatmosphäre in der Sie mit Freunden und Familie optimal die gemeinsame Zeit genießen können.<\/p><h2>Schönheit in Ihre Wohnung bringen – mit der Beauty Reihe von ASA Selection<\/h2><p>In der Beauty Sektion von ASA Selection finden Sie echte Hingucker für Ihre Inneneinrichtung. Die ausgewählten Stücke aus hochwertigem Material lassen sich nicht nur funktional einsetzen, sondern runden ihre gemeinsame Zeit mit Freunden und Familie optisch ab. Hier wird besonders auf minimalistische Designs gesetzt, was diese Kategorie für jeden interessant macht. Im Kreis der Liebsten möchte niemand auf die kleinen, besonderen Dinge verzichten. Das gewählte Design hebt die wichtigen Dinge in den Vordergrund und überzeugt auf ganzer Linie als stilvoller Dekoartikel. Überzeugen Sie sich selbst von ASA Selections beliebter Deko-Serie und lassen Sie das besondere Design auf sich wirken.<\/p><h2>Jetzt die Ayo Dekoartikel Kategorie von ASA Selection durchstöbern<\/h2><p>In der Kategorie Ayo von ASA Selection finden Sie verschiedene Dekoartikel, welche Ihren Wohnraum in neuem Glanz erstrahlen lassen. Dies liegt nicht nur an den hochwertig gefertigten Teelichthaltern, sondern auch an der Vielfältigkeit von ASA Selection. Neben Vasen begeistert die Serie Ayo auch mit einem schönen Weinkühler. Dieser ist ein echter Blickfang und das nicht nur für den gemütlichen Abend zu zweit. Auch in einer größeren Runde überzeugt das Behältnis mit zeitlosem Design. Die Vasen der Kategorie Ayo überzeugen klar durch ihre vielseitige Nutzbarkeit. Ob in der Verwendung als Blumenvase oder als reiner Dekoartikel geben sie stets eine gute Figur ab. Auch die Ayo-Untersetzer runden zahlreiche Dekorationsideen ganz natürlich ab. Ob als Unterlage für ein Glas, eine Tasse oder eine Vase - geben sie Ihrer Inneneinrichtung den besonderen Touch.<\/p><h2>Vasen und Schalen aus der Rayu Kategorie online entdecken<\/h2><p>In der einzigartigen Kategorie Rayu erwarten Sie stilvolle Vasen und Schalen von ASA Selection. Diese handgefertigten Dekoartikel sind etwas ganz Besonderes. Durch die präzise Handarbeit entstehen Kunstwerke, die Charakter in Ihren Wohnraum bringen. Die individuelle Gestaltung lässt Einzelstücke entstehen, welche nicht nur Ihre Familie, sondern auch Freunde und Bekannte, zum Staunen bringen. Egal ob im klassischen Design, mit eingefärbten Henkeln, oder etwas ausgefallener mit verspielten Linien - in der Kategorie Rayu von ASA Selection ist für jeden etwas dabei. Die mit einem matten Finish überzogenen <a href=\"https:\/\/www.asa-selection.com\/produkte\/wohnaccessoires\/dekoartikel\/\">Dekoartikel<\/a> sind vielseitig einsetzbar und halten so auch verschiedensten Anforderungen stand. Sie sind nicht nur für den Ofen oder die Mikrowelle geeignet, sondern lassen sich auch bequem in der Spülmaschine reinigen. Falls nötig, ist sogar die Aufbewahrung im Gefrierfach möglich. Erfreuen Sie sich an der Auswahl an Dekoartikeln von ASA Selection, die nicht nur praktisch, sondern zudem noch traumhaft schön sind.<\/p>",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": true,
+        "no_padding_bottom": false,
+        "color_scheme": "custom",
+        "color_bg": "",
+        "color_text": "#565454"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "subcollection_list_3kAFfV",
+    "5b8d630e-7723-4a72-aab9-934eb98d1013",
+    "34c374b3-4b0c-4dda-80dc-159d166e34e7"
+  ]
+}

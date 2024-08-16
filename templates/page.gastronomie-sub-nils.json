@@ -1,0 +1,235 @@
+{
+  "sections": {
+    "879e2243-103c-4df1-8fc9-178fad3be3ff": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/nilshenkel1.jpg",
+        "height": "fixed",
+        "height_desktop": 450,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p><br\/><\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "82223fa5-4e70-4b5d-9468-7541631087fe": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Nils Henkel",
+        "title_size": 34,
+        "heading_h1": false,
+        "text": "<p><strong>Mehrfach ausgezeichnet zum Koch des Jahres und Autor des 2-fach prämierten, vegetarischen Kochbuchs „Flora“<\/strong><br\/><strong><br\/><\/strong><br\/>Nils Henkel ist ein kulinarisches Ausnahmetalent und zählt seit vielen Jahren nicht nur zur absoluten Speerspitze der Kulinarik in Deutschland, sondern gilt auch als Pionier der modernen Gemüseküche. Seine naturverbundenen, farbenfrohen und frischen Kreationen orientieren sich an den Jahreszeiten und sind ein absoluter Hochgenuss für die Sinne. Seine Küche steht für nachhaltige, innovative und moderne Gerichte mit starkem Fokus auf Gemüse und schafft eine Symbiose aus regionaler und weltoffener Küche. Nils Henkel ist Küchenchef im Binger Hotel Papa Rhein.<\/p>",
+        "image": "shopify:\/\/shop_images\/logo-Nils-Henkel_02d4ef87-445a-4127-b23d-c5d8ba399b34.png",
+        "image_width": 150,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "ff0d6e28-d03d-4ea4-9000-3225a5635f7e": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "kolibri",
+        "title": "NILS HENKEL EMPFIEHLT:",
+        "title_size": 28,
+        "text": "<p>Nils Henkel steht mit seiner Pure Nature Küche für einen ganz eigenen Stil zu Kochen. Pur! – so, wie auch das Geschirr, auf dem seine modernen Kreatio- nen präsentiert werden. Hochwertiges, robustes Porzellan für extreme Be- lastbarkeit trifft auf Formenvielfalt. Der blau-grüne Schimmer und das auf das Wesentliche reduzierte Design vollendet die edel gedeckte Tafel. Die Geschirr- serie verfügt über alles, was sich Profi-Köche wünschen.<\/p>",
+        "button_label": "kolibri shoppen",
+        "button_link": "shopify:\/\/collections\/kolibri",
+        "text_alignment": "center",
+        "text_width": 50,
+        "button_style": "link",
+        "image": "shopify:\/\/shop_images\/nilshenkel3.jpg",
+        "image_width": 89,
+        "image_position": "left",
+        "media_size": "contain",
+        "color_scheme": "alt",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "d17f9623-facb-482d-9c4d-5e7234d98fac": {
+      "type": "testimonials",
+      "blocks": {
+        "template--19151082586436__d17f9623-facb-482d-9c4d-5e7234d98fac-16891717015a7962ed-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "title": "pure nature.",
+            "text": "<p>Nils Henkel setzt auf die mehrjährige Zusammenarbeit mit ASA Selection.Seine Kreationen und die von ASA Selection harmonieren perfekt miteinander. Simple things are beautiful – ein Leitspruch, der beide verbindet.<\/p>",
+            "button_label": "",
+            "link": "",
+            "image1": "shopify:\/\/shop_images\/MicrosoftTeams-image_29.jpg",
+            "image1_caption": "",
+            "image2": "shopify:\/\/shop_images\/nilshenkel2.jpg",
+            "image2_caption": "",
+            "layout": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--19151082586436__d17f9623-facb-482d-9c4d-5e7234d98fac-16891717015a7962ed-0"
+      ],
+      "settings": {
+        "title": "",
+        "button_style": "primary",
+        "alternate_bg_color": false
+      }
+    },
+    "168735718921e7e93e": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "skip_container": false
+      }
+    },
+    "468ea505-2b2a-4eb1-9432-d39a66c60ea0": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19268377051460__468ea505-2b2a-4eb1-9432-d39a66c60ea0-16891738027c7dcf66-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/25103250-Kolibri-topview.png",
+            "image_width": 700,
+            "title": "coupe gourmetteller mit\ttiefem spiegel",
+            "text": "<p>Der edle Gourmetteller mit einem Durchmesser von 24 cm und einer Höhe von 4,5 cm hat einen abgesenkten Spiegel, sodass sich die Sauce perfekt in der Tellermitte verteilt und ein absolut rundes und sauberes Bild bietet. Der blau-grüne Schimmer des hochglänzenden Porzellans scheint die Speisen förmlich schweben zu lassen.<\/p>",
+            "button_label": "jetzt shoppen",
+            "link": "shopify:\/\/products\/coupe-gourmetteller-kolibri"
+          }
+        },
+        "template--19268377051460__468ea505-2b2a-4eb1-9432-d39a66c60ea0-16891738027c7dcf66-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/25104250-Kolibri-topview.png",
+            "image_width": 700,
+            "title": "coupe gourmetteller mit\terhabenem spiegel",
+            "text": "<p>Das Mittelstück des Tellers liegt ein wenig höher, so können Sie Ihre Speisen mittig in der Sauce servieren, ohne dass diese darin ertrinken. Das schlichte Design passt zu allen Speisen und untermalt perfekt Ihre Kochtalente!<\/p>",
+            "button_label": "jetzt shoppen",
+            "link": "shopify:\/\/products\/coupe-gourmetteller-kolibri-1"
+          }
+        },
+        "template--19268377051460__468ea505-2b2a-4eb1-9432-d39a66c60ea0-16891738027c7dcf66-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/25101250-Kolibri-topview.png",
+            "image_width": 700,
+            "title": "coupe teller",
+            "text": "<p>Der edle Coupe Teller mit einem Durchmesser von 24 cm und einer Höhe von 4,5 cm bietet Ihren Speisen den idealen Rahmen, um Ihre Gäste zu begeistern. Die edel anmutende Geschirrserie kolibri hat einen hohen Gebrauchswert durch seine Stoßfestigkeit.<\/p>",
+            "button_label": "jetzt shoppen",
+            "link": "shopify:\/\/products\/coupe-teller-kolibri"
+          }
+        }
+      },
+      "block_order": [
+        "template--19268377051460__468ea505-2b2a-4eb1-9432-d39a66c60ea0-16891738027c7dcf66-0",
+        "template--19268377051460__468ea505-2b2a-4eb1-9432-d39a66c60ea0-16891738027c7dcf66-1",
+        "template--19268377051460__468ea505-2b2a-4eb1-9432-d39a66c60ea0-16891738027c7dcf66-2"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "left",
+        "button_style": "link",
+        "media_shape": "natural",
+        "alternate_bg_color": true,
+        "full_width": false
+      }
+    },
+    "0968d477-537a-49a5-b2af-1bbb7483c6ea": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19268377051460__0968d477-537a-49a5-b2af-1bbb7483c6ea-16891738027c7dcf66-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/nilshenkel4.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "template--19268377051460__0968d477-537a-49a5-b2af-1bbb7483c6ea-16891738027c7dcf66-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 700,
+            "title": "Kaisergranat",
+            "text": "<p>MELONE · KAMPOTPFEFFER · PUFFBOHNEN · ZITRONENVERVEINE <br\/><strong>Rezept für 4 Personen von Nils Henkel<\/strong><\/p><p><br\/><strong>Zutaten<\/strong><br\/>4 Kaisergranat 8\/12er Island <br\/>1⁄2 Wassermelone, kernarm <br\/>1 Charantaismelone <br\/>Olivenöl<br\/>Salz und roter Kampotpfeffer aus der Mühle <br\/>Zitronenverveine-Blätter, fein geschnitten <br\/>500g Erfurter Puffbohnen<br\/>12 Puffbohnenblüten<br\/>Verveineblättchen<\/p><p><br\/>Melonen-Pfeffersud:<br\/>500g Karkassen vom Hummer <br\/>20g Olivenöl<br\/>1 Schalotte<br\/>2 Champignons, weiß<br\/>1⁄2 Staudenselleriestange<br\/>500g Krustentierfond<br\/>12g Kampotpfeffer, rot<br\/>200g Melonenpüree<br\/>15g Zitronenverveine, frisch <br\/>20g Eiklar<br\/>Salz, Xanthan<\/p><p><\/p><p><\/p><p><\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19268377051460__0968d477-537a-49a5-b2af-1bbb7483c6ea-16891738027c7dcf66-0",
+        "template--19268377051460__0968d477-537a-49a5-b2af-1bbb7483c6ea-16891738027c7dcf66-1"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "left",
+        "button_style": "primary",
+        "media_shape": "natural",
+        "alternate_bg_color": false,
+        "full_width": false
+      }
+    },
+    "2ae0afe3-3366-4c37-8c44-1d0a812339a9": {
+      "type": "Awards",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "title_size": 48,
+        "heading_h1": false,
+        "text": "<p><strong>Zubereitung<\/strong><br\/>Die Kaisergranate aus der Schale brechen und den Darm entfernen. Die Karkassen für den Melonen-Pfeffersud verwenden. Die Melonen mit einem Parisienne-Ausstecher zu Kugeln ausstechen. Das verbleibende Melonenfleisch mit einem Löffel aus den Melo- nenschalen kratzen, mixen und für den Sud verwenden. Die Puffbohnen aus der Schale brechen und kurz in kochendem Salzwasser blanchieren, dann in Eiswasser abschrecken und aus den Häutchen pulen.<\/p><p><br\/><strong>Melonen-Pfeffersud<\/strong><br\/>Die Kaisergranatkarkassen in Olivenöl anschwitzen, die Schalotte, den Sellerie und die Champignons fein schneiden und zufügen. Den Krustentierfond und den zerstoßenen roten Kampotpfeffer zufügen und aufkochen. Den Fond etwa 20 Minuten köcheln lassen und dann durch ein feines Sieb passieren. Den Fond mit Melonenpüree, fein geschnittenem Zitronenverveine und Eiklar aufmixen und unter Rühren zum Kochen bringen. Etwa 20 Minuten ziehen lassen und durch ein Tuch passieren. Den klaren Fond nach Bedarf salzen und mit etwas Xanthan leicht binden.<\/p><p><br\/><strong>Anrichten<\/strong><br\/>Die Kaisergranatschwänze in Olivenöl anbraten und mit Salz und rotem Kampottpfeffer würzen. Die Melonenkugeln in Olivenöl an- schwitzen und mit Salz, Kampotpfeffer und fein geschnittenem Verveine abschmecken. Die Melone in tiefen Tellern anrichten und die Kaisergranatschwänze darauf platzieren. Die erwärmten Bohnenkerne zufügen, mit frischen Verveineblättchen und Bohnenblüten dekorieren. Den Melonen-Verveinesud angießen und servieren.<\/p><p><\/p><p><strong>Guten Appetit!<\/strong><\/p><p><br\/><a href=\"https:\/\/www.nils-henkel.com\/\" target=\"_blank\" title=\"https:\/\/www.nils-henkel.com\/\">nils-henkel.com<\/a><\/p><p><\/p>",
+        "image": "shopify:\/\/shop_images\/logo-Nils-Henkel_02d4ef87-445a-4127-b23d-c5d8ba399b34.png",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "secondary",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    }
+  },
+  "order": [
+    "879e2243-103c-4df1-8fc9-178fad3be3ff",
+    "main",
+    "82223fa5-4e70-4b5d-9468-7541631087fe",
+    "ff0d6e28-d03d-4ea4-9000-3225a5635f7e",
+    "d17f9623-facb-482d-9c4d-5e7234d98fac",
+    "168735718921e7e93e",
+    "468ea505-2b2a-4eb1-9432-d39a66c60ea0",
+    "0968d477-537a-49a5-b2af-1bbb7483c6ea",
+    "2ae0afe3-3366-4c37-8c44-1d0a812339a9"
+  ]
+}

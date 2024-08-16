@@ -1,0 +1,432 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "48d6bb17-650b-4dc5-9fc9-0f62a7567a31": {
+      "type": "background-video",
+      "settings": {
+        "video_shopify": "shopify:\/\/files\/videos\/asa-portugal_1.mp4",
+        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "subheading": "",
+        "title": "",
+        "title_size": 46,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "full_width": true,
+        "overlay_style_tint": true
+      }
+    },
+    "4716251e-4237-44e8-bf96-4bc86b0f6e71": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "Designed in germany",
+        "title": "made in portugal",
+        "title_size": 48,
+        "heading_h1": false,
+        "text": "<p>Verantwortung. Für uns mehr als nur ein Begriff. Seit mehr als 3 Jahrzehnten sehen wir es als selbstverständlich an, viele unserer Produkte in kleinen Familienbetrieben in Portugal zu produzieren. Die jahrelange, enge Zusammenarbeit sichert diesen Menschen ihren Lebensunterhalt. Mehr als je zuvor müssen wir heute aber auch Verantwortung für unsere Umwelt übernehmen. Der Behutsame Umgang mit Ressourcen steht für uns im Mittelpunkt. Die gesamte ASA Familie ist stolz, ihren Teil zum Schutz der Umwelt beitragen zu können.<\/p>",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "d7406305-e371-4fc7-a5c2-ef96f084b99f": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19237619335492__d7406305-e371-4fc7-a5c2-ef96f084b99f-168871795412ce1ce8-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "saisons",
+            "image": "shopify:\/\/shop_images\/saisons_sand_denim_midnight_c6460f4e-130a-4faf-b38a-42ef44e394ed.jpg"
+          }
+        },
+        "50b52672-5a39-44c4-8e93-540cc785b7f8": {
+          "type": "collection",
+          "settings": {
+            "collection": "saisons-almond-beluga",
+            "image": "shopify:\/\/shop_images\/saisons-almond-beluga-tischszene-top_05d4d4ec-90da-4b21-ad0f-68d1c98879a6.jpg"
+          }
+        },
+        "e7b6bbdd-7930-4e8d-a0d6-3a482d16dbb0": {
+          "type": "collection",
+          "settings": {
+            "collection": "formart",
+            "image": "shopify:\/\/shop_images\/FormArt-gobi-kitchenArt-brown_185d283e-6ef4-437b-aff3-35e6e1f29e71.jpg"
+          }
+        },
+        "c401f06d-d810-4235-b744-0154aafc0280": {
+          "type": "collection",
+          "settings": {
+            "collection": "250degc-plus",
+            "image": "shopify:\/\/shop_images\/250Grad-runde-Formen.jpg"
+          }
+        },
+        "2ff772ef-281c-49be-b9d6-0de0630cd494": {
+          "type": "collection",
+          "settings": {
+            "collection": "poke-bowls",
+            "image": "shopify:\/\/shop_images\/poke_more_4aadfca1-6490-4c8e-a9f6-1c928f900c10.jpg"
+          }
+        },
+        "template--19237619335492__d7406305-e371-4fc7-a5c2-ef96f084b99f-168871795412ce1ce8-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "grande",
+            "image": "shopify:\/\/shop_images\/grande_d9ccb3df-e002-4e7e-9611-1c3dbd7cedec.jpg"
+          }
+        },
+        "cdae7bf1-2844-4230-b4f8-f38ee56f9eb3": {
+          "type": "collection",
+          "settings": {
+            "collection": "verana",
+            "image": "shopify:\/\/shop_images\/Verana-cappucino-blueberry_782a4fc9-c68f-43c3-825c-936008be4137.jpg"
+          }
+        },
+        "cff89380-42ec-4d85-93ff-fdf9f6f86414": {
+          "type": "collection",
+          "settings": {
+            "collection": "re-glaze",
+            "image": "shopify:\/\/shop_images\/reglaze-gedeckterTisch_ac1d0da4-192f-4c70-8b31-6e1de094c0dd.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "template--19237619335492__d7406305-e371-4fc7-a5c2-ef96f084b99f-168871795412ce1ce8-0",
+        "50b52672-5a39-44c4-8e93-540cc785b7f8",
+        "e7b6bbdd-7930-4e8d-a0d6-3a482d16dbb0",
+        "c401f06d-d810-4235-b744-0154aafc0280",
+        "2ff772ef-281c-49be-b9d6-0de0630cd494",
+        "template--19237619335492__d7406305-e371-4fc7-a5c2-ef96f084b99f-168871795412ce1ce8-2",
+        "cdae7bf1-2844-4230-b4f8-f38ee56f9eb3",
+        "cff89380-42ec-4d85-93ff-fdf9f6f86414"
+      ],
+      "settings": {
+        "title": "einzigartiges geschirr made in portugal",
+        "layout": "carousel",
+        "grid": 4,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "alternate_bg_color": true
+      }
+    },
+    "a997f78a-a841-4716-a603-72b1f7a7f01a": {
+      "type": "gallery",
+      "blocks": {
+        "template--19227140227396__a997f78a-a841-4716-a603-72b1f7a7f01a-168856273687fa4b26-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/handbemalte-keramik-aus-portugal-editorial-fotostory-fotoreportage-neon-fotografie_1280x1280_2x_e174a6cf-6e36-48e4-bd71-000fca76eb88.webp",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--19227140227396__a997f78a-a841-4716-a603-72b1f7a7f01a-168856273687fa4b26-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Historie_2_neu_800x800-2x.jpg",
+            "video_external": "",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--top"
+          }
+        },
+        "template--19227140227396__a997f78a-a841-4716-a603-72b1f7a7f01a-168856273687fa4b26-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bearbeiten-von-keramikformen-asa-produktion-portugal-stimmungsvolle-fotoreportage-neon-fotografie_1280x1280_2x_70c98e40-29fa-4055-99c9-8cbb996239a1.webp",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        }
+      },
+      "block_order": [
+        "template--19227140227396__a997f78a-a841-4716-a603-72b1f7a7f01a-168856273687fa4b26-2",
+        "template--19227140227396__a997f78a-a841-4716-a603-72b1f7a7f01a-168856273687fa4b26-1",
+        "template--19227140227396__a997f78a-a841-4716-a603-72b1f7a7f01a-168856273687fa4b26-0"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 3,
+        "desktop_image_height": 400,
+        "mobile_image_height": 400,
+        "title_size": 34,
+        "enable_margin": false,
+        "full_width": true,
+        "enable_carousel": true,
+        "overlay_style_tint": false,
+        "alternate_bg_color": false
+      }
+    },
+    "b0a99163-adc9-4a5b-a8f0-7f2b973ea421": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image_2021_07_02T15_59_52_110Z.jpg",
+        "height": "fixed",
+        "height_desktop": 450,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "Einzigartige Keramik aus Portugal",
+        "title_size": 50,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "9697d299-55c0-4702-873b-b0c80e200439": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "made in Portugal",
+        "title": "Designed in Germany,",
+        "title_size": 40,
+        "text": "<p>Verantwortung. Für uns mehr als nur ein Begriff. Seit mehr als 3 Jahrzehnten sehen wir es als selbstverständlich an, viele unserer Produkte in kleinen Familienbetrieben in Portugal zu produzieren. Die jahrelange, enge Zusammenarbeit sichert diesen Menschen ihren Lebensunterhalt. Mehr als je zuvor müssen wir heute aber auch Verantwortung für unsere Umwelt übernehmen. Der Behutsame Umgang mit Ressourcen steht für uns im Mittelpunkt. Die gesamte ASA Familie ist stolz, ihren Teil zum Schutz der Umwelt beitragen zu können.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "center",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/Historie_2_neu_800x800-2x.jpg",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "cover",
+        "color_scheme": "alt",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "9bd6b489-bdf7-44c8-9e19-8e93fe719cfd": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19237619335492__9bd6b489-bdf7-44c8-9e19-8e93fe719cfd-168871795412ce1ce8-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "como",
+            "image": "shopify:\/\/shop_images\/Como-Cream_c982cd37-aaa4-436d-b457-7df92ab41e3c.jpg"
+          }
+        },
+        "template--19237619335492__9bd6b489-bdf7-44c8-9e19-8e93fe719cfd-168871795412ce1ce8-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "art-deco",
+            "image": "shopify:\/\/shop_images\/artdeco_0668543c-c3c3-49b3-9b63-4f270561d00e.jpg"
+          }
+        },
+        "2f74147f-0a28-414b-809d-4aa0fa761f70": {
+          "type": "collection",
+          "settings": {
+            "collection": "stone",
+            "image": "shopify:\/\/shop_images\/stone.jpg"
+          }
+        },
+        "f66e8301-28a0-4273-ba61-609fa9734d4e": {
+          "type": "collection",
+          "settings": {
+            "collection": "ease",
+            "image": "shopify:\/\/shop_images\/ease.jpg"
+          }
+        },
+        "23588e30-0b71-4a6d-9cde-b2c3fab829e8": {
+          "type": "collection",
+          "settings": {
+            "collection": "florea",
+            "image": "shopify:\/\/shop_images\/florea_80e325ea-739d-4679-bf30-5914f2f3fc18.jpg"
+          }
+        },
+        "aa6521a8-bb8c-4515-977a-4a78f4c018de": {
+          "type": "collection",
+          "settings": {
+            "collection": "swing",
+            "image": "shopify:\/\/shop_images\/swing_421b2fef-d611-4f4c-9bff-771b6f47cddc.jpg"
+          }
+        },
+        "4d3305a5-7b73-4107-997d-eb8bb19350c0": {
+          "type": "collection",
+          "settings": {
+            "collection": "quadro",
+            "image": "shopify:\/\/shop_images\/quadro_a5264bb2-4593-4add-835b-e1a2f9d98a0d.jpg"
+          }
+        },
+        "09217cd3-c9f5-4d07-bedb-827483c1cb61": {
+          "type": "collection",
+          "settings": {
+            "collection": "bruna"
+          }
+        }
+      },
+      "block_order": [
+        "template--19237619335492__9bd6b489-bdf7-44c8-9e19-8e93fe719cfd-168871795412ce1ce8-0",
+        "template--19237619335492__9bd6b489-bdf7-44c8-9e19-8e93fe719cfd-168871795412ce1ce8-2",
+        "2f74147f-0a28-414b-809d-4aa0fa761f70",
+        "f66e8301-28a0-4273-ba61-609fa9734d4e",
+        "23588e30-0b71-4a6d-9cde-b2c3fab829e8",
+        "aa6521a8-bb8c-4515-977a-4a78f4c018de",
+        "4d3305a5-7b73-4107-997d-eb8bb19350c0",
+        "09217cd3-c9f5-4d07-bedb-827483c1cb61"
+      ],
+      "settings": {
+        "title": "interior made in portugal",
+        "layout": "carousel",
+        "grid": 4,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "alternate_bg_color": true
+      }
+    },
+    "bababe60-eaf1-4350-96bb-5dd6504a8e86": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".overlay-type .line-2 {background-color: #fff; opacity: 0.9; color: #222; padding: 3%; font-size: 1em;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/meerbessereauflo-sungobffeVOSNUz2d.jpg",
+        "height": "natural",
+        "height_desktop": 450,
+        "height_mobile": 400,
+        "subheading": "Unser Versprechen",
+        "title": "Fair, Nachhaltig, Einzigartig",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p>Mit Hilfe unseres portugiesischen Partners verbessern wir kontinuierlich unsere Produktion und leisten unseren Beitrag für eine <strong>nachhaltige Zukunft<\/strong>:<br\/><br\/><br\/>Wassertrennung und -aufbereitung<br\/><br\/>Photovoltaik als Energiequelle der Fabrik<br\/><br\/>Gebrauch von Recycling Karton<br\/><br\/>Gebrauch von Naturfaser Tüten, die sich zersetzen und wiederverwendbar sind<br\/><br\/>Trennung und Recycling von allen Materialien und Abfällen<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "8b7ff23d-8e5f-4893-88c1-74b435c0718d": {
+      "type": "gallery",
+      "blocks": {
+        "d5078d40-caf6-4c7e-9d7b-88140972ad9b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Slider_Bild3-new-1.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--19237619335492__8b7ff23d-8e5f-4893-88c1-74b435c0718d-1688723982b088c0b5-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--19237619335492__8b7ff23d-8e5f-4893-88c1-74b435c0718d-1688723982b088c0b5-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--19237619335492__8b7ff23d-8e5f-4893-88c1-74b435c0718d-1688723982b088c0b5-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Slider_Bild1-new.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        }
+      },
+      "block_order": [
+        "d5078d40-caf6-4c7e-9d7b-88140972ad9b",
+        "template--19237619335492__8b7ff23d-8e5f-4893-88c1-74b435c0718d-1688723982b088c0b5-0",
+        "template--19237619335492__8b7ff23d-8e5f-4893-88c1-74b435c0718d-1688723982b088c0b5-2",
+        "template--19237619335492__8b7ff23d-8e5f-4893-88c1-74b435c0718d-1688723982b088c0b5-1"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 3,
+        "desktop_image_height": 400,
+        "mobile_image_height": 400,
+        "title_size": 44,
+        "enable_margin": false,
+        "full_width": true,
+        "enable_carousel": true,
+        "overlay_style_tint": true,
+        "alternate_bg_color": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "48d6bb17-650b-4dc5-9fc9-0f62a7567a31",
+    "4716251e-4237-44e8-bf96-4bc86b0f6e71",
+    "d7406305-e371-4fc7-a5c2-ef96f084b99f",
+    "a997f78a-a841-4716-a603-72b1f7a7f01a",
+    "b0a99163-adc9-4a5b-a8f0-7f2b973ea421",
+    "9697d299-55c0-4702-873b-b0c80e200439",
+    "9bd6b489-bdf7-44c8-9e19-8e93fe719cfd",
+    "bababe60-eaf1-4350-96bb-5dd6504a8e86",
+    "8b7ff23d-8e5f-4893-88c1-74b435c0718d"
+  ]
+}

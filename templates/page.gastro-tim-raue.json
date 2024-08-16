@@ -1,0 +1,252 @@
+{
+  "sections": {
+    "879e2243-103c-4df1-8fc9-178fad3be3ff": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Koi-Desserteller.jpg",
+        "height": "fixed",
+        "height_desktop": 450,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p><br\/><\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "82223fa5-4e70-4b5d-9468-7541631087fe": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Tim Raue",
+        "title_size": 34,
+        "heading_h1": false,
+        "text": "<p><strong>The World‘s 50 Best Restaurants 2022: #26 | Gault Millau 2022: 5 Hauben | <br\/>Guide Michelin 2021: 2 Sterne<br\/><\/strong><br\/>Tim Raue ist einer der bekanntesten Sterneköche des Landes. Kein Wunder, dass sein Restaurant längst zu den besten der Welt zählt. Als Unternehmer und Spitzenkoch führt Tim Raue das mit zwei Michelin Sternen und 5 Hauben ausgezeichnete Restaurant TIM RAUE, das als einziges deutsche Restaurant in den Top 50 der „The World´s 50 Best Restaurants“ Liste vertreten ist. Im Restaurant TIM RAUE wird eine asiatisch inspirierte Küche serviert, die als Verbindung der japanischen Produktperfektion, der thailändischen Aromatik und der chinesischen Küchenphilosophie charakterisiert werden kann.<br\/><\/p>",
+        "image": "shopify:\/\/shop_images\/tim-raue-restaurant-logo-koi.png",
+        "image_width": 150,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "ff0d6e28-d03d-4ea4-9000-3225a5635f7e": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "koi",
+        "title": "TIM RAUE EMPFIEHLT:",
+        "title_size": 28,
+        "text": "<p>Der Koi repräsentiert Stärke, Ausdauer und Strebsamkeit. Die gleichnamige Kollektion aus robustem Porzellan wurde passend zu Tim Raues stilprägendsten asiatisch inspirierten Gerichten der letzten Jahre entwickelt. Lebendig, organisch und frühlingshaft wirkt die per Hand aufgesprühte, von Hellgelb ins kräftige Gelb verlaufende Farbglasur. Die Frische Farbe verleiht dem Geschirr eine besondere Leichtigkeit, welche die feinen Speisen im Restaurant Tim Raue zusätzlich unterstreicht. <\/p>",
+        "button_label": "koi shoppen",
+        "button_link": "shopify:\/\/collections\/koi",
+        "text_alignment": "center",
+        "text_width": 50,
+        "button_style": "link",
+        "image": "shopify:\/\/shop_images\/Koi-Buddha-Bowl_d60de9bf-56c9-4009-8b4b-cfc1e6876e33.jpg",
+        "image_width": 100,
+        "image_position": "left",
+        "media_size": "cover",
+        "color_scheme": "alt",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "d17f9623-facb-482d-9c4d-5e7234d98fac": {
+      "type": "testimonials",
+      "blocks": {
+        "template--19151082586436__d17f9623-facb-482d-9c4d-5e7234d98fac-16891717015a7962ed-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "title": "inspired.",
+            "text": "<p>Inspiriert von der Welt hat Tim Raue bereits zwei Kollektionen, kolibri und koi, gemeinsam mit unseren kreativen Designern entwickelt. Wir sind stolz, dass Tim Raue seine kulinarischen Konzepte und Ideen mit ASA Selection umsetzt und unsere Kreativität sowie Professionalität schätzt.<\/p>",
+            "button_label": "",
+            "link": "",
+            "image1": "shopify:\/\/shop_images\/Koi-Tim-Raue-portrait.jpg",
+            "image1_caption": "",
+            "image2": "shopify:\/\/shop_images\/inspired.png",
+            "image2_caption": "",
+            "layout": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--19151082586436__d17f9623-facb-482d-9c4d-5e7234d98fac-16891717015a7962ed-0"
+      ],
+      "settings": {
+        "title": "",
+        "button_style": "primary",
+        "alternate_bg_color": false
+      }
+    },
+    "168735718921e7e93e": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "skip_container": false
+      }
+    },
+    "468ea505-2b2a-4eb1-9432-d39a66c60ea0": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19268377051460__468ea505-2b2a-4eb1-9432-d39a66c60ea0-16891738027c7dcf66-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/14140199-Koi-Dessertteller-topview1.png",
+            "image_width": 700,
+            "title": "koi desserteller, 19 cm",
+            "text": "<p>Dessertteller aus robustem Porzellan mit natürlicher Form und Farbe, die von Hand aufgetragen<br\/>wurde. Der Farbverlauf präsentiert feine Speisen so ausdrucksstark wie möglich.<\/p>",
+            "button_label": "jetzt shoppen",
+            "link": "shopify:\/\/products\/dessertteller-koi-by-tim-raue"
+          }
+        },
+        "template--19268377051460__468ea505-2b2a-4eb1-9432-d39a66c60ea0-16891738027c7dcf66-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/14160199-Koi-Essteller-topview1.png",
+            "image_width": 700,
+            "title": "koi essteller, 25 cm",
+            "text": "<p>Wunderbar in Form, Farbe und Glanz gebracht, animiert dieser Essteller zum Träumen:<br\/>Von natürlichen Aromen, Kräutern und Zitrusnoten, von der reflektierenden Sonne, von Schärfe und Säure.<\/p>",
+            "button_label": "jetzt shoppen",
+            "link": "shopify:\/\/products\/essteller-koi-by-tim-raue"
+          }
+        },
+        "template--19268377051460__468ea505-2b2a-4eb1-9432-d39a66c60ea0-16891738027c7dcf66-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/14250199-Koi-Pastaschale1.png",
+            "image_width": 700,
+            "title": "pastaschale, 19 cm",
+            "text": "<p>Da kommt Freude auf: Die Gerichte in dieser Pasta- und Suppenschale scheinen zu strahlen – ganz egal, ob es dabei um die Sterneküche oder um das satt werden geht. <\/p>",
+            "button_label": "jetzt shoppen",
+            "link": "shopify:\/\/products\/pasta-suppenschale-koi-by-tim-raue"
+          }
+        }
+      },
+      "block_order": [
+        "template--19268377051460__468ea505-2b2a-4eb1-9432-d39a66c60ea0-16891738027c7dcf66-0",
+        "template--19268377051460__468ea505-2b2a-4eb1-9432-d39a66c60ea0-16891738027c7dcf66-1",
+        "template--19268377051460__468ea505-2b2a-4eb1-9432-d39a66c60ea0-16891738027c7dcf66-2"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "left",
+        "button_style": "link",
+        "media_shape": "natural",
+        "alternate_bg_color": true,
+        "full_width": false
+      }
+    },
+    "8c6cf05e-9b91-4e60-b448-a29d46231b8f": {
+      "type": "video",
+      "settings": {
+        "video_external": "https:\/\/youtu.be\/LV27-g4Nm9o",
+        "image": "shopify:\/\/shop_images\/tim-thumbnail.jpg",
+        "subheading": "",
+        "video_title": "",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "overlay_style_tint": false
+      }
+    },
+    "0968d477-537a-49a5-b2af-1bbb7483c6ea": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19268377051460__0968d477-537a-49a5-b2af-1bbb7483c6ea-16891738027c7dcf66-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/spaetzle_maengisch-timraue.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "template--19268377051460__0968d477-537a-49a5-b2af-1bbb7483c6ea-16891738027c7dcf66-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 450,
+            "title": "Spätzle & Mängisch",
+            "text": "<p><strong>Tims‘s Lieblingsrezept für 4 Personen <\/strong><br\/><\/p><p><strong>Zutaten<br\/><\/strong><\/p><p><strong>Spätzle: <\/strong><br\/>500 g Mehl, gesiebt<br\/>6 Eier<br\/>200 ml Milch<br\/>20 g Butter<br\/>Salz<br\/>Butter zum Anbraten<\/p><p><strong>Schluppen:<\/strong><br\/>2 Frühlingszwiebeln<\/p><p><strong>Geschmolzene Zwiebel:<\/strong><br\/>80 g Schalotten<br\/>30 g Butter<br\/>Salz<\/p><p><strong>Anrichten:<\/strong><br\/>120 g Mängisch (Rohmilch-Bergkäse aus dem Allgäu), gerieben zum Überbacken<br\/>40 g Preiselbeeren<br\/>Frischer grüner Thaipfeffer<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19268377051460__0968d477-537a-49a5-b2af-1bbb7483c6ea-16891738027c7dcf66-0",
+        "template--19268377051460__0968d477-537a-49a5-b2af-1bbb7483c6ea-16891738027c7dcf66-1"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "left",
+        "button_style": "primary",
+        "media_shape": "natural",
+        "alternate_bg_color": false,
+        "full_width": false
+      }
+    },
+    "2ae0afe3-3366-4c37-8c44-1d0a812339a9": {
+      "type": "Awards",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "title_size": 48,
+        "heading_h1": false,
+        "text": "<p><em>„Käsespätzle hatte ich das erste Mal als Achtjähriger, ich hatte das Vergnügen, zwei Jahre lang südlich von Stuttgart zu wohnen, und neben meiner Zuneigung für den Fußballer Karl-Heinz Förster ist die Liebe zu Käsespätzle das Prägendste, das mir geblieben ist. Die Preiselbeeren bringen ein feines Süße-Säurespiel in diese Kalorienbombe.“ <\/em><\/p><p><br\/><\/p><p><strong>Zubereitung<\/strong><\/p><p><strong>Spätzle<\/strong><\/p><p>Alle Zutaten zu einem glatten Teig vermengen und schlagen, bis er Blasen schlägt. Dann 20 Minuten ruhen lassen. Den Teig vom Brett schaben oder mithilfe einer Spätzlepresse in leicht kochendes Salzwasser geben, garen und in Eiswasser abschrecken. Mit etwas Butter in einer Pfanne hellbraun anbraten.<\/p><p><strong>Schluppen<\/strong><\/p><p>Die Frühlingszwiebeln waschen, der Länge nach halbieren und nochmals quer halbieren.<\/p><p><strong>Geschmolzene Zwiebel<\/strong><\/p><p>Die Schalotten schälen und in Ringe schneiden. Mit der Butter in einer Pfanne bei schwacher Hitze glasig schwitzen und leicht salzen.<\/p><h3>Guten Appetit!<\/h3><p><a href=\"https:\/\/tim-raue.com\/\" target=\"_blank\" title=\"https:\/\/tim-raue.com\/\">tim-raue.com<\/a><\/p><p><br\/><\/p><p>Aus dem Buch: <br\/>„Deutscher Wein und deutsche Küche“ <br\/>von Tim Raue und Paula Bosch,<br\/>Callwey-Verlag<\/p><p><\/p>",
+        "image": "shopify:\/\/shop_images\/tim-raue-restaurant-logo-koi.png",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "https:\/\/jens-rittmeyer.de",
+        "button_style": "secondary",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": true,
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    }
+  },
+  "order": [
+    "879e2243-103c-4df1-8fc9-178fad3be3ff",
+    "main",
+    "82223fa5-4e70-4b5d-9468-7541631087fe",
+    "ff0d6e28-d03d-4ea4-9000-3225a5635f7e",
+    "d17f9623-facb-482d-9c4d-5e7234d98fac",
+    "168735718921e7e93e",
+    "468ea505-2b2a-4eb1-9432-d39a66c60ea0",
+    "8c6cf05e-9b91-4e60-b448-a29d46231b8f",
+    "0968d477-537a-49a5-b2af-1bbb7483c6ea",
+    "2ae0afe3-3366-4c37-8c44-1d0a812339a9"
+  ]
+}

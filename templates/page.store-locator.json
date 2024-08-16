@@ -1,0 +1,14 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        ".central {width: 1200px;}"
+      ],
+      "settings": {}
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

@@ -1,0 +1,70 @@
+
+                                        {% assign selectedVariant = product.selected_or_first_available_variant %}
+                                        {%- assign moneyformat = shop.money_format | split: "{{" | last | remove: "}}" | strip | strip_html -%}
+                                        {% assign saleAmount = 0 %}	
+                                        {% assign salePercent = 0 %}
+                                        {% if selectedVariant.price and selectedVariant.compare_at_price %}
+                                            {% assign saleAmount = selectedVariant.compare_at_price | minus: selectedVariant.price %}
+                                            {% if saleAmount > 0 %}
+                                              {% assign divisor = selectedVariant.compare_at_price  | times: 1.0 %}
+                                              {% assign salePercent = selectedVariant.compare_at_price | minus: selectedVariant.price | divided_by: divisor  | times: 100.0 | round %}
+                                           {% endif %}
+                                        {% endif %}
+                                        {% capture variantData %}
+                                        {
+                                          "id": "{{ selectedVariant.id }}",
+                                          "title": "{{ selectedVariant.title | escape }}",
+                                          "available": "{{ selectedVariant.available }}",
+                                          "inventory_management": "{{ selectedVariant.inventory_management }}",
+                                          "inventory_policy": "{{ selectedVariant.inventory_policy }}",
+                                          "inventory_quantity": "{{ selectedVariant.inventory_quantity | default: 0 }}",
+                                          "price": "{{ selectedVariant.price }}",
+                                          "compare_at_price": "{{ selectedVariant.compare_at_price }}",
+                                          "unit_price": "{{ selectedVariant.unit_price }}",
+                                          "weight": "{{ selectedVariant.weight }}",
+                                          "weight_in_unit": "{{ selectedVariant.weight_in_unit }}",
+                                          "weight_unit": "{{ selectedVariant.weight_unit }}",
+                                          "saleAmount": "{{saleAmount | money | replace: '"', "'"}}",
+                                          "salePercent": "{{ salePercent }}"
+                                        }
+                                        {% endcapture %}
+                                        {% assign stOnSale = 0 %}
+                                        {% for variant in product.variants %}
+                                            {% if variant.compare_at_price > variant.price %}
+                                              {% assign stOnSale = 1 %}
+                                            {% endif %}
+                                        {% endfor %}
+                                        {% assign stInventory = 0 %}
+                                        {% for variant in product.variants %}
+                                            {% if variant.available and variant.inventory_management != null and variant.inventory_quantity > 0 %}
+                                              {% assign stInventory = stInventory | plus: variant.inventory_quantity %}
+                                            {% endif %}
+                                          {% if variant.available and variant.inventory_management == null %}
+                                              {% assign stInventory = stInventory | plus: 0 %}
+                                            {% endif %}
+                                        {% endfor %}
+                                        {% capture stCollections %}
+                                            {% for collection in product.collections %}{{ collection.id }},{% endfor %}
+                                        {% endcapture %}
+                                        {% capture stTags %}
+                                            {% for tag in product.tags %}{{ tag }},{% endfor %}
+                                        {% endcapture %}
+                                        <div data-app="shine-trust" 
+                                          data-variant="{{ variantData |strip| base64_encode }}" 
+                                          data-created-at="{{ product.created_at | date: "%Y-%m-%d %H:%M:%S" }}" 
+                                          data-on-sale="{{ stOnSale }}" 
+                                          data-inventory="{{ stInventory }}"
+                                          data-collections="{{ stCollections | strip }}"
+                                          data-tags="{{ stTags | strip }}"
+                                          data-title="{{ product.title | replace: "'", "&#x27;" }}"
+                                          data-id="{{ product.id }}"
+                                          data-available="{{ product.available }}"
+                                          data-handle="{{ product.handle }}"
+                                          data-price="{% if use %}{{ use.price }}{% else %}{{ product.price }}{% endif %}"
+                                          data-price-min="{{ product.price_min }}"
+                                          data-price-max="{{ product.price_max }}"
+                                          data-compare-at-price="{% if use %}{{ use.compare_at_price }}{% else %}{{ product.compare_at_price }}{% endif %}"
+                                          data-vendor="{{ product.vendor}}"
+                                          data-type="{{ product.type }}"
+                                          ></div>
+                                        

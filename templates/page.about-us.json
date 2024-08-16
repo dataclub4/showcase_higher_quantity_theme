@@ -1,0 +1,321 @@
+{
+  "sections": {
+    "animation_txMr4P": {
+      "type": "Animation",
+      "settings": {
+        "enable_animations": true
+      }
+    },
+    "b0a99163-adc9-4a5b-a8f0-7f2b973ea421": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/aboutasa-header.jpg",
+        "height": "fixed",
+        "height_desktop": 450,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "simple things are beautiful",
+        "title_size": 56,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "d3e11267-770b-47c1-8728-4bca2bddbd6b": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "über ASA",
+        "title_size": 38,
+        "heading_h1": false,
+        "text": "<p><strong>Klare Formen. Klare Farben.<\/strong> ASA SELECTION wurde 1976 in Höhr-Grenzhausen, Deutschland, von der Designerin Yvonne Schubkegel als Vertriebsgesellschaft für keramische Wohnaccessoires gegründet und gehört heute zu den Führenden der Branche. Mit immer neuen Innovationen deckt das Unternehmen die Märkte weltweit ab und ist in über 80 Ländern, teils mit eigenen Vertriebsbüros, vertreten.<\/p><p>Das Erfolgsrezept der Gründerin ist die Ausrichtung einer konsequenten Philosophie von „klaren Formen und Farben“ von Beginn an. Unkonventionell und ohne Schnörkel, Gefühl für Trends und den Zeitgeist, so zeichnen sich die Kollektionen des Hauses aus und genießen einen hervorragenden Ruf. Die ASA SELECTION Kollektionen stehen für ein modernes Design. Für authentische Produkte in den Lebensbereichen Küche, gedeckter Tisch und Wohnen. Unverwechselbares Kennzeichen, über alle Produktlinien hinweg, ist die konsequent schlichte ASA SELECTION Formensprache.<\/p>",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "color_scheme": "custom",
+        "color_bg": "#f8f8f8",
+        "color_text": "#212121"
+      }
+    },
+    "28177e53-caa0-4366-a214-dc052cbd0d86": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19071811027268__28177e53-caa0-4366-a214-dc052cbd0d86-1688047218e1235ee2-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 700,
+            "title": "Simple things are beautiful",
+            "text": "<p>Unser Anspruch ist nicht der nach Vollkommenheit, nach dem einzigen „großen Wurf“. Viel mehr ist es der nie endende Versuch den schlichten alltäglichen Dingen immer etwas Geradlinigkeit und Klarheit in ein kompliziertes Leben mit zu geben. Wenn man so will, Purismus mit Poesie. Mit viel menschlicher Wärme und Emotion. „simple things are beautiful – das Schöne liegt im Einfachen.“ Unser Claim für unser Label. Unser Leben. Unseren Anspruch. Gelebte Markenphilosophie.<\/p><p><\/p><p><strong>only enjoy with people you like!<\/strong><br\/>Als familiengeführtes Unternehmen in zweiter Generation sehen wir Respekt, Verantwortung, Beständigkeit und Treue gegenüber Mitarbeitern und Partnern als selbstverständlich an. Achtsamer Umgang und ähnliche Ansichten in Design und Leben verbinden unsere Passion. Leidenschaft, Wärme und Emotion ohne die es weder im Handwerk noch in der Familie funktioniert.<\/p><p>Wir leben dieses Familiengefühl im täglichen Umgang miteinander. Jeden Mittag sitzen wir in unserer Küche nah beieinander, lernen die Tischnachbarn zwischen Pasta und Gemüse kennen. Essen, lachen und leben uns zusammen. Schlicht. Einfach. Menschlich. Und wir widmen diesem „we are family“-Gefühl jährlich einen Partnerevent in unserem Haus. Die ASA-GENUSS-& MARKENTAGE sind gelebtes Networking. Ein „Cometogether“ der Branche rund um den gedeckten Tisch, Küche und Haushalt. Hier präsentieren bis zu 20 bedeutende Marken innovative Konzepte, Design und funktionelle Lösungen. Ein Highlight für Genuss und Lebensfreude mit Gast-Sterne-Chefs und Vertretern der Hoch-Gastronomie.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "template--19071811027268__28177e53-caa0-4366-a214-dc052cbd0d86-1688047218e1235ee2-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/aboutus1_800x800_2x_a034e142-208f-406b-9d5a-634cb327fea7.webp",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "template--19071811027268__28177e53-caa0-4366-a214-dc052cbd0d86-1688047218e1235ee2-2": {
+          "type": "text_block",
+          "disabled": true,
+          "settings": {
+            "enable_image": true,
+            "image_width": 700,
+            "title": "Column",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19071811027268__28177e53-caa0-4366-a214-dc052cbd0d86-1688047218e1235ee2-0",
+        "template--19071811027268__28177e53-caa0-4366-a214-dc052cbd0d86-1688047218e1235ee2-1",
+        "template--19071811027268__28177e53-caa0-4366-a214-dc052cbd0d86-1688047218e1235ee2-2"
+      ],
+      "settings": {
+        "title": "Philosophie",
+        "text_alignment": "left",
+        "button_style": "primary",
+        "media_shape": "natural",
+        "alternate_bg_color": false,
+        "full_width": false
+      }
+    },
+    "a4ce2973-5156-479d-8cd0-be0a7a720474": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "produktion",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p>Wir halten unsere Produktionsstandorte größtenteils in typischen Keramikregionen. Neben Produktionen in Osteuropa und Fernost, fertigen drei Betriebe in Portugal ausschließlich Produkte, die das Marken-Logo ASA SELECTION tragen. Jahrzehntelange Zusammenarbeit mit den gleichen Produktionsbetrieben – nur so lässt sich Qualität nachhaltig auf höchstem Niveau garantieren und sichert gleichzeitig zuverlässig die Existenz vieler hundert Familien. Die ASA SELECTION Expertise in Keramik beginnt vor mehr als 40 Jahren. Seit dem hat sich vieles verändert, unsere Einstellung zu Mensch und Handwerk nicht.<\/p>",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": true,
+        "color_scheme": "alt",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "dc5a2cb1-ee27-4843-86ff-6c044311af73": {
+      "type": "gallery",
+      "blocks": {
+        "template--19071811027268__dc5a2cb1-ee27-4843-86ff-6c044311af73-1688049607e15610fc-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Slider_Bild3-new-1.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--19071811027268__dc5a2cb1-ee27-4843-86ff-6c044311af73-1688049607e15610fc-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--19071811027268__dc5a2cb1-ee27-4843-86ff-6c044311af73-1688049607e15610fc-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Slider_Bild1-new.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "451aaf31-41da-4b42-81dc-44cca64bea5e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        }
+      },
+      "block_order": [
+        "template--19071811027268__dc5a2cb1-ee27-4843-86ff-6c044311af73-1688049607e15610fc-0",
+        "template--19071811027268__dc5a2cb1-ee27-4843-86ff-6c044311af73-1688049607e15610fc-1",
+        "template--19071811027268__dc5a2cb1-ee27-4843-86ff-6c044311af73-1688049607e15610fc-2",
+        "451aaf31-41da-4b42-81dc-44cca64bea5e"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 4,
+        "desktop_image_height": 300,
+        "mobile_image_height": 400,
+        "title_size": 44,
+        "enable_margin": true,
+        "full_width": false,
+        "enable_carousel": true,
+        "overlay_style_tint": true,
+        "alternate_bg_color": true
+      }
+    },
+    "8498ed98-7d06-4f68-bbd8-d36f62cb08b9": {
+      "type": "video",
+      "settings": {
+        "video_shopify": "shopify:\/\/files\/videos\/asa-portugal_1.mp4",
+        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "subheading": "",
+        "video_title": "Produktion",
+        "title_size": 50,
+        "heading_h1": false,
+        "text": "<p>Fair, nachhaltig, handgefertigt<\/p>",
+        "enlarge_text": false,
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": false,
+        "overlay_style_tint": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "313d4821-a78b-4c68-a0a9-9c089049ca62": {
+      "type": "Awards",
+      "settings": {
+        "subheading": "",
+        "title": "Awards",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p>Ein Großteil der Geschirre und Wohnaccessoires wird handwerklich in Porzellan- und Keramikmanufakturen hergestellt. Somit ist fast jedes Teil ein handgefertigtes Unikat. Unser Ziel ist es mit klarem Design und nachhaltiger Produktion Lebensfreude zu fördern. So entstehen Produkte mit Charakter und Persönlichkeit. Wir freuen uns sehr, dass dieses „Marken-Zeichen“ immer wieder mit Internationalen Awards gewürdigt wird.<\/p><p>Neben den Auszeichnungen für gutes Design sind wir ganz besonders stolz auf die Prämierung GERMAN BRAND AWARD 2022 für erfolgreiche Markenführung in Deutschland.<\/p><p><\/p><p><\/p>",
+        "image": "shopify:\/\/shop_images\/awardlogosaboutussxrwZTDi4CYF0_2240x2240_2x_8d2fa2e4-e869-42f2-8b46-62837fe9cf5d.png",
+        "image_width": 700,
+        "button_label": "Alle Auszeichnungen ansehen",
+        "button_link": "shopify:\/\/pages\/awards",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "color_scheme": "custom",
+        "color_bg": "#f8f8f8",
+        "color_text": "#212121"
+      }
+    },
+    "d7312125-a727-4fc2-9c6e-e0883d9ea70b": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "1976 IN HÖHR-GRENZHAUSEN, DEUTSCHLAND",
+        "title": "Historie",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p>„Das geht nicht, das haben wir noch nie so gemacht!“ schallte es Yvonne Schubkegel entgegen, als sie im zweiten Jahr der Firmengründung mit ihren auf weißer Keramik basierenden Entwürfen bei den heimischen Keramikfabriken vorstellig wird. In Mogendorf \/ Westerwald findet sie schließlich ein kooperierendes Unternehmen.<\/p><p>Sie lässt gemeinsam mit ihren „Verbündeten“ die Zweifler hinter sich und investiert in Entwürfe, Produkte und ein kleines Warenlager, dem schnell größere folgen.<\/p>",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": true,
+        "full_width": false,
+        "no_padding_bottom": true,
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "fa9ad48e-e4cc-4ec8-9305-44a65ba22ba0": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19071811027268__fa9ad48e-e4cc-4ec8-9305-44a65ba22ba0-16874663893e60d0d4-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 700,
+            "title": "",
+            "text": "<p>Die erste öffentliche Präsentation auf der Internationalen Frankfurter Frühjahrsmesse ist das Initial für die Dynamik der kleinen Marke, die vom Start an ihr Design mit ASA SELECTION brandet. Der Markt saugt die innovativen Produktlinien auf wie ein trockener Schwamm. Nach den ersten Erfolgen steht der Handel auf den Messen „Schlange“. Das Unternehmen wächst, ein Vertriebs- und Repräsentanten-Team entsteht. Und es entstehen immer schneller mehr eigene Geschirrserien, Vasen, Schalen, Übertöpfe. Ihr Markenzeichen: reduzierte Formensprache und eindeutige Farbfamilien. Nach und nach öffnet sich der Markt auch in den Deutschland angrenzenden Staaten und letztlich um den ganzen Globus.<\/p><p>Ähnlich wie die stimmigen Messepräsentationen in aller Welt entwickelten sich auch die Verkaufsunterlagen. Die ersten selbstgeschriebenen und handillustrierten s\/w-Kataloge avancieren im Laufe der Jahre zu den viel beachteten „ASA-Designbooks“. Aufwendig fotografiert, designt und produziert entstanden Kataloge, welche die Branche anführten. 2003 fanden sie einen Höhepunkt in der ersten „home by ASA“-Kollektion, die als Namensgeber für die darauf folgenden home by ASA-shops Pate stand. Heute werden die Kataloge weitestgehend inhouse fotografiert und produziert.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "template--19071811027268__fa9ad48e-e4cc-4ec8-9305-44a65ba22ba0-16874663893e60d0d4-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 700,
+            "title": "",
+            "text": "<p>Aus der ehemaligen „Wohnaccessoire-Designschmiede“ entwickelte sich sukzessive auch ein „Gedeckter-Tisch-Spezialist“. Heute, unter der Führung der zweiten Generation, entstehen im soliden familiengeführten Unternehmen immer häufiger auch Geschirre für die Hoch- und Sterneküche in Zusammenarbeit mit Top-Küchenchefs wie Tim Raue oder Cornelia Poletto. FINE DINING by ASA Selection.<\/p><p>Internationale Star-Chefs und engagierte Nachwuchsköche zauberten anlässlich des kulinarischen Großevents „CHEFSACHE“ ihre Kunstwerke auf vielfach ausgezeichnetes Geschirr von ASA Selection. 2013 fiel die Wahl von Reto Mathis, Initiator und Präsident des St. Moritz Gourmetfestivals, auf das Fine Bone China Geschirr À TABLE. Geradliniges Design, das als Bühne „Sterne-Kreationen“ unterstützt ohne abzulenken.<\/p><p>Mehr als 2.400 verschiedene Teile hat ASA SELECTION im Programm. 20 Prozent werden jährlich ausgetauscht. Gemeinsam mit ihrem effizienten Designteam schafft es Yvonne Schubkegel innerhalb von zwei Wochen eine ganze Serie, bestehend aus zehn Teilen auf die Beine zu stellen. Ein Wettbewerbsvorteil, der aus der Expertise des Branchen-Spezialisten resultiert.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19071811027268__fa9ad48e-e4cc-4ec8-9305-44a65ba22ba0-16874663893e60d0d4-0",
+        "template--19071811027268__fa9ad48e-e4cc-4ec8-9305-44a65ba22ba0-16874663893e60d0d4-1"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "left",
+        "button_style": "primary",
+        "media_shape": "natural",
+        "alternate_bg_color": false,
+        "full_width": false
+      }
+    }
+  },
+  "order": [
+    "animation_txMr4P",
+    "b0a99163-adc9-4a5b-a8f0-7f2b973ea421",
+    "d3e11267-770b-47c1-8728-4bca2bddbd6b",
+    "28177e53-caa0-4366-a214-dc052cbd0d86",
+    "a4ce2973-5156-479d-8cd0-be0a7a720474",
+    "dc5a2cb1-ee27-4843-86ff-6c044311af73",
+    "8498ed98-7d06-4f68-bbd8-d36f62cb08b9",
+    "main",
+    "313d4821-a78b-4c68-a0a9-9c089049ca62",
+    "d7312125-a727-4fc2-9c6e-e0883d9ea70b",
+    "fa9ad48e-e4cc-4ec8-9305-44a65ba22ba0"
+  ]
+}

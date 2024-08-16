@@ -1,0 +1,531 @@
+{
+  "sections": {
+    "animation_N3hip4": {
+      "type": "Animation",
+      "settings": {
+        "enable_animations": true
+      }
+    },
+    "image_with_text_overlay_CFHkmk": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Saisons-Agave-Henkelbecher-Teller-Pastateller-Wood1.jpg",
+        "height": "full",
+        "height_desktop": 700,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "saisons agave",
+        "title_size": 58,
+        "heading_h1": false,
+        "text": "<p>sommerlich, frische grüne Glasur für die erfolgreiche Serie \"Saisons\"<\/p>",
+        "enlarge_text": true,
+        "button_label": "shop now",
+        "image_link": "shopify:\/\/collections\/manuale",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "image_with_text_qxbyPr": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "Effektglasur",
+        "title": "grüne",
+        "title_size": 30,
+        "text": "<p>Die grüne Effektglasur mit ihren leichten Schattierungen erinnert an Agaven, die im Süden Amerikas wachsen<br\/><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "center",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/141330294-manuale-schalemitausgiesser-topview3_39558253-c422-4fd6-a285-4da6d1a250bd.jpg",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "contain",
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "image_with_text_JkrAAQ": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "manuele",
+        "title": "collection",
+        "title_size": 28,
+        "text": "<p>Manuale lebt von geschmeidiger Unvollkommenheit. Alle Geschirrteile werden von Hand geformt, Schnaupen im noch feuchten Zustand manuell modelliert. <br\/><\/p>",
+        "button_label": "shop now",
+        "button_link": "shopify:\/\/collections\/manuale",
+        "text_alignment": "center",
+        "text_width": 70,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/Screenshot_2024-02-21_at_08.56.22.png",
+        "image_width": 40,
+        "image_position": "right",
+        "media_size": "contain",
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "image_with_text_overlay_jpUMrn": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1Saisons-Agave-topview-Schalen-Wood-quer.jpg",
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "<p>Frisch aufgeschnittenes Obst und bunte, knackige Salate stehen dem grünen Geschirr besonders gut<\/p>",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--left position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "image_with_text_7E4wFU": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "f",
+        "title": "",
+        "title_size": 28,
+        "text": "<h5>Auch perfekt für ein Frühstück auf dem Balkon oder Terrasse im Sommer oder für den Start der Grillsaison<\/h5><p><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "left",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/Saisons-Agave-Teller-Schalen-Stapel-Gemuese_b7f0aa21-ec8c-4e28-b154-2d7d2b1bd523.jpg",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "contain",
+        "color_scheme": "custom",
+        "color_bg": "#68715c",
+        "color_text": "#ffffff"
+      }
+    },
+    "ss_image_with_text_RTEHRP": {
+      "type": "ss-image-with-text",
+      "blocks": {
+        "heading_VeHFgp": {
+          "type": "heading",
+          "settings": {
+            "heading": "made in portugal",
+            "heading_custom": false,
+            "heading_font": "assistant_n4",
+            "header_size": 32,
+            "font_weight": "600",
+            "heading_height": 130,
+            "heading_color": "#000000"
+          }
+        },
+        "text_CnKWih": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Verantwortung. Für uns mehr als nur ein Begriff. Seit mehr als drei Jahrzehnten sehen wir es als selbstverständlich an, in kleinen Familienbetrieben in Portugal zu produzieren. Die jahrelange, enge Zusammenarbeit sichert diesen Menschen ihren Lebensunterhalt.<\/p>",
+            "text_custom": false,
+            "text_font": "assistant_n4",
+            "text_size": 16,
+            "text_height": 140,
+            "text_color": "#000000"
+          }
+        },
+        "button_X97TFy": {
+          "type": "button",
+          "settings": {
+            "button_label": "mehr erfahren",
+            "button_link": "",
+            "button_custom": false,
+            "button_font": "assistant_n4",
+            "button_size": 14,
+            "button_height": 100,
+            "button_style": "button",
+            "button_padding_horizontal": 40,
+            "button_padding_vertical": 16,
+            "button_radius": 4,
+            "button_border_thickness": 1,
+            "button_text_color": "#212121",
+            "button_text_hover_color": "#ffffff",
+            "button_color": "#e8e4df",
+            "button_hover_color": "#000000",
+            "button_border_color": "#212121",
+            "button_border_hover_color": "#212121"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VeHFgp",
+        "text_CnKWih",
+        "button_X97TFy"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Manuale_S211B-Edit.jpg",
+        "image_height": "adapt",
+        "desktop_image_width": "50",
+        "image_radius": 0,
+        "layout": "text_first",
+        "desktop_content_alignment": "center",
+        "content_padding_top": 12,
+        "content_padding_bottom": 12,
+        "content_padding_horizontal": 0,
+        "content_padding_horizontal_mobile": 0,
+        "content_spacing": 10,
+        "mobile_content_alignment": "center",
+        "wrapper_border": false,
+        "content_border_thickness": 0,
+        "border_radius": 0,
+        "padding_inside": 0,
+        "shadow": false,
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "content_background_color": "#e8e4df",
+        "content_border_color": "#d3d3d3",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 40,
+        "padding_bottom": 36,
+        "padding_horizontal": 6,
+        "padding_horizontal_mobile": 2,
+        "content_layout": false,
+        "content_width": 190,
+        "border_thickness": 0
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "b88f0aa8-15c4-41ac-afa8-0c55608cd91d": {
+      "type": "background-video",
+      "disabled": true,
+      "settings": {
+        "video_shopify": "shopify:\/\/files\/videos\/Xmas2023-saisons-almond-beluga-16zu9.mp4",
+        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "subheading": "FESTLICH GEDECKT",
+        "title": "für Magische Momente",
+        "title_size": 30,
+        "heading_h1": false,
+        "text": "<p>Weihnachtsstimmung mit <strong>Saisons Almond <\/strong><\/p>",
+        "enlarge_text": true,
+        "button_label": "jetzt entdecken",
+        "button_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "height": "fixed",
+        "height_desktop": 800,
+        "height_mobile": 500,
+        "full_width": true,
+        "overlay_style_tint": true
+      }
+    },
+    "text_columns_with_images_X9JfRy": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "text_block_KykcRG": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/logo-handswithpassion-ASA_460x_fcda5dd6-ad4a-4fbf-a8b6-bab26576961f.png",
+            "image_width": 180,
+            "title": "pflegehinweis",
+            "text": "<p>Ofengeeignet, Gefriergeeignet, Mikrowellengeeignet, Spülmaschinengeeignet<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_y7Edhb": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/logo-handswithpassion-ASA.png",
+            "image_width": 180,
+            "title": "handmade",
+            "text": "<p>made with passion in Portugal<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_6CjhXT": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/award.png",
+            "image_width": 190,
+            "title": "awards",
+            "text": "<p>interior innovation award 2015<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_KykcRG",
+        "text_block_y7Edhb",
+        "text_block_6CjhXT"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "media_shape": "natural",
+        "alternate_bg_color": false,
+        "full_width": false
+      }
+    },
+    "image_with_text_overlay_73V3ab": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Saisons-Agave-Salatschalen-Besteck_ba9c0676-e554-4aa8-a1ba-a82d9a2f2fe3.jpg",
+        "height": "fixed",
+        "height_desktop": 450,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "<p>Salatschalen und Co. sorgen für einen rundum perfekt gedeckten Tisch für den Sommer<\/p>",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--left position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "gallery_xkjMTy": {
+      "type": "gallery",
+      "blocks": {
+        "image_qFB6gc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Saisons-Agave-topview-Teller-Sarabi.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "image_hKxLqG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-03-06_at_17.28.23.png",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "image_zJctNr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Saisons-Agave-sarabi-clear.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        }
+      },
+      "block_order": [
+        "image_qFB6gc",
+        "image_hKxLqG",
+        "image_zJctNr"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 3,
+        "desktop_image_height": 500,
+        "mobile_image_height": 400,
+        "title_size": 44,
+        "enable_margin": false,
+        "full_width": true,
+        "enable_carousel": true,
+        "overlay_style_tint": false,
+        "alternate_bg_color": false
+      }
+    },
+    "products_recommendation_LVxHfm": {
+      "type": "products-recommendation",
+      "settings": {
+        "title": "Produkte",
+        "collection": "saisons-agave",
+        "layout": "carousel",
+        "show_vendor": true,
+        "grid": 6,
+        "rows": 5,
+        "grid_mobile": "2",
+        "hide_swatches": false,
+        "alternate_bg_color": true,
+        "show_view_all": true
+      }
+    },
+    "collection_list_custom_zMKQqp": {
+      "type": "collection-list-custom",
+      "blocks": {
+        "collection_TMBhRx": {
+          "type": "collection",
+          "settings": {
+            "collection": "olive-wood",
+            "sub-title": ""
+          }
+        },
+        "collection_LFxHAa": {
+          "type": "collection",
+          "settings": {
+            "collection": "geschirrtucher",
+            "sub-title": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_TMBhRx",
+        "collection_LFxHAa"
+      ],
+      "settings": {
+        "title": "Mix & Match",
+        "layout": "rows",
+        "grid": 4,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "alternate_bg_color": false
+      }
+    },
+    "ss_parallax_banner_rRPBiy": {
+      "type": "ss-parallax-banner",
+      "blocks": {
+        "heading_GdQYPA": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>saisons agave<\/h2>",
+            "heading_custom": false,
+            "heading_font": "josefin_sans_n4",
+            "heading_size": 40,
+            "heading_size_mobile": 30,
+            "heading_height": 130,
+            "heading_mt": 0,
+            "heading_color": "#FFFFFF"
+          }
+        },
+        "text_dNqFfX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>sommerlich, frische grüne Glasur für die erfolgreiche Serie \"Saisons\"<\/p>",
+            "text_custom": false,
+            "text_font": "josefin_sans_n4",
+            "text_size": 18,
+            "text_size_mobile": 16,
+            "text_height": 150,
+            "text_mt": 16,
+            "text_color": "#FFFFFF"
+          }
+        },
+        "button_Y3en6U": {
+          "type": "button",
+          "settings": {
+            "button": "SHOP NOW",
+            "button_url": "",
+            "button_custom": false,
+            "button_font": "josefin_sans_n4",
+            "button_size": 14,
+            "button_size_mobile": 14,
+            "button_height": 100,
+            "button_padding_vertical": 16,
+            "button_padding_vertical_mobile": 16,
+            "button_padding_horizontal": 50,
+            "button_padding_horizontal_mobile": 50,
+            "button_radius": 2,
+            "button_border_thickness": 1,
+            "button_mt": 16,
+            "button_gap": 28,
+            "button_ellipse": false,
+            "button_shadow": false,
+            "button_style": "outline",
+            "button_color": "#FFFFFF",
+            "button_hover_color": "#FFFFFF",
+            "button_bg_color": "#000000",
+            "button_bg_hover_color": "#000000",
+            "button_border_color": "#000000",
+            "button_border_hover_color": "#000000",
+            "button_shadow_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GdQYPA",
+        "text_dNqFfX",
+        "button_Y3en6U"
+      ],
+      "settings": {
+        "parallax": true,
+        "banner_height": "adapt_first",
+        "banner_fixed_height": 620,
+        "banner_fixed_height_mobile": 500,
+        "image": "shopify:\/\/shop_images\/agave-header.jpg",
+        "overlay": 0.2,
+        "content_maxwidth": 65,
+        "content_maxwidth_mobile": 100,
+        "content_horizontal_position": "center",
+        "content_horizontal_position_mobile": "center",
+        "content_vertical_position": "center",
+        "content_vertical_position_mobile": "center",
+        "content_padding_vertical": 32,
+        "content_padding_vertical_mobile": 20,
+        "content_padding_horizontal": 20,
+        "content_padding_horizontal_mobile": 20,
+        "overlay_color": "#000000",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    }
+  },
+  "order": [
+    "animation_N3hip4",
+    "image_with_text_overlay_CFHkmk",
+    "image_with_text_qxbyPr",
+    "image_with_text_JkrAAQ",
+    "image_with_text_overlay_jpUMrn",
+    "image_with_text_7E4wFU",
+    "ss_image_with_text_RTEHRP",
+    "main",
+    "b88f0aa8-15c4-41ac-afa8-0c55608cd91d",
+    "text_columns_with_images_X9JfRy",
+    "image_with_text_overlay_73V3ab",
+    "gallery_xkjMTy",
+    "products_recommendation_LVxHfm",
+    "collection_list_custom_zMKQqp",
+    "ss_parallax_banner_rRPBiy"
+  ]
+}

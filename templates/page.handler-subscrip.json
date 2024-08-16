@@ -1,0 +1,282 @@
+{
+  "sections": {
+    "879e2243-103c-4df1-8fc9-178fad3be3ff": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Header-Gastronomie.jpg",
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 450,
+        "subheading": "",
+        "title": "ASA Selection x Gastronomie",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p>Gemeinsam Gründe schaffen, um glücklich zu sein.<br\/><\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "cd4013f9-e6f9-4503-a9c0-bed672dccec8": {
+      "type": "logo-bar",
+      "blocks": {
+        "template--19151082586436__cd4013f9-e6f9-4503-a9c0-bed672dccec8-logo_image-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rittmeyers_Restaurant_Logo_c350c989-97e5-4d36-ae4e-a2be0479d4dc.png",
+            "link": "shopify:\/\/pages\/rittmeyers-restaurant-no-4"
+          }
+        },
+        "template--19151082586436__cd4013f9-e6f9-4503-a9c0-bed672dccec8-logo_image-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_Tim-Raue_7243c10b-b3ee-4607-8da2-d526c51e426d.png",
+            "link": ""
+          }
+        },
+        "template--19151082586436__cd4013f9-e6f9-4503-a9c0-bed672dccec8-logo_image-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo-Nils-Henkel_02d4ef87-445a-4127-b23d-c5d8ba399b34.png",
+            "link": "shopify:\/\/pages\/nils-henkel"
+          }
+        },
+        "template--19151082586436__cd4013f9-e6f9-4503-a9c0-bed672dccec8-logo_image-4": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo-Antoniewicz_8a5d28c4-9afc-4939-b3ef-d441a468448d.png",
+            "link": ""
+          }
+        },
+        "5d9b2a53-7fc4-4236-88e8-46c07842fb59": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo-Kevin-Kugel_cb20e91e-8bf7-4595-8532-d0d5e13326f0.png",
+            "link": ""
+          }
+        },
+        "801f76c5-7d1c-47f2-884c-9d18f60b1d7a": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo-JRE_30435561-71bb-4e28-b518-f93af7cbbcb9.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19151082586436__cd4013f9-e6f9-4503-a9c0-bed672dccec8-logo_image-1",
+        "template--19151082586436__cd4013f9-e6f9-4503-a9c0-bed672dccec8-logo_image-2",
+        "template--19151082586436__cd4013f9-e6f9-4503-a9c0-bed672dccec8-logo_image-3",
+        "template--19151082586436__cd4013f9-e6f9-4503-a9c0-bed672dccec8-logo_image-4",
+        "5d9b2a53-7fc4-4236-88e8-46c07842fb59",
+        "801f76c5-7d1c-47f2-884c-9d18f60b1d7a"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".wide-container {text-align: center;}"
+      ],
+      "settings": {
+        "title": "",
+        "alternate_bg_color": true,
+        "logo_width": "150px"
+      }
+    },
+    "d17f9623-facb-482d-9c4d-5e7234d98fac": {
+      "type": "testimonials",
+      "blocks": {
+        "template--19151082586436__d17f9623-facb-482d-9c4d-5e7234d98fac-16891717015a7962ed-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "title": "Wir teilen die Leidenschaft,\nwir geben dem Ganzen eine Seele.",
+            "text": "<p>Seit jahrzehnten schon erkennen wir Trends, entwickeln Innovationen und nutzen gemeinsame Stärken mit der Gastronomie, um einzigartige Projekte umzusetzen.<br\/><\/p>",
+            "button_label": "",
+            "link": "",
+            "image1": "shopify:\/\/shop_images\/gastro1.jpg",
+            "image1_caption": "",
+            "image2": "shopify:\/\/shop_images\/gastro2.jpg",
+            "image2_caption": "",
+            "layout": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--19151082586436__d17f9623-facb-482d-9c4d-5e7234d98fac-16891717015a7962ed-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "button_style": "primary",
+        "alternate_bg_color": false
+      }
+    },
+    "ff0d6e28-d03d-4ea4-9000-3225a5635f7e": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "sur place",
+        "title": ".",
+        "title_size": 28,
+        "text": "<p>Für den Einsatz im Restaurant wird im spielerischen Rahmen die Neugierde des Gastes geweckt, denn sur place beteiligt ihn unmittelbar an dynamischen Prozessen, die sich an sämtliche Tischsituationen anpassen lassen.<\/p>",
+        "button_label": "sur place shoppen",
+        "button_link": "shopify:\/\/products\/metalldisplay-zum-herausziehen-rechteckig",
+        "text_alignment": "left",
+        "text_width": 50,
+        "button_style": "link",
+        "image": "shopify:\/\/shop_images\/Surplace_Pralinen.jpg",
+        "image_width": 70,
+        "image_position": "left",
+        "media_size": "contain",
+        "color_scheme": "alt",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "82223fa5-4e70-4b5d-9468-7541631087fe": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Abonniere jetzt unseren B2B Newsletter",
+        "title_size": 34,
+        "heading_h1": false,
+        "text": "<p>Sign up to receive access to our latest updates and best offers.<br\/><\/p>",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": true,
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "168735718921e7e93e": {
+      "type": "apps",
+      "blocks": {
+        "096b06da-ad73-4f97-9f87-c7514fc9dae1": {
+          "type": "shopify:\/\/apps\/acerill-form-builder\/blocks\/custom-form\/830f910d-3579-44cb-9d18-92197bb5bd98",
+          "settings": {
+            "formId": "8e91a59e-a543-41ee-8ba5-51a60932edbc",
+            "behavior": "standard"
+          }
+        }
+      },
+      "block_order": [
+        "096b06da-ad73-4f97-9f87-c7514fc9dae1"
+      ],
+      "disabled": true,
+      "settings": {
+        "skip_container": false
+      }
+    },
+    "5c6cbd69-78b4-4606-9143-98ecd2c8d4ee": {
+      "type": "gallery",
+      "blocks": {
+        "template--19151082586436__5c6cbd69-78b4-4606-9143-98ecd2c8d4ee-1687358910cf9c2a1d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Heiko_Antoniewicz-ASA.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--19151082586436__5c6cbd69-78b4-4606-9143-98ecd2c8d4ee-1687358910cf9c2a1d-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tim-Raue-ASA.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--19151082586436__5c6cbd69-78b4-4606-9143-98ecd2c8d4ee-1687358910cf9c2a1d-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sascha_Stemberg-ASA.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        }
+      },
+      "block_order": [
+        "template--19151082586436__5c6cbd69-78b4-4606-9143-98ecd2c8d4ee-1687358910cf9c2a1d-0",
+        "template--19151082586436__5c6cbd69-78b4-4606-9143-98ecd2c8d4ee-1687358910cf9c2a1d-1",
+        "template--19151082586436__5c6cbd69-78b4-4606-9143-98ecd2c8d4ee-1687358910cf9c2a1d-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "grid": 3,
+        "desktop_image_height": 330,
+        "mobile_image_height": 400,
+        "title_size": 44,
+        "enable_margin": false,
+        "full_width": true,
+        "enable_carousel": true,
+        "overlay_style_tint": false,
+        "alternate_bg_color": false
+      }
+    },
+    "1694459419685fcda8": {
+      "type": "apps",
+      "blocks": {
+        "d2902c0a-03a3-4d1d-b498-062d9177b3e1": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "Wj5YQU"
+          }
+        }
+      },
+      "block_order": [
+        "d2902c0a-03a3-4d1d-b498-062d9177b3e1"
+      ],
+      "custom_css": [
+        ".section-spacing {padding-top: 10px;}"
+      ],
+      "settings": {
+        "skip_container": false
+      }
+    }
+  },
+  "order": [
+    "879e2243-103c-4df1-8fc9-178fad3be3ff",
+    "main",
+    "cd4013f9-e6f9-4503-a9c0-bed672dccec8",
+    "d17f9623-facb-482d-9c4d-5e7234d98fac",
+    "ff0d6e28-d03d-4ea4-9000-3225a5635f7e",
+    "82223fa5-4e70-4b5d-9468-7541631087fe",
+    "168735718921e7e93e",
+    "5c6cbd69-78b4-4606-9143-98ecd2c8d4ee",
+    "1694459419685fcda8"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "background_video_Ukaxk3": {
+      "type": "background-video",
+      "settings": {
+        "video_shopify": "shopify:\/\/files\/videos\/ASA Pan con Tomate 169.mp4",
+        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "subheading": "Zurück zum Ursprung",
+        "title": "form'art",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "<p>Zurück zum Ursprung lautet die Devise für Form ‘Art, dessen Design ursprünglicher kaum sein kann.<\/p>",
+        "enlarge_text": false,
+        "button_label": "jetzt entdecken",
+        "button_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "height": "fixed",
+        "height_desktop": 800,
+        "height_mobile": 560,
+        "full_width": true,
+        "overlay_style_tint": true
+      }
+    },
+    "collection_list_custom_xcex6i": {
+      "type": "collection-list-custom",
+      "blocks": {
+        "collection_xnVB6F": {
+          "type": "collection",
+          "settings": {
+            "collection": "manuale",
+            "sub-title": "Sub title"
+          }
+        },
+        "collection_q4bHEr": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-tofu",
+            "sub-title": "Sub title"
+          }
+        },
+        "collection_cL7jqz": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-nori",
+            "sub-title": "Sub title"
+          }
+        },
+        "collection_BnUWaV": {
+          "type": "collection",
+          "settings": {
+            "collection": "re-glaze",
+            "sub-title": "Sub title"
+          }
+        }
+      },
+      "block_order": [
+        "collection_xnVB6F",
+        "collection_q4bHEr",
+        "collection_cL7jqz",
+        "collection_BnUWaV"
+      ],
+      "settings": {
+        "title": "Favorites",
+        "layout": "rows",
+        "grid": 4,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "alternate_bg_color": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "background_video_Ukaxk3",
+    "collection_list_custom_xcex6i"
+  ]
+}

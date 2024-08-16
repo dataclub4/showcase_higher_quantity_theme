@@ -1,0 +1,227 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-article",
+      "custom_css": [
+        ".line-1 {text-align: center !important;}",
+        ".line-2 {text-align: center !important; color: #ffffff; font-weight: normal !important;}"
+      ],
+      "settings": {
+        "featured_image": "wide",
+        "blog_show_author": false,
+        "blog_show_date": false,
+        "blog_show_social": false
+      }
+    },
+    "cf08d6ac-6950-4731-93fc-a424df7f8d28": {
+      "type": "gallery",
+      "blocks": {
+        "template--19682223161668__cf08d6ac-6950-4731-93fc-a424df7f8d28-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/reglaze-gedeckterTisch_cfef0d6c-cc57-4c81-8448-dec513b7f2b6.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "image_mLXyMW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/reglaze-teller-schalen-tasse-copy1.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "image_AE9nh8": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "{{ article.metafields.custom.inspiration_image3.value }}",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        }
+      },
+      "block_order": [
+        "template--19682223161668__cf08d6ac-6950-4731-93fc-a424df7f8d28-image-3",
+        "image_mLXyMW",
+        "image_AE9nh8"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 3,
+        "desktop_image_height": 480,
+        "mobile_image_height": 400,
+        "title_size": 44,
+        "enable_margin": false,
+        "full_width": true,
+        "enable_carousel": true,
+        "overlay_style_tint": false,
+        "alternate_bg_color": false
+      }
+    },
+    "image_with_text_3LprhJ": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "Einer der beliebtesten Vorsätze für 2024: Mehr für die Umwelt tun",
+        "title": "-",
+        "title_size": 18,
+        "text": "<p>Wir haben Tonabfälle und überschüssige Glasuren vor der Entsorgung gerettet, aufbereitet und für die Herstellung dieses Geschirrs wiederverwendet. Das Ergebnis ist ein Steinzeug aus recyceltem Ton, kombiniert mit einer unverwechselbar weißen und zu 100% recycelten Glasur – wir nennen sie „Sparkling White“.<\/p>",
+        "button_label": "jetzt entdecken",
+        "button_link": "shopify:\/\/pages\/recycled",
+        "text_alignment": "left",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/Screenshot-2024-01-25-at-14.56.22.jpg",
+        "image_width": 50,
+        "image_position": "left",
+        "media_size": "contain",
+        "color_scheme": "alt",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "a569d5ed-4056-4b46-ba80-e51c30822901": {
+      "type": "products-recommendation",
+      "settings": {
+        "title": "",
+        "collection": "250degc-plus",
+        "layout": "rows",
+        "show_vendor": false,
+        "grid": 4,
+        "rows": 8,
+        "grid_mobile": "2",
+        "hide_swatches": false,
+        "alternate_bg_color": false,
+        "show_view_all": false
+      }
+    },
+    "91df7aab-f3e4-49c7-a37d-33b3678e7599": {
+      "type": "collection-list-custom",
+      "blocks": {
+        "template--19682223161668__91df7aab-f3e4-49c7-a37d-33b3678e7599-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "re-glaze",
+            "image": "{{ article.metafields.custom.inspiration_serie_1_image.value }}",
+            "sub-title": ""
+          }
+        },
+        "29621068-78aa-43a2-bd46-8d45b26e49e6": {
+          "type": "collection",
+          "settings": {
+            "collection": "recycled-tischsets",
+            "image": "shopify:\/\/shop_images\/tabletops-recircle-reglaze_7cb9f331-d603-41af-9557-a100e1158912.jpg",
+            "sub-title": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19682223161668__91df7aab-f3e4-49c7-a37d-33b3678e7599-collection-1",
+        "29621068-78aa-43a2-bd46-8d45b26e49e6"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".collection-list-custom {margin-top: 0;}"
+      ],
+      "settings": {
+        "title": "{{ article.metafields.custom.serie_title.value }}",
+        "layout": "carousel",
+        "grid": 4,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "alternate_bg_color": true
+      }
+    },
+    "gallery_akTUWy": {
+      "type": "gallery",
+      "blocks": {
+        "image_TDRDAf": {
+          "type": "image",
+          "settings": {
+            "image": "{{ article.metafields.custom.inspiration_image1.value }}",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "image_xycdaX": {
+          "type": "image",
+          "settings": {
+            "image": "{{ article.metafields.custom.inspiration_image2.value }}",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "image_kcrzPP": {
+          "type": "image",
+          "settings": {
+            "image": "{{ article.metafields.custom.inspiration_image3.value }}",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        }
+      },
+      "block_order": [
+        "image_TDRDAf",
+        "image_xycdaX",
+        "image_kcrzPP"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 3,
+        "desktop_image_height": 480,
+        "mobile_image_height": 400,
+        "title_size": 44,
+        "enable_margin": false,
+        "full_width": true,
+        "enable_carousel": true,
+        "overlay_style_tint": false,
+        "alternate_bg_color": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "cf08d6ac-6950-4731-93fc-a424df7f8d28",
+    "image_with_text_3LprhJ",
+    "a569d5ed-4056-4b46-ba80-e51c30822901",
+    "91df7aab-f3e4-49c7-a37d-33b3678e7599",
+    "gallery_akTUWy"
+  ]
+}

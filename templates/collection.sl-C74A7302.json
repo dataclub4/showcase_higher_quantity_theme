@@ -1,0 +1,96 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_collection_content": true,
+        "show_starter_kits_first": true,
+        "show_collection_image": true,
+        "description_position": "bottom",
+        "layout": "rows",
+        "grid": 4,
+        "grid_mobile": "2",
+        "products_per_page": 24,
+        "enable_infinite_scroll": true,
+        "show_vendor": true,
+        "show_filter_counts": true,
+        "show_filter_deadends": true,
+        "ajax_products": true,
+        "filter_mode": "sidebar",
+        "sticky_sidebar": true,
+        "collapse_filters_method": "over-12",
+        "collapse_sort_by": false,
+        "enable_sorting": true,
+        "show_featured_in_sort": false
+      }
+    },
+    "e1977f7f-9e29-4a6b-a496-f0fb7a624d7c": {
+      "type": "gallery",
+      "blocks": {
+        "template--19031972348228__e1977f7f-9e29-4a6b-a496-f0fb7a624d7c-1685530818f61abb93-0": {
+          "type": "image",
+          "settings": {
+            "image": "{{ collection.metafields.custom.collection_serie_image.value }}",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--19031972348228__e1977f7f-9e29-4a6b-a496-f0fb7a624d7c-1685530818f61abb93-1": {
+          "type": "image",
+          "settings": {
+            "image": "{{ collection.metafields.custom.collection_serie_image_2.value }}",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--19031972348228__e1977f7f-9e29-4a6b-a496-f0fb7a624d7c-1685530818f61abb93-2": {
+          "type": "image",
+          "settings": {
+            "image": "{{ collection.metafields.custom.collection_serie_image_3.value }}",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        }
+      },
+      "block_order": [
+        "template--19031972348228__e1977f7f-9e29-4a6b-a496-f0fb7a624d7c-1685530818f61abb93-0",
+        "template--19031972348228__e1977f7f-9e29-4a6b-a496-f0fb7a624d7c-1685530818f61abb93-1",
+        "template--19031972348228__e1977f7f-9e29-4a6b-a496-f0fb7a624d7c-1685530818f61abb93-2"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 3,
+        "desktop_image_height": 400,
+        "mobile_image_height": 400,
+        "title_size": 40,
+        "enable_margin": false,
+        "full_width": true,
+        "enable_carousel": true,
+        "overlay_style_tint": false,
+        "alternate_bg_color": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "e1977f7f-9e29-4a6b-a496-f0fb7a624d7c"
+  ]
+}

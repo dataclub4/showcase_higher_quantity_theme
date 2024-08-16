@@ -1,0 +1,407 @@
+{
+  "sections": {
+    "animation_N3hip4": {
+      "type": "Animation",
+      "settings": {
+        "enable_animations": true
+      }
+    },
+    "image_with_text_overlay_CFHkmk": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/manuale-pdp.jpg",
+        "height": "full",
+        "height_desktop": 700,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "manuale",
+        "title_size": 58,
+        "heading_h1": false,
+        "text": "<p>Kraftvoll. Funktional. Archaisch in Form und<br\/>Farbe. <\/p>",
+        "enlarge_text": true,
+        "button_label": "shop now",
+        "image_link": "shopify:\/\/collections\/manuale",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "image_with_text_qxbyPr": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "manuele",
+        "title": "collection",
+        "title_size": 30,
+        "text": "<p>Manuale lebt von geschmeidiger Unvollkommenheit. Alle Geschirrteile werden von Hand geformt, Schnaupen im noch feuchten Zustand manuell modelliert. <br\/><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "left",
+        "text_width": 40,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/41330294-manuale-schalemitausgiesser-topview3.png",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "contain",
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "image_with_text_JkrAAQ": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "manuele",
+        "title": "collection",
+        "title_size": 28,
+        "text": "<p>Manuale lebt von geschmeidiger Unvollkommenheit. Alle Geschirrteile werden von Hand geformt, Schnaupen im noch feuchten Zustand manuell modelliert. <br\/><\/p>",
+        "button_label": "shop now",
+        "button_link": "shopify:\/\/collections\/manuale",
+        "text_alignment": "center",
+        "text_width": 70,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/Screenshot_2024-02-21_at_08.56.22.png",
+        "image_width": 40,
+        "image_position": "right",
+        "media_size": "contain",
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "image_with_text_overlay_jpUMrn": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Manuale-Olivenholz-Regal1.jpg",
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "<p>Schlicht. Natürlich. Handwerklich. Das neue Laut ist leise. Das Auffällige unauffällig. Unperfektes perfekt. <br\/>Ein Design, das Wärme in moderne Küchen bringt und das gleichzeitig wunderbar in jedes Landhaus-Ambiente passt.<\/p>",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--left position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "image_with_text_7E4wFU": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "farbglasur",
+        "title": "spezielle",
+        "title_size": 28,
+        "text": "<p>Eine spezielle Farbglasur deckt den darunter liegenden Steinzeug-Scherben nur transparent ab. So bleibt das reizvolle Spiel der Drehrillen erhalten. <\/p><p><\/p><p>farbe: <strong>oat<\/strong><\/p><p><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "left",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/Manuale-Teller-Schale-Topviewmat.jpg",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "cover",
+        "color_scheme": "alt",
+        "color_bg": "#aaa295",
+        "color_text": ""
+      }
+    },
+    "ss_image_with_text_RTEHRP": {
+      "type": "ss-image-with-text",
+      "blocks": {
+        "heading_VeHFgp": {
+          "type": "heading",
+          "settings": {
+            "heading": "made in portugal",
+            "heading_custom": false,
+            "heading_font": "assistant_n4",
+            "header_size": 32,
+            "font_weight": "600",
+            "heading_height": 130,
+            "heading_color": "#000000"
+          }
+        },
+        "text_CnKWih": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Verantwortung. Für uns mehr als nur ein Begriff. Seit mehr als drei Jahrzehnten sehen wir es als selbstverständlich an, in kleinen Familienbetrieben in Portugal zu produzieren. Die jahrelange, enge Zusammenarbeit sichert diesen Menschen ihren Lebensunterhalt.<\/p>",
+            "text_custom": false,
+            "text_font": "assistant_n4",
+            "text_size": 16,
+            "text_height": 140,
+            "text_color": "#000000"
+          }
+        },
+        "button_X97TFy": {
+          "type": "button",
+          "settings": {
+            "button_label": "mehr erfahren",
+            "button_link": "",
+            "button_custom": false,
+            "button_font": "assistant_n4",
+            "button_size": 14,
+            "button_height": 100,
+            "button_style": "button",
+            "button_padding_horizontal": 40,
+            "button_padding_vertical": 16,
+            "button_radius": 4,
+            "button_border_thickness": 1,
+            "button_text_color": "#212121",
+            "button_text_hover_color": "#ffffff",
+            "button_color": "#e8e4df",
+            "button_hover_color": "#000000",
+            "button_border_color": "#212121",
+            "button_border_hover_color": "#212121"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VeHFgp",
+        "text_CnKWih",
+        "button_X97TFy"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Manuale_S211B-Edit.jpg",
+        "image_height": "adapt",
+        "desktop_image_width": "50",
+        "image_radius": 0,
+        "layout": "text_first",
+        "desktop_content_alignment": "center",
+        "content_padding_top": 12,
+        "content_padding_bottom": 12,
+        "content_padding_horizontal": 0,
+        "content_padding_horizontal_mobile": 0,
+        "content_spacing": 10,
+        "mobile_content_alignment": "center",
+        "wrapper_border": false,
+        "content_border_thickness": 0,
+        "border_radius": 0,
+        "padding_inside": 0,
+        "shadow": false,
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "content_background_color": "#e8e4df",
+        "content_border_color": "#d3d3d3",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 40,
+        "padding_bottom": 36,
+        "padding_horizontal": 6,
+        "padding_horizontal_mobile": 2,
+        "content_layout": false,
+        "content_width": 190,
+        "border_thickness": 0
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "b88f0aa8-15c4-41ac-afa8-0c55608cd91d": {
+      "type": "background-video",
+      "disabled": true,
+      "settings": {
+        "video_shopify": "shopify:\/\/files\/videos\/Xmas2023-saisons-almond-beluga-16zu9.mp4",
+        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "subheading": "FESTLICH GEDECKT",
+        "title": "für Magische Momente",
+        "title_size": 30,
+        "heading_h1": false,
+        "text": "<p>Weihnachtsstimmung mit <strong>Saisons Almond <\/strong><\/p>",
+        "enlarge_text": true,
+        "button_label": "jetzt entdecken",
+        "button_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "height": "fixed",
+        "height_desktop": 800,
+        "height_mobile": 500,
+        "full_width": true,
+        "overlay_style_tint": true
+      }
+    },
+    "text_columns_with_images_X9JfRy": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "text_block_KykcRG": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/logo-handswithpassion-ASA_460x_fcda5dd6-ad4a-4fbf-a8b6-bab26576961f.png",
+            "image_width": 180,
+            "title": "pflegehinweis",
+            "text": "<p>Ofengeeignet, Gefriergeeignet, Mikrowellengeeignet, Spülmaschinengeeignet<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_y7Edhb": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/logo-handswithpassion-ASA.png",
+            "image_width": 180,
+            "title": "handmade",
+            "text": "<p>made with passion in Portugal<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "text_block_6CjhXT": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/award.png",
+            "image_width": 190,
+            "title": "awards",
+            "text": "<p>interior innovation award 2015<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_block_KykcRG",
+        "text_block_y7Edhb",
+        "text_block_6CjhXT"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "media_shape": "natural",
+        "alternate_bg_color": false,
+        "full_width": false
+      }
+    },
+    "gallery_xkjMTy": {
+      "type": "gallery",
+      "blocks": {
+        "image_qFB6gc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/manuale-serie.jpg",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "image_hKxLqG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Manuale-Teller-Pastateller-Topview.jpg",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "image_zJctNr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Manuale-Olivenholz_4ab06527-0ffe-41c2-80ed-dd2623301798.jpg",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        }
+      },
+      "block_order": [
+        "image_qFB6gc",
+        "image_hKxLqG",
+        "image_zJctNr"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 3,
+        "desktop_image_height": 500,
+        "mobile_image_height": 400,
+        "title_size": 44,
+        "enable_margin": false,
+        "full_width": true,
+        "enable_carousel": true,
+        "overlay_style_tint": false,
+        "alternate_bg_color": false
+      }
+    },
+    "products_recommendation_LVxHfm": {
+      "type": "products-recommendation",
+      "settings": {
+        "title": "Produkte",
+        "collection": "manuale",
+        "layout": "carousel",
+        "show_vendor": true,
+        "grid": 6,
+        "rows": 5,
+        "grid_mobile": "2",
+        "hide_swatches": false,
+        "alternate_bg_color": true,
+        "show_view_all": true
+      }
+    },
+    "collection_list_custom_zMKQqp": {
+      "type": "collection-list-custom",
+      "blocks": {
+        "collection_TMBhRx": {
+          "type": "collection",
+          "settings": {
+            "collection": "olive-wood",
+            "sub-title": ""
+          }
+        },
+        "collection_LFxHAa": {
+          "type": "collection",
+          "settings": {
+            "collection": "geschirrtucher",
+            "sub-title": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_TMBhRx",
+        "collection_LFxHAa"
+      ],
+      "settings": {
+        "title": "Mix & Match",
+        "layout": "rows",
+        "grid": 4,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "alternate_bg_color": false
+      }
+    }
+  },
+  "order": [
+    "animation_N3hip4",
+    "image_with_text_overlay_CFHkmk",
+    "image_with_text_qxbyPr",
+    "image_with_text_JkrAAQ",
+    "image_with_text_overlay_jpUMrn",
+    "image_with_text_7E4wFU",
+    "ss_image_with_text_RTEHRP",
+    "main",
+    "b88f0aa8-15c4-41ac-afa8-0c55608cd91d",
+    "text_columns_with_images_X9JfRy",
+    "gallery_xkjMTy",
+    "products_recommendation_LVxHfm",
+    "collection_list_custom_zMKQqp"
+  ]
+}

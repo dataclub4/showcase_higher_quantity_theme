@@ -1,0 +1,252 @@
+{
+  "sections": {
+    "879e2243-103c-4df1-8fc9-178fad3be3ff": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Header-Rittmeyer.jpg",
+        "height": "fixed",
+        "height_desktop": 450,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p><br\/><\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "82223fa5-4e70-4b5d-9468-7541631087fe": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "Rittmeyers Restaurant No. 4",
+        "title_size": 34,
+        "heading_h1": false,
+        "text": "<p><strong>Jens Rittmeyer, Sternekoch und Mitglied der Genussmanufakturen „Handmade-in-Germany“<br\/><\/strong><br\/>„Erst eine gute Sauce macht ein Gericht richtig rund.“ Ein Motto, welches Jens in seiner Küche schon früh umsetzte. Seine Speisen sind eine Hommage an den Norden, die Liebe zu „echtem“ Essen und aufwendig zubereiteten Saucen als Stars jedes einzelnen Gerichts. Aus diesen Bausteinen kreiert er mit Hingabe seine eigene, nordische Küche. Auf dem Weg dorthin hat er sich durch viele Sterneküchen gekocht, davon sieben Jahre unter der Sonne Portugals. Extrem wichtig ist ihm zudem das Kochen nach dem Kreislauf der Natur. Die Reifezeit eines Produktes sowie die Verwendung alter, teils vergessener Obst- und Gemüsesorten.<br\/><\/p>",
+        "image": "shopify:\/\/shop_images\/Rittmeyers_Restaurant_Logo_4dc1f314-e2df-47a7-ae3d-7c28f8f30133.png",
+        "image_width": 150,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "ff0d6e28-d03d-4ea4-9000-3225a5635f7e": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "à table",
+        "title": "JENS RITTMEYER EMPFIEHLT:",
+        "title_size": 28,
+        "text": "<p>Seit vielen Jahren arbeiten wir mit Fine Bone China, dem bis heute höchsten Gütesiegel der Porzellanherstellung. Unsere Geschirrkollektion „à table“ ist eine perfekte Kombination aus Funktionalität, zeitloser Eleganz und ausgezeichneter Qualität. Durch die extreme Härte sowie die große Formenvielfalt hat à table einen festen Platz in der hochwertigen Gastronomie, wie auch in Rittmeyers Restaurant No. 4.<\/p>",
+        "button_label": "à table shoppen",
+        "button_link": "shopify:\/\/collections\/a-table",
+        "text_alignment": "center",
+        "text_width": 50,
+        "button_style": "link",
+        "image": "shopify:\/\/shop_images\/atable-jens.jpg",
+        "image_width": 100,
+        "image_position": "left",
+        "media_size": "cover",
+        "color_scheme": "alt",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "d17f9623-facb-482d-9c4d-5e7234d98fac": {
+      "type": "testimonials",
+      "blocks": {
+        "template--19151082586436__d17f9623-facb-482d-9c4d-5e7234d98fac-16891717015a7962ed-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 0,
+            "title": "teamwork.",
+            "text": "<p>Gemeinsam mit Jens Rittmeyer haben wir ein kleines Brainstorming gemacht und Einfaches einfach perfekt umgesetzt! Zwei Saucieren und ein Teller mit vielen Vorteilen sind dabei entstanden.<br\/><\/p>",
+            "button_label": "",
+            "link": "",
+            "image1": "shopify:\/\/shop_images\/Jens-Rittmeyer-Portrait.jpg",
+            "image1_caption": "",
+            "image2": "shopify:\/\/shop_images\/Teamwork.jpg",
+            "image2_caption": "",
+            "layout": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--19151082586436__d17f9623-facb-482d-9c4d-5e7234d98fac-16891717015a7962ed-0"
+      ],
+      "settings": {
+        "title": "",
+        "button_style": "primary",
+        "alternate_bg_color": false
+      }
+    },
+    "168735718921e7e93e": {
+      "type": "apps",
+      "disabled": true,
+      "settings": {
+        "skip_container": false
+      }
+    },
+    "468ea505-2b2a-4eb1-9432-d39a66c60ea0": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19268377051460__468ea505-2b2a-4eb1-9432-d39a66c60ea0-16891738027c7dcf66-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/sauciere.jpg",
+            "image_width": 700,
+            "title": "doppelwandige sauciere, 250 ml",
+            "text": "<p>Die Kreationen von Jens Rittmeyer werden erst durch die aufwendig zubereiteten Saucen zu dem, was sie sind. Durch die Doppelwandung der Sauciere bleibt die Sauce heiß, ohne dass man sich die Finger verbrennt. Kalte Sau- cen werden nicht warm. Zudem verhindert der Silikonring im Deckel die Bildung von Haut auf der Saucenoberfläche.<\/p>",
+            "button_label": "jetzt shoppen",
+            "link": "shopify:\/\/products\/sauciere-mit-deckel-doppelwandig"
+          }
+        },
+        "template--19268377051460__468ea505-2b2a-4eb1-9432-d39a66c60ea0-16891738027c7dcf66-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/sauciere-big.jpg",
+            "image_width": 700,
+            "title": "doppelwandige sauciere, 750 ml",
+            "text": "<p>Die moderne schlichte Formensprache sieht nicht nur gut aus, sie liegt auch gut in der Hand. Die doppelte Wand kann sich durch den Silikonstöpsel am Boden nicht mit Wasser füllen, daher sind die Saucieren sogar spülmaschinengeeignet.<\/p>",
+            "button_label": "jetzt shoppen",
+            "link": "shopify:\/\/products\/sauciere-mit-deckel-doppelwandig-1"
+          }
+        },
+        "template--19268377051460__468ea505-2b2a-4eb1-9432-d39a66c60ea0-16891738027c7dcf66-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/plate.jpg",
+            "image_width": 700,
+            "title": "coupe gourmetteller",
+            "text": "<p>Der speziell für Saucengerichte konzipierte Teller hat einen leicht abgesenkten Spiegel, sodass sich die Sauce perfekt in der Tellermitte verteilt und ein absolut rundes und sauberes Bild bietet.<\/p>",
+            "button_label": "jetzt shoppen",
+            "link": "shopify:\/\/products\/coupe-gourmetteller-mit-abgesenktem-spiegel"
+          }
+        }
+      },
+      "block_order": [
+        "template--19268377051460__468ea505-2b2a-4eb1-9432-d39a66c60ea0-16891738027c7dcf66-0",
+        "template--19268377051460__468ea505-2b2a-4eb1-9432-d39a66c60ea0-16891738027c7dcf66-1",
+        "template--19268377051460__468ea505-2b2a-4eb1-9432-d39a66c60ea0-16891738027c7dcf66-2"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "left",
+        "button_style": "link",
+        "media_shape": "natural",
+        "alternate_bg_color": true,
+        "full_width": false
+      }
+    },
+    "8c6cf05e-9b91-4e60-b448-a29d46231b8f": {
+      "type": "video",
+      "settings": {
+        "video_shopify": "shopify:\/\/files\/videos\/ASA_Gourmetteller_Sauciere-Rittmeyer.mp4",
+        "video_external": "https:\/\/youtu.be\/D0OEIITZp1k",
+        "subheading": "",
+        "video_title": "",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "overlay_style_tint": false
+      }
+    },
+    "0968d477-537a-49a5-b2af-1bbb7483c6ea": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19268377051460__0968d477-537a-49a5-b2af-1bbb7483c6ea-16891738027c7dcf66-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Rezept-Rittmeyer.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "template--19268377051460__0968d477-537a-49a5-b2af-1bbb7483c6ea-16891738027c7dcf66-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 450,
+            "title": "Bunte Freilandtomaten mit\t\t\t\t\t\texpress gebeizter Lachsforelle &\t\t\t\t\t\tTomatensud",
+            "text": "<p><strong>Rezept für 4 Personen von Jens Rittmeyer<\/strong><br\/><\/p><p><strong>Zutaten<br\/><\/strong>1 mittelgroßes Lachsforellenfilet,<br\/>1,5 EL Steinsalz,1 EL Zucker, 1 TL Fenchelsamen,<br\/>1 TL Anissamen, 1 TL Wacholder, 1 TL Senfsaat<br\/><\/p><p>200-300 ml Speiseöl, 2 Bund Dill<br\/><\/p><p>2 mittelgroße Ananastomaten<br\/>1 mittlere Ochsenherztomate<br\/>4 gelbe Cocktailtomaten<br\/>4 rote Kirschtomaten<br\/>4 kleine Zebratomaten Salz, Olivenöl<br\/>8 vollreife Tomaten, 1 Schalotte, 1 Knoblauchzehe,<br\/>2 TL Einkorn-Shoyu (alternativ helle Sojasauce), Salz, Pfeffer<br\/><\/p><p>verschiedene Blüten und Kräuterspitzen<br\/><\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19268377051460__0968d477-537a-49a5-b2af-1bbb7483c6ea-16891738027c7dcf66-0",
+        "template--19268377051460__0968d477-537a-49a5-b2af-1bbb7483c6ea-16891738027c7dcf66-1"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "left",
+        "button_style": "primary",
+        "media_shape": "natural",
+        "alternate_bg_color": false,
+        "full_width": false
+      }
+    },
+    "2ae0afe3-3366-4c37-8c44-1d0a812339a9": {
+      "type": "Awards",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "title_size": 48,
+        "heading_h1": false,
+        "text": "<p>Das Lachsforellenfilet sauber putzen, Gräten entfernen und kühl stellen. Fenchel, Anis, Wacholder und Senfsaat vorsichtig andrücken und mit dem Steinsalz und Zucker vermengen. Danach zwei Zweige Dill abzupfen und grob geschnitten dazugeben. Nun die Beize auf das Lachsforellenfilet geben und für ca. 2 Stunden abgedeckt im Kühlschrank beizen.<\/p><p><br\/>Das Speiseöl auf ca. 70 °C erwärmen und danach mit dem restlichen Dill auf höchster Stufe für ca. zwei Minuten mixen. Das ent- standene Dill-Öl direkt danach durch ein sehr feines Sieb in ein Gefäß, welches auf einem Eiswasser-Behälter sitzt, passieren und ca. 30 Minuten abkühlen lassen. Danach das Öl von den sich auf dem Boden sammelnden Wasserbestandteilen abschöpfen und wieder kaltstellen.<br\/>Die bunten Tomaten waschen, den grünen Stielansatz entfernen und die beiden großen Sorten in nicht zu dünne Scheiben schnei- den. Die kleineren Tomaten vierteln oder in Würfel schneiden. Nun die Tomaten leicht salzen und mit etwas Olivenöl besprenkeln.<\/p><p><br\/>Die acht vollreifen Tomaten im Küchenmixer für ca. eine Minute pürieren. Die entstandene Flüssigkeit aufkochen, ca. 10 Minuten rasten lassen und dann durch ein Passiertuch passieren. Dadurch erhält man einen hellen Saft, welchen man mit fein geschnittener Schalotte und einer angedrückten Knoblauchzehe etwas reduziert. Danach mit der Shoyu und eventuell Salz und Pfeffer abschme- cken und kaltstellen.<\/p><p><br\/>Die Lachsforelle nach der Beiz-Zeit mit dem Messerrücken von der Beize befreien und dabei ganz vorsichtig abschaben. Die Lachs- forelle in dickere Scheiben schneiden.<\/p><p><br\/>Die Tomatenscheiben ganz kurz in einer vorgeheizten, beschichteten Pfanne beidseitig für nur wenige Sekunden trocken anbraten und danach sofort mit den weiteren Tomaten auf dem Teller anrichten. Nun mit den Blüten und Kräuterspitzen dekorieren; danach die Lachsforellenscheiben anrichten. Den Tomatensud mit etwas Dill-Öl versetzen und über die Lachsforellen nappieren.<\/p><p><\/p><h3>Guten Appetit!<\/h3><p><a href=\"https:\/\/jens-rittmeyer.de\/\" target=\"_blank\" title=\"https:\/\/jens-rittmeyer.de\/\">jens-rittmeyer.de<\/a><\/p><p><br\/><\/p>",
+        "image": "shopify:\/\/shop_images\/Rittmeyers_Restaurant_Logo_4dc1f314-e2df-47a7-ae3d-7c28f8f30133.png",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "https:\/\/jens-rittmeyer.de\/",
+        "button_style": "secondary",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": true,
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    }
+  },
+  "order": [
+    "879e2243-103c-4df1-8fc9-178fad3be3ff",
+    "main",
+    "82223fa5-4e70-4b5d-9468-7541631087fe",
+    "ff0d6e28-d03d-4ea4-9000-3225a5635f7e",
+    "d17f9623-facb-482d-9c4d-5e7234d98fac",
+    "168735718921e7e93e",
+    "468ea505-2b2a-4eb1-9432-d39a66c60ea0",
+    "8c6cf05e-9b91-4e60-b448-a29d46231b8f",
+    "0968d477-537a-49a5-b2af-1bbb7483c6ea",
+    "2ae0afe3-3366-4c37-8c44-1d0a812339a9"
+  ]
+}

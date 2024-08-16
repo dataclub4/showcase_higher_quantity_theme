@@ -1,0 +1,300 @@
+{
+  "sections": {
+    "ss_text_block_AhFC6a": {
+      "type": "ss-text-block",
+      "blocks": {
+        "text_xBj9wr": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "color": "#121212",
+            "font_size": 23,
+            "richtext": "<p><strong>Am 12. Mai ist Muttertag! <\/strong><br\/><\/p>",
+            "richtext_color": "#121212",
+            "richtext_font_size": 17
+          }
+        },
+        "button_Y4QFQC": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_text": "View Discounted Essentials",
+            "button_link": "",
+            "color": "#ffffff",
+            "background_color": "#121212",
+            "border_radius": "50px",
+            "font_size": 18
+          }
+        }
+      },
+      "block_order": [
+        "text_xBj9wr",
+        "button_Y4QFQC"
+      ],
+      "settings": {
+        "padding_header": 0,
+        "padding_button": 10,
+        "background-color": "#ecdfe6",
+        "padding_top": 8,
+        "padding_bottom": 8,
+        "section-width": 170
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "0edfadd2-c40e-4309-bbc1-88b98d300331": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "{% if product.metafields.custom.collection_link.value %}\n<a href=\"{{product.metafields.custom.collection_link.value.url}}\">{{product.metafields.custom.collection_link.value.title}}<\/a>\n{% else %}\n<a href=\"{{product.collections[0].url}}\"> {{product.collections[0].title}}<\/a>\n{% endif %}"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_h1": true
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": true
+          }
+        },
+        "961473a6-6f19-46f5-bcf3-04d7c35e68a8": {
+          "type": "shopify:\/\/apps\/trusted-shops-easy-integration\/blocks\/mini-stars\/2ae4ab38-7eb9-4d62-abe3-d4a5f27cbef2",
+          "settings": {}
+        },
+        "f256dd1c-015c-4188-80c4-fe82eff46434": {
+          "type": "sku",
+          "settings": {}
+        },
+        "8c85abef-0ebf-4a93-b1f2-a9995fd59686": {
+          "type": "inventory_level",
+          "settings": {
+            "inventory_threshold": 10,
+            "show_inventory_notice": "always",
+            "show_inventory_count": "low",
+            "show_inventory_indicator_bar": false,
+            "col_indicator_below": "#dd9a1a",
+            "col_indicator_above": "#108043"
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_style": "underlined",
+            "show_realtime_availability": true,
+            "show_size_chart": false,
+            "size_chart_variant": "",
+            "size_chart_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_multi_quantity_selector": true,
+            "enable_payment_button": false,
+            "show_pickup_availability": false,
+            "enable_mobile_sticky_cart": false
+          }
+        },
+        "0073c60f-c5f5-4e2c-b78f-22b0e3fa5154": {
+          "type": "deliveri_info",
+          "settings": {}
+        },
+        "5c385997-0c67-4ea7-a936-28e6e4b0a09e": {
+          "type": "description",
+          "settings": {
+            "display": "accordion_open",
+            "icon": "eye"
+          }
+        },
+        "b63e049d-c672-4085-a041-be6e1a4c9413": {
+          "type": "accordion_information",
+          "settings": {
+            "icon": "ruler",
+            "title": "Information",
+            "open": false
+          }
+        },
+        "54c37e45-b6e0-4263-a771-ddfef128daba": {
+          "type": "accordion",
+          "disabled": true,
+          "settings": {
+            "icon": "ruler",
+            "title": "Information",
+            "content": "<p><strong>Materials<\/strong><\/p><p>{{ product.metafields.custom.farbe.value }}<\/p><p>{{ product.metafields.custom.material.value }}<\/p><p>{{ product.metafields.custom.finish.value }}<\/p><p><strong>Dimensions<\/strong><\/p><p>{{ product.metafields.custom.inhalt | metafield_tag }}<\/p><p>{{ product.metafields.custom.durchmesser | metafield_tag }}<\/p><p> {{ product.metafields.custom.hohe | metafield_tag }}<\/p><p>{{ product.metafields.custom.lange | metafield_tag }}<\/p><p>{{ product.metafields.custom.breite | metafield_tag }}<\/p><p><\/p><p><\/p><p><\/p><p><\/p><p><\/p>",
+            "page": "",
+            "open": false
+          }
+        },
+        "7c09194e-ebef-43ec-b3ce-340a15b2cff7": {
+          "type": "accordion_careguide",
+          "settings": {
+            "icon": "eye",
+            "title": "Pflegehinweis",
+            "open": false
+          }
+        },
+        "4349a236-f3cc-4b73-8707-42542199a00a": {
+          "type": "accordion",
+          "disabled": true,
+          "settings": {
+            "icon": "eye",
+            "title": "Care Guide",
+            "content": "",
+            "page": "care-guide",
+            "open": false
+          }
+        },
+        "80061d98-b635-4472-8c65-edab3c74e750": {
+          "type": "accordion",
+          "disabled": true,
+          "settings": {
+            "icon": "heart",
+            "title": "Care Guide",
+            "content": "<p>{{ product.metafields.descriptors.care_guide | metafield_tag }}<\/p>",
+            "page": "",
+            "open": false
+          }
+        },
+        "c924e1fc-3b83-4618-a870-a5420da2a7be": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Passt gut zu",
+            "enable_carousel": true,
+            "max_products": 10,
+            "show_vendor": false,
+            "hide_swatches": false
+          }
+        }
+      },
+      "block_order": [
+        "0edfadd2-c40e-4309-bbc1-88b98d300331",
+        "title",
+        "price",
+        "961473a6-6f19-46f5-bcf3-04d7c35e68a8",
+        "f256dd1c-015c-4188-80c4-fe82eff46434",
+        "8c85abef-0ebf-4a93-b1f2-a9995fd59686",
+        "rating",
+        "variant_picker",
+        "buy_buttons",
+        "0073c60f-c5f5-4e2c-b78f-22b0e3fa5154",
+        "5c385997-0c67-4ea7-a936-28e6e4b0a09e",
+        "b63e049d-c672-4085-a041-be6e1a4c9413",
+        "54c37e45-b6e0-4263-a771-ddfef128daba",
+        "7c09194e-ebef-43ec-b3ce-340a15b2cff7",
+        "4349a236-f3cc-4b73-8707-42542199a00a",
+        "80061d98-b635-4472-8c65-edab3c74e750",
+        "c924e1fc-3b83-4618-a870-a5420da2a7be"
+      ],
+      "custom_css": [
+        ".swiper-wrapper img {background: #f5f5f5;}"
+      ],
+      "settings": {
+        "media_style": "two-column",
+        "sticky_behaviour": "bottom",
+        "full_width": true,
+        "show_backorder_text": true,
+        "slide_nav_style": "dots",
+        "media_crop": "top",
+        "enable_zoom": true,
+        "zoom_cursor": "standard",
+        "show_thumbnails": true,
+        "enable_video_looping": true,
+        "scroll_to_variant_media": false,
+        "highlight_selected_media": false,
+        "variant_media_grouping": false,
+        "variant_media_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "4f3a42ea-acc2-43ea-ba86-83325ffa0cf9": {
+      "type": "serie-pdp",
+      "disabled": true,
+      "settings": {
+        "subheading": "{{ product.metafields.custom.serie_information.value.serie_name.value }}",
+        "title": "ÜBER",
+        "title_size": 32,
+        "text": "<p>{{ product.metafields.custom.serie_information.value.serie_description_long | metafield_tag }}<\/p>",
+        "button_label": "{{ product.metafields.custom.serie_information.value.serie_name.value }}",
+        "button_link": "shopify:\/\/collections\/grande-al-forno",
+        "text_alignment": "center",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/GrandeAlForno.jpg",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "cover",
+        "color_scheme": "custom",
+        "color_bg": "{{ product.metafields.custom.serie_information.value.background_color.value }}",
+        "color_text": "{{ product.metafields.custom.serie_information.value.text_color.value }}"
+      }
+    },
+    "image_with_text_b6Rqy6": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "made in portugal",
+        "title": "DESIGNED IN GERMANY",
+        "title_size": 28,
+        "text": "<p>Verantwortung. Für uns mehr als nur ein Begriff. Seit mehr als drei Jahrzehnten sehen wir es als selbstverständlich an, in kleinen Familienbetrieben in Portugal zu produzieren. Die jahrelange, enge Zusammenarbeit sichert diesen Menschen ihren Lebensunterhalt.<\/p>",
+        "button_label": "mehr erfahren",
+        "button_link": "shopify:\/\/pages\/portugal",
+        "text_alignment": "center",
+        "text_width": 50,
+        "button_style": "secondary",
+        "image": "shopify:\/\/shop_images\/Portugal-Fabrik.jpg",
+        "image_width": 88,
+        "image_position": "left",
+        "media_size": "contain",
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "b80c210d-5006-45a9-9545-14d4edfc82e9": {
+      "type": "video",
+      "disabled": true,
+      "custom_css": [
+        ".section-spacing {padding-top: 0;}"
+      ],
+      "settings": {
+        "video_shopify": "shopify:\/\/files\/videos\/Feta Past Querformat.mp4",
+        "video_external": "https:\/\/www.youtube.com\/watch?v=GYusZL7ql5o&feature=youtu.be",
+        "subheading": "",
+        "video_title": "",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "<p>Grande al Forno - <strong>Feta Pasta Recipe<\/strong><\/p>",
+        "enlarge_text": false,
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": false,
+        "overlay_style_tint": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "show_product_recommendations": true,
+        "title": "das könnte dir auch gefallen",
+        "hide_swatches": false,
+        "show_vendor": true,
+        "grid": 4
+      }
+    }
+  },
+  "order": [
+    "ss_text_block_AhFC6a",
+    "main",
+    "4f3a42ea-acc2-43ea-ba86-83325ffa0cf9",
+    "image_with_text_b6Rqy6",
+    "b80c210d-5006-45a9-9545-14d4edfc82e9",
+    "product-recommendations"
+  ]
+}

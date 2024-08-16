@@ -1,0 +1,281 @@
+{
+  "sections": {
+    "879e2243-103c-4df1-8fc9-178fad3be3ff": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Ajana-Glas-Vase-Detail_b52b6365-e556-4b8c-bd8e-0ae9df4a47f2.jpg",
+        "height": "fixed",
+        "height_desktop": 700,
+        "height_mobile": 450,
+        "subheading": "",
+        "title": "Herbstinspiration",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p>unsere Lieblingsjahreszeit mit Wärme und schönen Farben<\/p>",
+        "enlarge_text": false,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "7cd24c8c-7aa2-4188-a435-086b1d267e8f": {
+      "type": "products-recommendation",
+      "settings": {
+        "title": "Lieblingsdeko zum Wohlfühlen",
+        "collection": "fall-deco",
+        "layout": "rows",
+        "show_vendor": false,
+        "grid": 4,
+        "rows": 2,
+        "grid_mobile": "2",
+        "hide_swatches": false,
+        "alternate_bg_color": false,
+        "show_view_all": false
+      }
+    },
+    "90c1ec3a-58e7-44a3-8eb0-1c679aa31d94": {
+      "type": "collection-list-custom",
+      "blocks": {
+        "template--19589252612420__90c1ec3a-58e7-44a3-8eb0-1c679aa31d94-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "mara",
+            "image": "shopify:\/\/shop_images\/Mara-Glass-topas-trockenblumen_a14e26f5-0115-4107-9b4c-c2747602bbc8.jpg",
+            "sub-title": ""
+          }
+        },
+        "template--19589252612420__90c1ec3a-58e7-44a3-8eb0-1c679aa31d94-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "ajana",
+            "image": "shopify:\/\/shop_images\/Ajana-Windlicht-grau_3d4f0896-c990-4fc9-8864-95245a36f4cd.jpg",
+            "sub-title": ""
+          }
+        },
+        "template--19589252612420__90c1ec3a-58e7-44a3-8eb0-1c679aa31d94-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "como",
+            "image": "shopify:\/\/shop_images\/Como-Cream_c982cd37-aaa4-436d-b457-7df92ab41e3c.jpg",
+            "sub-title": ""
+          }
+        },
+        "609081c8-3b26-46df-aaba-1d3206788daf": {
+          "type": "collection",
+          "settings": {
+            "collection": "pflanzen-zweige",
+            "image": "shopify:\/\/shop_images\/Trockenblumen.jpg",
+            "sub-title": ""
+          }
+        },
+        "b54054b6-1391-4428-beb5-18f8eb09e00b": {
+          "type": "collection",
+          "settings": {
+            "collection": "florea",
+            "image": "shopify:\/\/shop_images\/florea_80e325ea-739d-4679-bf30-5914f2f3fc18.jpg",
+            "sub-title": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19589252612420__90c1ec3a-58e7-44a3-8eb0-1c679aa31d94-collection-1",
+        "template--19589252612420__90c1ec3a-58e7-44a3-8eb0-1c679aa31d94-collection-2",
+        "template--19589252612420__90c1ec3a-58e7-44a3-8eb0-1c679aa31d94-collection-3",
+        "609081c8-3b26-46df-aaba-1d3206788daf",
+        "b54054b6-1391-4428-beb5-18f8eb09e00b"
+      ],
+      "custom_css": [
+        ".collection-list-custom {margin-top: -10px;}"
+      ],
+      "settings": {
+        "title": "Entdecke herbstliche Einrichtungsideen",
+        "layout": "carousel",
+        "grid": 4,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "alternate_bg_color": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "d6b75351-9c3d-431a-b683-7e18d240e0b0": {
+      "type": "products-recommendation",
+      "settings": {
+        "title": "All Time Tea Favourites",
+        "collection": "fall-tea",
+        "layout": "rows",
+        "show_vendor": false,
+        "grid": 4,
+        "rows": 2,
+        "grid_mobile": "2",
+        "hide_swatches": false,
+        "alternate_bg_color": false,
+        "show_view_all": false
+      }
+    },
+    "1f5dcadd-15ee-4912-bcfe-d490e978ec53": {
+      "type": "collection-list-custom",
+      "blocks": {
+        "template--19589252612420__1f5dcadd-15ee-4912-bcfe-d490e978ec53-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "tassen-becher-kannen",
+            "image": "shopify:\/\/shop_images\/coppayuki_8c6155ea-06c9-4e65-b379-08c058c4c6b5.jpg",
+            "sub-title": "alle"
+          }
+        },
+        "template--19589252612420__1f5dcadd-15ee-4912-bcfe-d490e978ec53-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-sencha",
+            "image": "shopify:\/\/shop_images\/Coppa-Sencha-Teeset-Holztablett-web_59d5ec2d-49c4-4bf3-b45a-c85215527bf1.jpg",
+            "sub-title": ""
+          }
+        },
+        "template--19589252612420__1f5dcadd-15ee-4912-bcfe-d490e978ec53-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa",
+            "image": "shopify:\/\/shop_images\/coppa_c9fff116-703f-4511-af14-a29913653bab.jpg",
+            "sub-title": ""
+          }
+        },
+        "434282b4-565e-4bb4-83a8-f59368b05e54": {
+          "type": "collection",
+          "settings": {
+            "collection": "cup-go",
+            "image": "shopify:\/\/shop_images\/thermobecher-herbst-silikondeckel.jpg",
+            "sub-title": ""
+          }
+        },
+        "6d249a00-424e-49f3-bad3-dc7e8d8fdf8e": {
+          "type": "collection",
+          "settings": {
+            "collection": "ti-amo-colore",
+            "image": "shopify:\/\/shop_images\/tiamo_colore.jpg",
+            "sub-title": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19589252612420__1f5dcadd-15ee-4912-bcfe-d490e978ec53-collection-2",
+        "template--19589252612420__1f5dcadd-15ee-4912-bcfe-d490e978ec53-collection-1",
+        "template--19589252612420__1f5dcadd-15ee-4912-bcfe-d490e978ec53-collection-3",
+        "434282b4-565e-4bb4-83a8-f59368b05e54",
+        "6d249a00-424e-49f3-bad3-dc7e8d8fdf8e"
+      ],
+      "custom_css": [
+        ".collection-list-custom {margin-top: -10px;}"
+      ],
+      "settings": {
+        "title": "Teekollektionen für gemütliche Stunden",
+        "layout": "carousel",
+        "grid": 4,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "alternate_bg_color": true
+      }
+    },
+    "1c7431a0-1e15-471f-9896-e50dad808fc3": {
+      "type": "products-recommendation",
+      "settings": {
+        "title": "Lieblingsteile in warmen Farben",
+        "collection": "fall-products-popular",
+        "layout": "rows",
+        "show_vendor": false,
+        "grid": 4,
+        "rows": 2,
+        "grid_mobile": "2",
+        "hide_swatches": false,
+        "alternate_bg_color": false,
+        "show_view_all": false
+      }
+    },
+    "871ad6b6-7f41-4eea-b6d4-1f07bc9c6b75": {
+      "type": "collection-list-custom",
+      "blocks": {
+        "template--19589252612420__871ad6b6-7f41-4eea-b6d4-1f07bc9c6b75-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-kuro",
+            "sub-title": ""
+          }
+        },
+        "template--19589252612420__871ad6b6-7f41-4eea-b6d4-1f07bc9c6b75-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-miso",
+            "image": "shopify:\/\/shop_images\/Coppa-Miso-Tischszene_d3c131a3-e66d-4e58-b4b3-1698fce9271e.jpg",
+            "sub-title": ""
+          }
+        },
+        "template--19589252612420__871ad6b6-7f41-4eea-b6d4-1f07bc9c6b75-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-nori",
+            "sub-title": ""
+          }
+        },
+        "ed126206-2b7d-4237-9714-35727ece2ccf": {
+          "type": "collection",
+          "settings": {
+            "collection": "nesuto",
+            "image": "shopify:\/\/shop_images\/Nesuto-185-1_Final.jpg",
+            "sub-title": ""
+          }
+        },
+        "f0c114c0-0c37-4a6f-b3ab-4ad73117ec9e": {
+          "type": "collection",
+          "settings": {
+            "collection": "saisons-almond-beluga",
+            "image": "shopify:\/\/shop_images\/saisons-beluga-almond-tischszene_0e5ef012-9ae5-4ba6-9e3c-e5084f808d53.jpg",
+            "sub-title": ""
+          }
+        },
+        "32fa0918-dcba-49b3-929b-923c00376e43": {
+          "type": "collection",
+          "settings": {
+            "collection": "saisons",
+            "image": "shopify:\/\/shop_images\/saisons_sand_denim_midnight_c6460f4e-130a-4faf-b38a-42ef44e394ed.jpg",
+            "sub-title": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19589252612420__871ad6b6-7f41-4eea-b6d4-1f07bc9c6b75-collection-1",
+        "template--19589252612420__871ad6b6-7f41-4eea-b6d4-1f07bc9c6b75-collection-2",
+        "template--19589252612420__871ad6b6-7f41-4eea-b6d4-1f07bc9c6b75-collection-3",
+        "ed126206-2b7d-4237-9714-35727ece2ccf",
+        "f0c114c0-0c37-4a6f-b3ab-4ad73117ec9e",
+        "32fa0918-dcba-49b3-929b-923c00376e43"
+      ],
+      "custom_css": [
+        ".collection-list-custom {margin-top: -10px;}"
+      ],
+      "settings": {
+        "title": "Geschirr-Inspirationen für den Herbst",
+        "layout": "carousel",
+        "grid": 4,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "alternate_bg_color": true
+      }
+    }
+  },
+  "order": [
+    "879e2243-103c-4df1-8fc9-178fad3be3ff",
+    "7cd24c8c-7aa2-4188-a435-086b1d267e8f",
+    "90c1ec3a-58e7-44a3-8eb0-1c679aa31d94",
+    "main",
+    "d6b75351-9c3d-431a-b683-7e18d240e0b0",
+    "1f5dcadd-15ee-4912-bcfe-d490e978ec53",
+    "1c7431a0-1e15-471f-9896-e50dad808fc3",
+    "871ad6b6-7f41-4eea-b6d4-1f07bc9c6b75"
+  ]
+}

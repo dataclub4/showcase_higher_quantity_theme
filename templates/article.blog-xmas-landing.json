@@ -1,0 +1,288 @@
+{
+  "sections": {
+    "de0592ea-4ce1-4451-96d2-fa3b2d1ae839": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 450,
+        "height_mobile": 400,
+        "subheading": "{{ article.title }}",
+        "title": "Image with text overlay",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "<p>Pair text with an image to draw attention to an important detail of your brand or product line.<\/p>",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "disabled": true,
+      "custom_css": [
+        ".line-1 {text-align: center !important;}",
+        ".line-2 {text-align: center !important; color: #ffffff; font-weight: normal !important;}"
+      ],
+      "settings": {
+        "featured_image": "wide",
+        "blog_show_author": false,
+        "blog_show_date": false,
+        "blog_show_social": false
+      }
+    },
+    "c063f9dc-36c1-485d-89ef-fde2b48b8010": {
+      "type": "background-video",
+      "settings": {
+        "video_shopify": "shopify:\/\/files\/videos\/Xmas2023-saisons-almond-beluga-16zu9.mp4",
+        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "subheading": "Festlich gedeckt mit",
+        "title": "saisons almond",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "button_label": "",
+        "button_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "height": "fixed",
+        "height_desktop": 780,
+        "height_mobile": 500,
+        "full_width": true,
+        "overlay_style_tint": true
+      }
+    },
+    "91df7aab-f3e4-49c7-a37d-33b3678e7599": {
+      "type": "collection-list-custom",
+      "blocks": {
+        "template--19682223161668__91df7aab-f3e4-49c7-a37d-33b3678e7599-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ article.metafields.custom.inspiration_serie_1.value }}",
+            "image": "{{ article.metafields.custom.inspiration_serie_1_image.value }}",
+            "sub-title": ""
+          }
+        },
+        "29621068-78aa-43a2-bd46-8d45b26e49e6": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ article.metafields.custom.inspiration_serie_2.value }}",
+            "image": "{{ article.metafields.custom.inspiration_serie_2_image.value }}",
+            "sub-title": ""
+          }
+        },
+        "template--19682223161668__91df7aab-f3e4-49c7-a37d-33b3678e7599-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ article.metafields.custom.inspiration_serie_3.value }}",
+            "image": "{{ article.metafields.custom.inspiration_serie_3_image.value }}",
+            "sub-title": ""
+          }
+        },
+        "39a16167-2888-4438-b409-282ea6c5c4c4": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ article.metafields.custom.inspiration_serie_4.value }}",
+            "image": "{{ article.metafields.custom.inspiration_serie_4_image.value }}",
+            "sub-title": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19682223161668__91df7aab-f3e4-49c7-a37d-33b3678e7599-collection-1",
+        "29621068-78aa-43a2-bd46-8d45b26e49e6",
+        "template--19682223161668__91df7aab-f3e4-49c7-a37d-33b3678e7599-collection-3",
+        "39a16167-2888-4438-b409-282ea6c5c4c4"
+      ],
+      "custom_css": [
+        ".collection-list-custom {margin-top: 0;}"
+      ],
+      "settings": {
+        "title": "{{ article.metafields.custom.serie_title.value }}",
+        "layout": "carousel",
+        "grid": 4,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "alternate_bg_color": true
+      }
+    },
+    "a569d5ed-4056-4b46-ba80-e51c30822901": {
+      "type": "products-recommendation",
+      "settings": {
+        "title": "",
+        "collection": "250degc-plus",
+        "layout": "rows",
+        "show_vendor": false,
+        "grid": 4,
+        "rows": 6,
+        "grid_mobile": "2",
+        "hide_swatches": false,
+        "alternate_bg_color": false,
+        "show_view_all": false
+      }
+    },
+    "906bf67d-ff5a-418c-86dc-3b8402478e4b": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "saisons almond 18-teilig",
+        "title": "starterset",
+        "title_size": 28,
+        "text": "<p>6x Dessertteller Ø21cm <\/p><p>6x Essteller Ø26,5cm <\/p><p>6x Pastateller Ø21cm <\/p><p><\/p><p><strong>€289,00<\/strong><\/p>",
+        "button_label": "produkt anzeigen",
+        "button_link": "shopify:\/\/products\/starterset-saisons-almond-18-teilig",
+        "text_alignment": "left",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/almond-starterset-agavexmas.png",
+        "image_width": 60,
+        "image_position": "right",
+        "media_size": "contain",
+        "color_scheme": "alt",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "cf08d6ac-6950-4731-93fc-a424df7f8d28": {
+      "type": "gallery",
+      "blocks": {
+        "template--19682223161668__cf08d6ac-6950-4731-93fc-a424df7f8d28-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "{{ article.metafields.custom.inspiration_image1.value }}",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--19682223161668__cf08d6ac-6950-4731-93fc-a424df7f8d28-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "{{ article.metafields.custom.inspiration_image2.value }}",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--19682223161668__cf08d6ac-6950-4731-93fc-a424df7f8d28-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "{{ article.metafields.custom.inspiration_image3.value }}",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        }
+      },
+      "block_order": [
+        "template--19682223161668__cf08d6ac-6950-4731-93fc-a424df7f8d28-image-1",
+        "template--19682223161668__cf08d6ac-6950-4731-93fc-a424df7f8d28-image-2",
+        "template--19682223161668__cf08d6ac-6950-4731-93fc-a424df7f8d28-image-3"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 3,
+        "desktop_image_height": 480,
+        "mobile_image_height": 400,
+        "title_size": 44,
+        "enable_margin": false,
+        "full_width": true,
+        "enable_carousel": true,
+        "overlay_style_tint": false,
+        "alternate_bg_color": false
+      }
+    },
+    "f1e2d86c-d2cf-4aa5-91bb-2a0d83f032dd": {
+      "type": "gallery",
+      "blocks": {
+        "template--20032953352516__f1e2d86c-d2cf-4aa5-91bb-2a0d83f032dd-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kuro-xmas.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "Festlich gedeckt mit",
+            "title": "oco ligne noire & coppa kuro",
+            "heading_h1": false,
+            "button_label": "ansehen",
+            "link": "https:\/\/www.asa-selection.com\/blogs\/inspiration\/xmas-oco-ligne-noire-coppa-kuro",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--20032953352516__f1e2d86c-d2cf-4aa5-91bb-2a0d83f032dd-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/231019_ASA_Winterclips_23_v001_GT_8Z5A0143.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "festliche",
+            "title": "Weihnachtsdekoration",
+            "heading_h1": false,
+            "button_label": "ansehen",
+            "link": "shopify:\/\/collections\/xmas-1",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--20032953352516__f1e2d86c-d2cf-4aa5-91bb-2a0d83f032dd-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/231019_ASA_Winterclips_23_v001_GT_8Z5A0040.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "festliche",
+            "title": "geschenkideen",
+            "heading_h1": false,
+            "button_label": "ansehen",
+            "link": "shopify:\/\/collections\/geschenkideen",
+            "text_alignment": "position--left position--bottom"
+          }
+        }
+      },
+      "block_order": [
+        "template--20032953352516__f1e2d86c-d2cf-4aa5-91bb-2a0d83f032dd-image-1",
+        "template--20032953352516__f1e2d86c-d2cf-4aa5-91bb-2a0d83f032dd-image-2",
+        "template--20032953352516__f1e2d86c-d2cf-4aa5-91bb-2a0d83f032dd-image-3"
+      ],
+      "settings": {
+        "title": "Entdecken Sie weitere Weihnachtsinspirationen",
+        "grid": 3,
+        "desktop_image_height": 300,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "enable_margin": true,
+        "full_width": false,
+        "enable_carousel": true,
+        "overlay_style_tint": true,
+        "alternate_bg_color": false
+      }
+    }
+  },
+  "order": [
+    "de0592ea-4ce1-4451-96d2-fa3b2d1ae839",
+    "main",
+    "c063f9dc-36c1-485d-89ef-fde2b48b8010",
+    "91df7aab-f3e4-49c7-a37d-33b3678e7599",
+    "a569d5ed-4056-4b46-ba80-e51c30822901",
+    "906bf67d-ff5a-418c-86dc-3b8402478e4b",
+    "cf08d6ac-6950-4731-93fc-a424df7f8d28",
+    "f1e2d86c-d2cf-4aa5-91bb-2a0d83f032dd"
+  ]
+}

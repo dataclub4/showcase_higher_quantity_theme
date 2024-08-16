@@ -1,0 +1,51 @@
+{% assign blackfriday_active = false %}
+{% if settings.blackfriday_enabled %}
+  {% assign bf_tags = settings.blackfriday_tags | replace: " ", ""  | split: "," %}
+  {% if settings.blackfriday_icon and bf_tags %}
+    {% for bf_tag in bf_tags %}
+      {% if product.tags contains bf_tag %}
+        {% assign blackfriday_active = true %}        
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endif %}
+
+{% if blackfriday_active == true %}
+      <div class="BlackFrIcon {{ class }}" >
+          <img src="{{ settings.blackfriday_icon | image_url }}">
+        </div>
+
+        <style>
+        .product-block__inner, .product-area__media{
+          position: relative;
+        }
+        .BlackFrIcon{
+          position: absolute;
+          z-index: 2;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+      
+        .BlackFrIcon > img{
+          height: 100%;
+          width: 100%;
+          object-fit: contain;
+        }
+      
+        .product-block__inner .BlackFrIcon{
+          top: 10px;
+          right: 10px;
+          height: 50px;
+          width: 50px;
+        }
+        
+        .product-area__media .BlackFrIcon{
+          top: 50px;
+          right: 10px;
+          height: 80px;
+          width: 80px;
+        }
+        
+      </style>
+{% endif %}

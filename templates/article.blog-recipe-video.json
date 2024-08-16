@@ -1,0 +1,175 @@
+{
+  "sections": {
+    "image_with_text_overlay_MJHQib": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image": "{{ article.image }}",
+        "height": "fixed",
+        "height_desktop": 450,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "Recipe",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "<p>{{ article.title }}<\/p>",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "settings": {
+        "featured_image": "wide",
+        "blog_show_author": false,
+        "blog_show_date": false,
+        "blog_show_social": false
+      }
+    },
+    "video_wFhYKg": {
+      "type": "video",
+      "custom_css": [
+        ".section-spacing {padding-top: 0; padding-bottom: 0;}"
+      ],
+      "settings": {
+        "video_shopify": "{{ article.metafields.custom.recipe_video.value }}",
+        "video_external": "",
+        "subheading": "",
+        "video_title": "",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": false,
+        "overlay_style_tint": true
+      }
+    },
+    "101722af-791c-4754-a18d-ee5a6fe2db55": {
+      "type": "featured-product",
+      "blocks": {
+        "template--19138375516484__101722af-791c-4754-a18d-ee5a6fe2db55-16886367421a9d4f42-0": {
+          "type": "vendor_and_type",
+          "settings": {
+            "show_vendor": true,
+            "show_type": false
+          }
+        },
+        "template--19138375516484__101722af-791c-4754-a18d-ee5a6fe2db55-16886367421a9d4f42-1": {
+          "type": "title",
+          "settings": {}
+        },
+        "template--19138375516484__101722af-791c-4754-a18d-ee5a6fe2db55-16886367421a9d4f42-2": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false
+          }
+        },
+        "template--19138375516484__101722af-791c-4754-a18d-ee5a6fe2db55-16886367421a9d4f42-3": {
+          "type": "rating",
+          "settings": {}
+        },
+        "template--19138375516484__101722af-791c-4754-a18d-ee5a6fe2db55-16886367421a9d4f42-4": {
+          "type": "variant_picker",
+          "settings": {
+            "variant_style": "underlined",
+            "show_realtime_availability": true
+          }
+        },
+        "template--19138375516484__101722af-791c-4754-a18d-ee5a6fe2db55-16886367421a9d4f42-5": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19138375516484__101722af-791c-4754-a18d-ee5a6fe2db55-16886367421a9d4f42-0",
+        "template--19138375516484__101722af-791c-4754-a18d-ee5a6fe2db55-16886367421a9d4f42-1",
+        "template--19138375516484__101722af-791c-4754-a18d-ee5a6fe2db55-16886367421a9d4f42-2",
+        "template--19138375516484__101722af-791c-4754-a18d-ee5a6fe2db55-16886367421a9d4f42-3",
+        "template--19138375516484__101722af-791c-4754-a18d-ee5a6fe2db55-16886367421a9d4f42-4",
+        "template--19138375516484__101722af-791c-4754-a18d-ee5a6fe2db55-16886367421a9d4f42-5"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "",
+        "show_backorder_text": true,
+        "slide_nav_style": "arrows",
+        "media_crop": "center",
+        "enable_zoom": true,
+        "zoom_cursor": "plus-light",
+        "enable_video_looping": false,
+        "highlight_selected_media": true
+      }
+    },
+    "a569d5ed-4056-4b46-ba80-e51c30822901": {
+      "type": "products-recommendation",
+      "settings": {
+        "title": "",
+        "collection": "250degc-plus",
+        "layout": "rows",
+        "show_vendor": false,
+        "grid": 4,
+        "rows": 3,
+        "grid_mobile": "2",
+        "hide_swatches": false,
+        "alternate_bg_color": false,
+        "show_view_all": true
+      }
+    },
+    "32d722c8-1c54-416b-86d4-f920df8d24ec": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19138375516484__32d722c8-1c54-416b-86d4-f920df8d24ec-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ article.metafields.custom.inspiration_serie_1.value }}",
+            "image": "{{ article.metafields.custom.inspiration_serie_1_image.value }}"
+          }
+        },
+        "template--19138375516484__32d722c8-1c54-416b-86d4-f920df8d24ec-collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ article.metafields.custom.inspiration_serie_2.value }}",
+            "image": "{{ article.metafields.custom.inspiration_serie_2_image.value }}"
+          }
+        },
+        "template--19138375516484__32d722c8-1c54-416b-86d4-f920df8d24ec-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ article.metafields.custom.inspiration_serie_3.value }}",
+            "image": "{{ article.metafields.custom.inspiration_serie_3_image.value }}"
+          }
+        }
+      },
+      "block_order": [
+        "template--19138375516484__32d722c8-1c54-416b-86d4-f920df8d24ec-collection-1",
+        "template--19138375516484__32d722c8-1c54-416b-86d4-f920df8d24ec-collection-2",
+        "template--19138375516484__32d722c8-1c54-416b-86d4-f920df8d24ec-collection-3"
+      ],
+      "settings": {
+        "title": "",
+        "layout": "rows",
+        "grid": 3,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "alternate_bg_color": false
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_MJHQib",
+    "main",
+    "video_wFhYKg",
+    "101722af-791c-4754-a18d-ee5a6fe2db55",
+    "a569d5ed-4056-4b46-ba80-e51c30822901",
+    "32d722c8-1c54-416b-86d4-f920df8d24ec"
+  ]
+}

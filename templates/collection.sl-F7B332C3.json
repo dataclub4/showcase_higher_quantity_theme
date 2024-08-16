@@ -1,0 +1,78 @@
+{
+  "sections": {
+    "cdc817f5-3e8f-46a5-9580-06d45445e751": {
+      "type": "collection-list",
+      "blocks": {
+        "template--18997396439364__cdc817f5-3e8f-46a5-9580-06d45445e751-1684922790d663cf4a-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "tischsets"
+          }
+        },
+        "template--18997396439364__cdc817f5-3e8f-46a5-9580-06d45445e751-1684922790d663cf4a-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "untersetzer",
+            "image": "shopify:\/\/shop_images\/7835420OWM4J26gXmrcu-600x600-2xPRy7dJaWPj0V1.png"
+          }
+        },
+        "template--18997396439364__cdc817f5-3e8f-46a5-9580-06d45445e751-1684922790d663cf4a-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "servietten",
+            "image": "shopify:\/\/shop_images\/37770065-tablelinen-serviette-natural_1280x1280_14f35ea5-e1e6-4f34-b7d5-4fcc6f1de9d9.webp"
+          }
+        },
+        "3abe11b1-9f30-4d0d-85b6-24476d26c96f": {
+          "type": "collection",
+          "settings": {
+            "collection": "geschirrtucher",
+            "image": "shopify:\/\/shop_images\/37781065-tischlaeufer-ginger_1280x1280_675aa600-dd21-4852-b3b7-8536ea872217.webp"
+          }
+        }
+      },
+      "block_order": [
+        "template--18997396439364__cdc817f5-3e8f-46a5-9580-06d45445e751-1684922790d663cf4a-0",
+        "template--18997396439364__cdc817f5-3e8f-46a5-9580-06d45445e751-1684922790d663cf4a-1",
+        "template--18997396439364__cdc817f5-3e8f-46a5-9580-06d45445e751-1684922790d663cf4a-2",
+        "3abe11b1-9f30-4d0d-85b6-24476d26c96f"
+      ],
+      "settings": {
+        "title": "",
+        "layout": "rows",
+        "grid": 4,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "alternate_bg_color": false
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "settings": {
+        "show_collection_content": true,
+        "show_starter_kits_first": true,
+        "show_collection_image": false,
+        "description_position": "top",
+        "layout": "rows",
+        "grid": 4,
+        "grid_mobile": "2",
+        "products_per_page": 24,
+        "enable_infinite_scroll": true,
+        "show_vendor": true,
+        "show_filter_counts": true,
+        "show_filter_deadends": true,
+        "ajax_products": true,
+        "filter_mode": "sidebar",
+        "sticky_sidebar": true,
+        "collapse_filters_method": "none",
+        "collapse_sort_by": false,
+        "enable_sorting": true,
+        "show_featured_in_sort": false
+      }
+    }
+  },
+  "order": [
+    "cdc817f5-3e8f-46a5-9580-06d45445e751",
+    "main"
+  ]
+}

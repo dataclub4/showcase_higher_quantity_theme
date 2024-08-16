@@ -1,0 +1,134 @@
+
+<div class="product-slider">
+
+<div class="wide-container half-gutter subcollection-list {% if section.settings.alternate_bg_color %}use-alt-bg {% endif %}" data-section-type="collection-list" data-cc-animate>
+  {% if section.settings.title != blank or section.settings.show_view_all %}
+    <div class="section-heading" data-cc-animate>
+      {% if section.settings.title != blank %}
+        <h2 class="h2">{{ section.settings.title | escape }}</h2>
+      {% else %}
+        <div></div>
+      {% endif %}
+
+      {% if section.settings.show_view_all %}
+        <a data-cc-animate-click class="view-all-link" href="{{ routes.collections_url }}">
+          {{ 'collections.general.view_all' | t }}
+        </a>
+      {% endif %}
+    </div>
+  {% endif %}
+
+  {% assign animation_type = "cc-fade-in-up" %}
+  {%- if section.settings.layout == "columns" -%}
+    {% assign animation_type = "cc-fade-in" %}
+  {%- endif -%}
+  
+    <div class="swiper-container product-list product-list--{{ section.settings.layout }}"
+         data-products-in-view="{{ section.settings.grid }}">
+
+      <div class="swiper-wrapper" data-normheights=".image" data-normheights-inner="img">
+        {% for block in section.blocks %}
+          <div class="swiper-slide" {{ block.shopify_attributes }}>
+            <div class="subcolection-block collection-block" style="
+              {% if section.settings.height %} height: {{ section.settings.height }}px; {% endif %}
+              {% if block.settings.bg_color %} background-color: {{ block.settings.bg_color }}; {% endif %}
+              "> {{ block.settings.collection.title }} 
+            <a class="subcolection-block-url" href="{{ block.settings.collection.url }} "></a></div>
+          </div>
+        {% endfor %}
+      </div>
+
+      <div class="swiper-scrollbar"></div>
+      <a href="#" class="swiper-button-prev js-swiper-button-prev" aria-label="{{ 'general.accessibility_labels.previous' | t | escape }}">{% render 'svg-chevron-left' %}</a>
+      <a href="#" class="swiper-button-next js-swiper-button-next" aria-label="{{ 'general.accessibility_labels.next' | t | escape }}">{% render 'svg-chevron-right' %}</a>
+    </div>
+  
+</div>
+
+</div>
+
+
+{% schema %}
+  {
+    "name": "Subcollection list",
+    "class": "section-subcollection-list",
+    "max_blocks": 32,
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Heading",
+        "default": "Collection list"
+      },
+       {
+        "type": "number",
+        "id": "height",
+        "label": "Height Block"
+      },
+      {
+        "type": "range",
+        "id": "grid",
+        "label": "Desktop collections per row",
+        "min": 2,
+        "max": 8,
+        "default": 3
+      },
+      {
+        "type": "select",
+        "id": "grid_mobile",
+        "label": "Mobile collections per row",
+        "options": [
+          {
+            "value": "1",
+            "label": "1"
+          },
+          {
+            "value": "2",
+            "label": "2"
+          },
+          {
+            "value": "3",
+            "label": "3"
+          }
+        ],
+        "default": "2"
+      },
+      {
+        "type": "checkbox",
+        "id": "show_view_all",
+        "label": "Show 'View all' link",
+        "default": true
+      },
+      {
+        "type": "checkbox",
+        "id": "alternate_bg_color",
+        "label": "Use alternate section color",
+        "default": false
+      }
+    ],
+    "blocks": [
+      {
+        "type": "collection",
+        "name": "Collection",
+        "settings": [
+          {
+              "type": "collection",
+              "id": "collection",
+              "label": "Collection"
+          },
+          {
+              "type": "color",
+              "id": "bg_color",
+              "label": "BG color"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Subcollection list",
+        "settings": {}
+      }
+    ]
+  }
+{% endschema %}

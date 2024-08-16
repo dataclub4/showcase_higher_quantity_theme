@@ -1,0 +1,487 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "b0a99163-adc9-4a5b-a8f0-7f2b973ea421": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image_2021_07_02T15_59_52_110Z.jpg",
+        "height": "fixed",
+        "height_desktop": 450,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "Einzigartige Keramik aus Portugal",
+        "title_size": 50,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "5502829f-612e-4316-9df8-9e9aacd00a71": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        ".overlay__content {color: #d3b664;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Coppa-Sencha-Fondueteller_ce827fc9-3e54-4072-b11c-b2b5c7ab336a.jpg",
+        "height": "fixed",
+        "height_desktop": 500,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "BLACK DEALS",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "<p>BIS ZU 50% SPAREN<\/p>",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "4716251e-4237-44e8-bf96-4bc86b0f6e71": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "Black friday",
+        "title": "Die schönsten Angebote zum Winter!",
+        "title_size": 32,
+        "heading_h1": false,
+        "text": "<p>Ausgewählte, handgefertigte Geschirr-Serien, Küchentextilien und vieles mehr.<br\/>Inspirationen zum Schenken und Genießen.<br\/><\/p><p>Gültig ab sofort bis einschließlich 27.11.2023.<br\/>Nur solange der Vorrat reicht!<\/p>",
+        "image_width": 700,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "9697d299-55c0-4702-873b-b0c80e200439": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "made in Portugal",
+        "title": "Designed in Germany,",
+        "title_size": 40,
+        "text": "<p>Verantwortung. Für uns mehr als nur ein Begriff. Seit mehr als 3 Jahrzehnten sehen wir es als selbstverständlich an, viele unserer Produkte in kleinen Familienbetrieben in Portugal zu produzieren. Die jahrelange, enge Zusammenarbeit sichert diesen Menschen ihren Lebensunterhalt. Mehr als je zuvor müssen wir heute aber auch Verantwortung für unsere Umwelt übernehmen. Der Behutsame Umgang mit Ressourcen steht für uns im Mittelpunkt. Die gesamte ASA Familie ist stolz, ihren Teil zum Schutz der Umwelt beitragen zu können.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "center",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/Historie_2_neu_800x800-2x.jpg",
+        "image_width": 100,
+        "image_position": "right",
+        "media_size": "cover",
+        "color_scheme": "alt",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "9124da1f-107a-4edc-bc35-008678ca6771": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--20133799887172__9124da1f-107a-4edc-bc35-008678ca6771-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/bf-cuba.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/cuba"
+          }
+        },
+        "template--20133799887172__9124da1f-107a-4edc-bc35-008678ca6771-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/vf-nestu.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/nesuto"
+          }
+        }
+      },
+      "block_order": [
+        "template--20133799887172__9124da1f-107a-4edc-bc35-008678ca6771-text_block-1",
+        "template--20133799887172__9124da1f-107a-4edc-bc35-008678ca6771-text_block-2"
+      ],
+      "custom_css": [
+        ".section-spacing {padding-bottom: 0;}"
+      ],
+      "settings": {
+        "title": "Alle Angebote",
+        "text_alignment": "center",
+        "button_style": "link",
+        "media_shape": "natural",
+        "alternate_bg_color": true,
+        "full_width": true
+      }
+    },
+    "24065043-f5d4-4868-a121-6cbd61462d46": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--20133799887172__24065043-f5d4-4868-a121-6cbd61462d46-text_block-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/bf-caja.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/caja"
+          }
+        },
+        "template--20133799887172__24065043-f5d4-4868-a121-6cbd61462d46-text_block-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/kitchento-bf.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/kitchen-textiles"
+          }
+        }
+      },
+      "block_order": [
+        "template--20133799887172__24065043-f5d4-4868-a121-6cbd61462d46-text_block-1",
+        "template--20133799887172__24065043-f5d4-4868-a121-6cbd61462d46-text_block-2"
+      ],
+      "custom_css": [
+        ".section-spacing {padding-top: 10px; padding-bottom: 0;}"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "media_shape": "natural",
+        "alternate_bg_color": true,
+        "full_width": true
+      }
+    },
+    "86f99d66-4098-44a7-b366-d1648e97e315": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "5cbda448-dadb-4cf4-beeb-941c94aec97d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/BF-candle.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": "shopify:\/\/products\/kerzenstander-rund-multifunktional"
+          }
+        },
+        "5d529d34-a6ba-4380-a646-f849dbcba4b4": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/bf-sencha.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": "shopify:\/\/products\/aperitifteller-sencha"
+          }
+        }
+      },
+      "block_order": [
+        "5cbda448-dadb-4cf4-beeb-941c94aec97d",
+        "5d529d34-a6ba-4380-a646-f849dbcba4b4"
+      ],
+      "custom_css": [
+        ".section-spacing {padding-top: 10px; padding-bottom: 0;}"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "media_shape": "natural",
+        "alternate_bg_color": true,
+        "full_width": true
+      }
+    },
+    "6dac0a88-2315-4368-a454-7ce7fcabe062": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "ec4b4baf-3ef4-4e9d-ac76-ea4bc749ba04": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/coppa-happymugs.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/coppa-happy-mugs"
+          }
+        },
+        "309bbcfb-c27e-43ce-8afe-8a20c5ab871e": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/grandeoclore.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/grande-colore"
+          }
+        }
+      },
+      "block_order": [
+        "ec4b4baf-3ef4-4e9d-ac76-ea4bc749ba04",
+        "309bbcfb-c27e-43ce-8afe-8a20c5ab871e"
+      ],
+      "custom_css": [
+        ".section-spacing {padding-top: 10px; padding-bottom: 0;}"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "media_shape": "natural",
+        "alternate_bg_color": true,
+        "full_width": true
+      }
+    },
+    "952ef993-18ef-404e-87aa-64aac93d22e6": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "b6d0c40a-fafe-436c-b940-f318fa563052": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/bf-thermo.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/thermo"
+          }
+        },
+        "e3eb6e6c-1ea2-4856-9fe7-60f5302acc4b": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/bf-250.jpg",
+            "image_width": 700,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "link": "shopify:\/\/products\/raviolistempel-dreieck"
+          }
+        }
+      },
+      "block_order": [
+        "b6d0c40a-fafe-436c-b940-f318fa563052",
+        "e3eb6e6c-1ea2-4856-9fe7-60f5302acc4b"
+      ],
+      "custom_css": [
+        ".section-spacing {padding-top: 10px;}"
+      ],
+      "settings": {
+        "title": "",
+        "text_alignment": "center",
+        "button_style": "primary",
+        "media_shape": "natural",
+        "alternate_bg_color": true,
+        "full_width": true
+      }
+    },
+    "ab93eb3f-cde7-4f37-8fcb-856c3e7b9c18": {
+      "type": "gallery",
+      "blocks": {
+        "template--20133799887172__ab93eb3f-cde7-4f37-8fcb-856c3e7b9c18-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cuba-Ocra-Marone-Teller-web.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "shop now",
+            "link": "shopify:\/\/collections\/cuba",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--20133799887172__ab93eb3f-cde7-4f37-8fcb-856c3e7b9c18-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bf-nesuto.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "shop now",
+            "link": "shopify:\/\/collections\/nesuto",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--20133799887172__ab93eb3f-cde7-4f37-8fcb-856c3e7b9c18-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Caja-Fruehstueckszene-web_38a90538-84b5-44c5-adcc-1837f14bce92.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "shop now",
+            "link": "shopify:\/\/collections\/caja",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "cf63abb1-5644-4546-917d-8cf41ccdf468": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Geschirrtuecher-Kueche-web_50cea077-f215-4f2d-9ece-4456faa26f00.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "shop now",
+            "link": "shopify:\/\/collections\/kitchen-textiles",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "4c66642a-f6c8-40be-853d-5591526f2313": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Grande-Colore-Mango-web_920a111a-d0c5-41ba-8a3e-b55f8fa0fd92.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "shop now",
+            "link": "shopify:\/\/collections\/grande-colore",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "e9a34088-c85f-4630-a519-c6911d9204aa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/coppa-dontrememberplantingthis.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "shop now",
+            "link": "shopify:\/\/collections\/coppa",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "b75ec422-5ad0-4807-b184-9609a3c3195d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Grune-Ravioli-ASA.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "shop now",
+            "link": "shopify:\/\/products\/raviolistempel-dreieck",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "2e35a50f-0928-4df9-84b4-7dd4e4f6e53f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/thermobecher-herbst-silikondeckel.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "shop now",
+            "link": "shopify:\/\/collections\/thermo",
+            "text_alignment": "position--left position--bottom"
+          }
+        }
+      },
+      "block_order": [
+        "template--20133799887172__ab93eb3f-cde7-4f37-8fcb-856c3e7b9c18-image-1",
+        "template--20133799887172__ab93eb3f-cde7-4f37-8fcb-856c3e7b9c18-image-2",
+        "template--20133799887172__ab93eb3f-cde7-4f37-8fcb-856c3e7b9c18-image-3",
+        "cf63abb1-5644-4546-917d-8cf41ccdf468",
+        "4c66642a-f6c8-40be-853d-5591526f2313",
+        "e9a34088-c85f-4630-a519-c6911d9204aa",
+        "b75ec422-5ad0-4807-b184-9609a3c3195d",
+        "2e35a50f-0928-4df9-84b4-7dd4e4f6e53f"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "Alle Angebote",
+        "grid": 2,
+        "desktop_image_height": 400,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "enable_margin": true,
+        "full_width": false,
+        "enable_carousel": false,
+        "overlay_style_tint": true,
+        "alternate_bg_color": true
+      }
+    },
+    "63421f44-3475-4a31-bfc5-f32071c65090": {
+      "type": "products-recommendation",
+      "settings": {
+        "title": "Black Friday",
+        "collection": "blackfriday",
+        "layout": "rows",
+        "show_vendor": false,
+        "grid": 4,
+        "rows": 8,
+        "grid_mobile": "2",
+        "hide_swatches": false,
+        "alternate_bg_color": false,
+        "show_view_all": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b0a99163-adc9-4a5b-a8f0-7f2b973ea421",
+    "5502829f-612e-4316-9df8-9e9aacd00a71",
+    "4716251e-4237-44e8-bf96-4bc86b0f6e71",
+    "9697d299-55c0-4702-873b-b0c80e200439",
+    "9124da1f-107a-4edc-bc35-008678ca6771",
+    "24065043-f5d4-4868-a121-6cbd61462d46",
+    "86f99d66-4098-44a7-b366-d1648e97e315",
+    "6dac0a88-2315-4368-a454-7ce7fcabe062",
+    "952ef993-18ef-404e-87aa-64aac93d22e6",
+    "ab93eb3f-cde7-4f37-8fcb-856c3e7b9c18",
+    "63421f44-3475-4a31-bfc5-f32071c65090"
+  ]
+}

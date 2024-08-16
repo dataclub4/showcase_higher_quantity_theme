@@ -1,0 +1,127 @@
+{
+  "sections": {
+    "b0a99163-adc9-4a5b-a8f0-7f2b973ea421": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/aboutasa-header.jpg",
+        "height": "fixed",
+        "height_desktop": 450,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "simple things are beautiful",
+        "title_size": 56,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "313d4821-a78b-4c68-a0a9-9c089049ca62": {
+      "type": "Awards",
+      "settings": {
+        "subheading": "Only enjoy with people you like.",
+        "title": "Jobs",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p>ASA Selection ist eine trendgebende Marke für keramische Lifestyle Produkte weltweit. Unsere Produkte stehen für modernes Design in einer konsequent schlichten Formensprache, nach dem Motto „simple things are beautiful – das Schöne liegt im Einfachen.“ Als familiengeführtes Unternehmen in zweiter Generation sehen wir Respekt, Verantwortung, Beständigkeit und Treue gegenüber Mitarbeitern und Partnern als selbstverständlich an. Wir suchen Menschen mit Leidenschaft, Wärme und Emotion, ohne die es weder im Handwerk noch in der Familie funktioniert.<\/p>",
+        "image_width": 700,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "color_scheme": "custom",
+        "color_bg": "#f8f8f8",
+        "color_text": "#212121"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "custom_css": [
+        ".applicationFormOuter button {background: #222;}",
+        ".applicationFormOuter .inputWrapper {padding: 0;}",
+        ".column,#order_payment,#order_shipping,.grid li,header,footer,#main {padding-left: 0; padding-right: 20px;}"
+      ],
+      "settings": {}
+    },
+    "a77e9238-0bdc-46b7-b5c6-bdbf10fe2828": {
+      "type": "accordions",
+      "blocks": {
+        "template--19214054654276__a77e9238-0bdc-46b7-b5c6-bdbf10fe2828-16883865598ed61946-1": {
+          "type": "accordion",
+          "settings": {
+            "icon": "none",
+            "title": "Einkäufer (m\/w\/d)",
+            "text": "<p>Als Teil unserer Einkaufsabteilung betreuen Sie unsere internationalen Lieferanten, begleiten den Produktentwicklungsprozess, führen Preisverhandlungen und disponieren selbständig den Warennachschub.<\/p><p><strong>Das sind Sie:<\/strong><\/p><p>Durchsetzungsvermögen, Verhandlungsgeschick, hohe Flexibilität bei wechselnden Aufgabenstellungen sowie eine lösungsorientierte Arbeitsweise zeichnet Sie aus. Außerdem bringen Sie folgende Qualifikationen mit:<\/p><ul><li>Abgeschlossenes betriebswirtschaftliches Studium oder kaufmännische Ausbildung<\/li><li>Verhandlungssichere Deutsch- und Englischkenntnisse in Wort und Schrift<\/li><li>Mehrjährige Berufserfahrungen im Einkauf eines international tätigen Unternehmens<\/li><li>Umfassende Kenntnisse des MS-Office-Pakets<\/li><li>Strukturierte und sorgfältige Arbeitsweise<\/li><li>Gutes Zahlenverständnis<\/li><\/ul><p><strong>Was Sie bewirken:<\/strong><\/p><ul><li>Sie begleiten den Produktentwicklungsprozess<\/li><li>Sie holen Angebote ein und führen Preisverhandlungen<\/li><li>Sie sind der erste Ansprechpartner unserer internationalen Lieferanten, kommunizieren mit Ihnen täglich und besuchen sie vor Ort<\/li><li>Sie erstellen die Einkaufsplanzahlen und disponieren selbstständig den Nachschub<\/li><li>Sie sind zuständig für die termingerechte und kostenoptimale Beschaffung der Produkte<\/li><li>Sie übernehmen die Rechnungskontrolle, erstellen Auftragsbestätigungen, Liefererinnerungen und Liefermahnungen<\/li><\/ul><p><strong>Das macht uns besonders:<\/strong><br\/><br\/>Unsere Mitarbeitenden sind der Grund für unseren Erfolg. Basierend auf dieser Überzeugung ermöglichen wir ihnen die freie Entfaltung ihrer Ideen und behandeln sie auf Augenhöhe.<\/p><ul><li>Festanstellung in einem erfolgreichen Familienunternehmen<\/li><li>sicherer Arbeitsplatz in einem finanzstarken Unternehmen<\/li><li>familiäre Arbeitsumgebung ohne hierarchische Strukturen<\/li><li>faire Bezahlung und flexible Arbeitszeiten<\/li><li>Weiterbildungsmöglichkeiten<\/li><li>Helle und moderne Arbeitsumgebung<\/li><\/ul><p><strong>Leistungen:<\/strong><\/p><ul><li>Betriebliche Altersvorsorge<\/li><li>Betriebliche Weiterbildung<\/li><li>Betriebsfeiern<\/li><li>Kostenlose Getränke<\/li><li>Kostenloser Parkplatz<\/li><li>Mitarbeiter-Rabatt<\/li><\/ul><p><strong>Sonderzahlungen:<\/strong><\/p><ul><li>Urlaubsgeld<\/li><li>Weihnachtsgeld<\/li><li>Zusatzzahlungen<\/li><\/ul><p>Wir freuen uns auf Ihre Bewerbungsunterlagen an<br\/><a href=\"mailto:bewerbung@asa-selection.de\" target=\"_blank\" title=\"Jetzt E-Mail an ASA versenden.\"><strong>bewerbung@asa-selection.de<\/strong><\/a><\/p><p>ASA Selection GmbH<br\/>z.Hd. Ria Fasel-Ramroth<br\/>Rudolf-Diesel-Str. 3<br\/>56203 Höhr-Grenzhausen<\/p>",
+            "open": false
+          }
+        },
+        "template--19214054654276__a77e9238-0bdc-46b7-b5c6-bdbf10fe2828-16883865598ed61946-0": {
+          "type": "accordion",
+          "settings": {
+            "icon": "none",
+            "title": "Ausbildung Kaufleute im Groß- und Außenhandelsmanagement",
+            "text": "<p>Ausbildungsbeginn: 01. August, Ausbildungszeit: je nach Schulabschluss 2-3 Jahre<br\/>Standort: Höhr-Grenzhausen<\/p><p>Du möchtest Deine Fremdsprachenkenntnisse und logisches Denken in einem mittelständischen, dynamischen Unternehmen anwenden und strahlst Freundlichkeit und Sympathie aus? Dann starte deine Karriere jetzt bei uns mit einer Ausbildung im Berufsbild Kaufleute (w\/m\/d) im Groß- und Außenhandelsmanagement.<\/p><p>Deine Ausbildung bei ASA Selection ist geprägt von einer persönlichen Betreuung. Du wirst bei uns umfassend in alle kaufmännischen Abläufe des Betriebs eingeführt. Du lernst dadurch die zusammenhängenden Prozesse der verschiedenen Unternehmensbereiche unseres international agierenden Unternehmens kennen: Beschaffung und Logistik, Vertrieb und Kundenorientierung, kaufmännische Steuerung und Kontrolle, Controlling und Rechnungswesen sowie Waren- und Absatzwirtschaft.<\/p><p>Bei der Fachrichtung Außenhandel bildet der Themenkomplex Auslandsmärkte und die Abwicklung von Außenhandelsgeschäften sowie die Anwendung von Fremdsprachen den Schwerpunkt. Es erwartet dich eine interessante, abwechslungsreiche, praxisorientierte und spannende Ausbildung, die dir einen umfassenden Einblick in unser Unternehmen bietet.<\/p><p>Die Ausbildung dauert 2-3 Jahre und endet mit der Abschlussprüfung vor der IHK.<\/p><p><strong>Dein Profil:<\/strong><br\/>• Gute mittlere Reife oder geeignetes (Fach-) Abitur<br\/>• Du kennst dich gut mit dem Computer und MS-Office aus<br\/>• Du kannst mit Zahlen umgehen und hast gute Englischkenntnisse<br\/>• Du hast ein sicheres und selbstbewusstes Auftreten und bist kontaktfreudig<br\/>• Du hast Teamgeist und bist kundenorientiert<\/p><p><strong>Leistungen:<\/strong><br\/>• Übernahme bei guten Leistungen<br\/>• familiäres Umfeld mit geregelten Arbeitszeiten<br\/>• Betriebsfeiern<br\/>• Kostenlose Getränke<br\/>• Kostenloser Parkplatz<br\/>• Mitarbeiter-Rabatt<br\/>• Preisnachlässe auf Produkte\/Dienstleistungen des Unternehmens<\/p><p>Wir freuen uns auf Deine Bewerbungsunterlagen an<br\/><a href=\"mailto:bewerbung@asa-selection.de\" target=\"_blank\" title=\"Jetzt E-Mail an ASA versenden.\"><strong>bewerbung@asa-selection.de<\/strong><\/a><\/p><p>ASA Selection GmbH<br\/>z.Hd. Ria Fasel-Ramroth<br\/>Rudolf-Diesel-Str. 3<br\/>56203 Höhr-Grenzhausen<\/p>",
+            "open": false
+          }
+        },
+        "template--19214054654276__a77e9238-0bdc-46b7-b5c6-bdbf10fe2828-16883865598ed61946-2": {
+          "type": "accordion",
+          "disabled": true,
+          "settings": {
+            "icon": "none",
+            "title": "Title",
+            "text": "<p>Add the content to appear when the content is expanded<\/p>",
+            "open": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19214054654276__a77e9238-0bdc-46b7-b5c6-bdbf10fe2828-16883865598ed61946-1",
+        "template--19214054654276__a77e9238-0bdc-46b7-b5c6-bdbf10fe2828-16883865598ed61946-0",
+        "template--19214054654276__a77e9238-0bdc-46b7-b5c6-bdbf10fe2828-16883865598ed61946-2"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".button {background: #212121 !important;}"
+      ],
+      "settings": {
+        "title": "ASA Stellenangebote",
+        "alternate_bg_color": false,
+        "view_all_page": ""
+      }
+    },
+    "170549273417f5020d": {
+      "type": "apps",
+      "blocks": {
+        "acerill_form_builder_custom_form_kd84X8": {
+          "type": "shopify:\/\/apps\/acerill-form-builder\/blocks\/custom-form\/830f910d-3579-44cb-9d18-92197bb5bd98",
+          "settings": {
+            "formId": "99f6873d-dce4-4d72-8fc6-d5fe604db8c5",
+            "behavior": "standard"
+          }
+        }
+      },
+      "block_order": [
+        "acerill_form_builder_custom_form_kd84X8"
+      ],
+      "settings": {
+        "skip_container": false
+      }
+    }
+  },
+  "order": [
+    "b0a99163-adc9-4a5b-a8f0-7f2b973ea421",
+    "313d4821-a78b-4c68-a0a9-9c089049ca62",
+    "main",
+    "a77e9238-0bdc-46b7-b5c6-bdbf10fe2828",
+    "170549273417f5020d"
+  ]
+}

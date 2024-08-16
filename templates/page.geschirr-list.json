@@ -1,0 +1,490 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {}
+    },
+    "9a9792eb-c714-4077-b379-be466c73db60": {
+      "type": "subcollection-list",
+      "blocks": {
+        "63ae0b6f-e3d9-4558-9d90-154e893b3037": {
+          "type": "collection",
+          "settings": {
+            "collection": "teller",
+            "bg_color": "#f5f5f5"
+          }
+        },
+        "754e5809-35f7-4eca-9327-72c8eb2e796a": {
+          "type": "collection",
+          "settings": {
+            "collection": "schusseln-schalen",
+            "bg_color": "#f5f5f5"
+          }
+        },
+        "dc09c477-559d-44f1-bf24-c3693a9b9364": {
+          "type": "collection",
+          "settings": {
+            "collection": "geschirr-zusatzartikel",
+            "bg_color": "#f5f5f5"
+          }
+        },
+        "78a2a478-9a38-497e-b813-330255830747": {
+          "type": "collection",
+          "settings": {
+            "collection": "tassen-becher-kannen",
+            "bg_color": "#f5f5f5"
+          }
+        },
+        "f38f9ab6-0593-41c9-8575-d3d0e1b1daaf": {
+          "type": "collection",
+          "settings": {
+            "collection": "servierplatten-etageren",
+            "bg_color": "#f5f5f5"
+          }
+        },
+        "12207b08-2aac-4512-83e6-c32f596387ec": {
+          "type": "collection",
+          "settings": {
+            "collection": "startersets",
+            "bg_color": "#f5f5f5"
+          }
+        },
+        "cfb39323-263b-4b41-b29f-abe0d15f0172": {
+          "type": "collection",
+          "settings": {
+            "collection": "glsser-karaffen",
+            "bg_color": "#f5f5f5"
+          }
+        }
+      },
+      "block_order": [
+        "63ae0b6f-e3d9-4558-9d90-154e893b3037",
+        "754e5809-35f7-4eca-9327-72c8eb2e796a",
+        "dc09c477-559d-44f1-bf24-c3693a9b9364",
+        "78a2a478-9a38-497e-b813-330255830747",
+        "f38f9ab6-0593-41c9-8575-d3d0e1b1daaf",
+        "12207b08-2aac-4512-83e6-c32f596387ec",
+        "cfb39323-263b-4b41-b29f-abe0d15f0172"
+      ],
+      "settings": {
+        "title": "",
+        "height": 60,
+        "grid": 6,
+        "grid_mobile": "3",
+        "show_view_all": false,
+        "alternate_bg_color": false
+      }
+    },
+    "f2f5ce2f-0096-445f-952d-84469001ea58": {
+      "type": "collection-list-custom",
+      "blocks": {
+        "template--19002781827396__f2f5ce2f-0096-445f-952d-84469001ea58-16897545038792ee44-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "saisons-eucalyptus",
+            "image": "shopify:\/\/shop_images\/Saisons-Eucalyptus.jpg",
+            "sub-title": ""
+          }
+        },
+        "template--19002781827396__f2f5ce2f-0096-445f-952d-84469001ea58-16897545038792ee44-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "saisons",
+            "image": "shopify:\/\/shop_images\/saisons_sand_denim_midnight_2a943107-228d-45a9-94dd-6557858891b4.jpg",
+            "sub-title": "denim, sand & midnight blue"
+          }
+        },
+        "template--19002781827396__f2f5ce2f-0096-445f-952d-84469001ea58-16897545038792ee44-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "a-table",
+            "image": "shopify:\/\/shop_images\/atable.jpg",
+            "sub-title": "fine bone china"
+          }
+        },
+        "281da14e-713a-4efc-a23a-42ff118597ed": {
+          "type": "collection",
+          "settings": {
+            "collection": "a-table-ligne-noire",
+            "image": "shopify:\/\/shop_images\/atable-lignenoire.jpg",
+            "sub-title": "fine bone china"
+          }
+        },
+        "38642f61-3420-42be-8460-26b354316ae9": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-nori",
+            "image": "shopify:\/\/shop_images\/coppanori.jpg",
+            "sub-title": ""
+          }
+        },
+        "8904fcbb-5d82-4a84-8b51-3169d2c24115": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "sarabi",
+            "image": "shopify:\/\/shop_images\/sarabi.jpg",
+            "sub-title": ""
+          }
+        },
+        "d491f4a0-6e40-4ded-9eb0-558aa2f7aff3": {
+          "type": "collection",
+          "settings": {
+            "collection": "oco",
+            "image": "shopify:\/\/shop_images\/oco_ocolignenoire.jpg",
+            "sub-title": "fine bone china"
+          }
+        },
+        "9ef67f54-bf62-4573-a460-ee18f675eab1": {
+          "type": "collection",
+          "settings": {
+            "collection": "saisons-almond-beluga",
+            "image": "shopify:\/\/shop_images\/saisonsbelugaalmond.jpg",
+            "sub-title": ""
+          }
+        },
+        "c05ff3c6-f392-4d2e-9161-c9e842b34d66": {
+          "type": "collection",
+          "settings": {
+            "collection": "saisons-agave",
+            "image": "shopify:\/\/shop_images\/saisonsagave.jpg",
+            "sub-title": ""
+          }
+        },
+        "eecd5b63-34f2-485f-8607-f093625c3c7b": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-kuro",
+            "sub-title": ""
+          }
+        },
+        "91420d24-e732-45f1-b8e1-2a4fb85beb3c": {
+          "type": "collection",
+          "settings": {
+            "collection": "nesuto",
+            "image": "shopify:\/\/shop_images\/nesuto_3477fdad-7d94-45e7-9e40-9909f296cf7e.jpg",
+            "sub-title": ""
+          }
+        },
+        "07019e77-5884-47d1-a064-3cb57905dd4a": {
+          "type": "collection",
+          "settings": {
+            "collection": "poke-bowls",
+            "image": "shopify:\/\/shop_images\/poke_more_4aadfca1-6490-4c8e-a9f6-1c928f900c10.jpg",
+            "sub-title": ""
+          }
+        },
+        "abbb4de1-8cc6-4396-9ceb-a7d59dd41fdb": {
+          "type": "collection",
+          "settings": {
+            "collection": "cuba",
+            "image": "shopify:\/\/shop_images\/cuba_9f8ddba0-efb1-49ac-ae0f-100e86db0d46.jpg",
+            "sub-title": ""
+          }
+        },
+        "collection_9niHdD": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-tofu",
+            "image": "shopify:\/\/shop_images\/tofu-serie.jpg",
+            "sub-title": "new"
+          }
+        },
+        "e9c1aa32-ba24-4f55-9494-f5890fda1d4c": {
+          "type": "collection",
+          "settings": {
+            "collection": "250degc-plus",
+            "image": "shopify:\/\/shop_images\/250grad_e5f63503-3d8e-43be-b6b3-8038200762c3.jpg",
+            "sub-title": ""
+          }
+        },
+        "915362bd-53e9-4652-ade9-cf24a90b2631": {
+          "type": "collection",
+          "settings": {
+            "collection": "kids",
+            "image": "shopify:\/\/shop_images\/kids_0df5a2d7-1f2b-43e8-be86-4f04df61f21e.jpg",
+            "sub-title": ""
+          }
+        },
+        "1565a447-8ab0-4c85-8881-b00ccf4d1ca9": {
+          "type": "collection",
+          "settings": {
+            "collection": "re-glaze",
+            "image": "shopify:\/\/shop_images\/reglaze_3f690043-6435-4371-91de-0049d447660b.jpg",
+            "sub-title": "RECYCLED"
+          }
+        },
+        "b3fc1944-1321-4b1f-bb73-ef58c923710b": {
+          "type": "collection",
+          "settings": {
+            "collection": "kolibri",
+            "image": "shopify:\/\/shop_images\/kolibri_d0d6c638-9c95-45b9-b669-87289b3e9818.jpg",
+            "sub-title": ""
+          }
+        },
+        "53dd774e-ffdc-4818-b289-df6350d489e6": {
+          "type": "collection",
+          "settings": {
+            "collection": "formart",
+            "image": "shopify:\/\/shop_images\/formart.jpg",
+            "sub-title": ""
+          }
+        },
+        "e6fc2b89-17d0-417e-a46c-96e6ee33c1d1": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-miso",
+            "image": "shopify:\/\/shop_images\/coppamiso.jpg",
+            "sub-title": ""
+          }
+        },
+        "be106e8f-1ffb-45cb-9397-c9f1a34a0087": {
+          "type": "collection",
+          "settings": {
+            "collection": "koi",
+            "image": "shopify:\/\/shop_images\/koi_1ba379cb-218b-4ee6-a293-431baae6f034.jpg",
+            "sub-title": ""
+          }
+        },
+        "319f98c5-8ca5-4530-a157-e1b9219d52f9": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-sencha",
+            "image": "shopify:\/\/shop_images\/coppasencha_aa87a98b-b19f-4347-bf2e-59409dd2b73c.jpg",
+            "sub-title": ""
+          }
+        },
+        "e9563542-3afc-45a1-9918-7771c4f3f9f1": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "cup-go",
+            "image": "shopify:\/\/shop_images\/thermobecher_77e460f0-3719-46d0-9dcb-7f67699763df.jpg",
+            "sub-title": ""
+          }
+        },
+        "905030f5-9f54-4710-a719-d53eb243b7f2": {
+          "type": "collection",
+          "settings": {
+            "collection": "variete-du-soleil",
+            "image": "shopify:\/\/shop_images\/varietedusoleil_4605b532-bdc4-463c-8564-b09fcb600ddb.jpg",
+            "sub-title": ""
+          }
+        },
+        "a40ed77a-5c43-4d3b-b456-3c525e103914": {
+          "type": "collection",
+          "settings": {
+            "collection": "kitchenart",
+            "image": "shopify:\/\/shop_images\/kitchenart_b4efc2db-90e1-4a00-8469-72d65c4e8636.jpg",
+            "sub-title": ""
+          }
+        },
+        "e5cebf30-8b2a-4ced-9195-706290f22c9c": {
+          "type": "collection",
+          "settings": {
+            "collection": "grande",
+            "image": "shopify:\/\/shop_images\/grande_69f119f5-2f7e-42cf-93a9-d3c235922a5c.jpg",
+            "sub-title": ""
+          }
+        },
+        "e51bf14f-d43c-4613-ad41-55fa51db97e7": {
+          "type": "collection",
+          "settings": {
+            "collection": "caja",
+            "image": "shopify:\/\/shop_images\/caja.jpg",
+            "sub-title": ""
+          }
+        },
+        "collection_9UHbcj": {
+          "type": "collection",
+          "settings": {
+            "collection": "manuale",
+            "image": "shopify:\/\/shop_images\/manuale-serie.jpg",
+            "sub-title": "new"
+          }
+        },
+        "b10c9303-6ce3-48ca-bc7c-d9748587d1c3": {
+          "type": "collection",
+          "settings": {
+            "collection": "saisons-blackberry",
+            "image": "shopify:\/\/shop_images\/Saisons-Blackberry-plum.jpg",
+            "sub-title": ""
+          }
+        },
+        "collection_HUVMAj": {
+          "type": "collection",
+          "settings": {
+            "collection": "grande-black-iron",
+            "image": "shopify:\/\/shop_images\/grande-black.jpg",
+            "sub-title": "new"
+          }
+        },
+        "c8643a57-4e46-40b9-ad90-11b74f9a0af4": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "coppa",
+            "image": "shopify:\/\/shop_images\/coppa_c9fff116-703f-4511-af14-a29913653bab.jpg",
+            "sub-title": ""
+          }
+        },
+        "a843fe06-4f25-407c-a9dd-ec9db4c0d322": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "sonoko",
+            "image": "shopify:\/\/shop_images\/sonoko_b447dde2-f981-494f-9664-4b4394a154ce.jpg",
+            "sub-title": ""
+          }
+        },
+        "0a698526-3e33-4f5b-9c52-b2cc362b79b2": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "ti-amo-colore",
+            "image": "shopify:\/\/shop_images\/tiamo_colore.jpg",
+            "sub-title": ""
+          }
+        },
+        "8a85daca-6fce-45c3-afbd-6828bd9b7df1": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "coppa-yuki",
+            "image": "shopify:\/\/shop_images\/coppayuki_8c6155ea-06c9-4e65-b379-08c058c4c6b5.jpg",
+            "sub-title": ""
+          }
+        },
+        "6875cdea-e666-4583-b842-d6b3b03afdd4": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "hey",
+            "image": "shopify:\/\/shop_images\/hey_2b13f5cd-487b-4dcd-a2b0-c176d06a3c3d.jpg",
+            "sub-title": ""
+          }
+        },
+        "e4d7b286-6284-433d-a1c4-af46d08e2648": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "verana",
+            "image": "shopify:\/\/shop_images\/verana.jpg",
+            "sub-title": ""
+          }
+        },
+        "956e8343-1cfe-47e7-a624-3cb2fa45e8b4": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "coppa-hanami",
+            "image": "shopify:\/\/shop_images\/coppahanmi.jpg",
+            "sub-title": ""
+          }
+        },
+        "a4d823c9-47e6-4e70-9697-fde04d9f5bb8": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "japandi",
+            "image": "shopify:\/\/shop_images\/japandihome.jpg",
+            "sub-title": ""
+          }
+        },
+        "27996229-5644-4cd6-826c-69ebb2832b96": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "lina",
+            "image": "shopify:\/\/shop_images\/lina-serie.jpg",
+            "sub-title": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19002781827396__f2f5ce2f-0096-445f-952d-84469001ea58-16897545038792ee44-0",
+        "template--19002781827396__f2f5ce2f-0096-445f-952d-84469001ea58-16897545038792ee44-1",
+        "template--19002781827396__f2f5ce2f-0096-445f-952d-84469001ea58-16897545038792ee44-2",
+        "281da14e-713a-4efc-a23a-42ff118597ed",
+        "38642f61-3420-42be-8460-26b354316ae9",
+        "8904fcbb-5d82-4a84-8b51-3169d2c24115",
+        "d491f4a0-6e40-4ded-9eb0-558aa2f7aff3",
+        "9ef67f54-bf62-4573-a460-ee18f675eab1",
+        "c05ff3c6-f392-4d2e-9161-c9e842b34d66",
+        "eecd5b63-34f2-485f-8607-f093625c3c7b",
+        "91420d24-e732-45f1-b8e1-2a4fb85beb3c",
+        "07019e77-5884-47d1-a064-3cb57905dd4a",
+        "abbb4de1-8cc6-4396-9ceb-a7d59dd41fdb",
+        "collection_9niHdD",
+        "e9c1aa32-ba24-4f55-9494-f5890fda1d4c",
+        "915362bd-53e9-4652-ade9-cf24a90b2631",
+        "1565a447-8ab0-4c85-8881-b00ccf4d1ca9",
+        "b3fc1944-1321-4b1f-bb73-ef58c923710b",
+        "53dd774e-ffdc-4818-b289-df6350d489e6",
+        "e6fc2b89-17d0-417e-a46c-96e6ee33c1d1",
+        "be106e8f-1ffb-45cb-9397-c9f1a34a0087",
+        "319f98c5-8ca5-4530-a157-e1b9219d52f9",
+        "e9563542-3afc-45a1-9918-7771c4f3f9f1",
+        "905030f5-9f54-4710-a719-d53eb243b7f2",
+        "a40ed77a-5c43-4d3b-b456-3c525e103914",
+        "e5cebf30-8b2a-4ced-9195-706290f22c9c",
+        "e51bf14f-d43c-4613-ad41-55fa51db97e7",
+        "collection_9UHbcj",
+        "b10c9303-6ce3-48ca-bc7c-d9748587d1c3",
+        "collection_HUVMAj",
+        "c8643a57-4e46-40b9-ad90-11b74f9a0af4",
+        "a843fe06-4f25-407c-a9dd-ec9db4c0d322",
+        "0a698526-3e33-4f5b-9c52-b2cc362b79b2",
+        "8a85daca-6fce-45c3-afbd-6828bd9b7df1",
+        "6875cdea-e666-4583-b842-d6b3b03afdd4",
+        "e4d7b286-6284-433d-a1c4-af46d08e2648",
+        "956e8343-1cfe-47e7-a624-3cb2fa45e8b4",
+        "a4d823c9-47e6-4e70-9697-fde04d9f5bb8",
+        "27996229-5644-4cd6-826c-69ebb2832b96"
+      ],
+      "custom_css": [
+        ".collection-block {margin-top: 20px;}"
+      ],
+      "settings": {
+        "title": "",
+        "layout": "rows",
+        "grid": 4,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "alternate_bg_color": false
+      }
+    },
+    "aea8ac67-a390-48ba-ac44-86b410ad8696": {
+      "type": "rich-text",
+      "custom_css": [
+        ".metafield-rich_text_field {font-size: 0.9em;}",
+        "h2 {margin-bottom: 0em; font-size: 1.2em;}",
+        "h3 {margin-bottom: 0em; font-size: 1.2em;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Hochwertiges Geschirr für das Frühstück",
+        "title_size": 24,
+        "heading_h1": true,
+        "text": "<p>Bei ASA Selection finden Sie erstklassiges Geschirr aus Materialien wie Porzellan und Steinzeug für verschiedene Anlässe. Während unsere stilvollen <a href=\"https:\/\/www.asa-selection.com\/produkte\/geschirr\/teller\/\">Teller<\/a> und <a href=\"https:\/\/www.asa-selection.com\/produkte\/geschirr\/tassen-becher-kannen\/\">Tassen<\/a> die richtigen Artikel sind, um Ihren Frühstückstisch zu decken, runden smarte <a href=\"https:\/\/www.asa-selection.com\/produkte\/geschirr\/geschirr-zusatzartikel\/\">Tisch-Accessoires<\/a> wie Eierbecher, Schälchen oder Butterdosen diesen perfekt ab. Mit ASA Porzellan Geschirr wird die erste Mahlzeit des Tages bereits zum optischen Highlight. Auf diese Weise dürfen Sie in einer angenehmen Atmosphäre in den neuen Tag starten, während Sie Zeit mit Ihren Liebsten verbringen und Kraft für anstehende Aufgaben tanken. Der erste Kaffee des Tages schmeckt gleich noch besser, wenn Sie ihn gemeinsam mit Ihrer Familie genießen dürfen. Doch auch für das Mittagessen oder ein romantisches Dinner können Sie das richtige Geschirrset bei uns entdecken. Egal ob Essteller, Dessertschale, Salatschale oder elegante Essplatte – unsere Auswahl an hochwertigem Geschirr ist beinahe grenzenlos. Dabei liegt es an Ihnen, ob Sie für die ganze Familie gekocht haben, oder eine ganz besondere Köstlichkeit mit Ihrem Partner essen möchten. In unserem Onlineshop finden Sie garantiert das passende Geschirrset. Nehmen Sie sich einen Augenblick Zeit und entdecken Sie genau das Geschirr Set, das am besten zu Ihnen passt und bestellen Sie dieses ganz bequem bis an Ihre Haustür.<\/p><h2>Das richtige Geschirr Set für Ihren Einrichtungsstil bestellen<\/h2><p>In unserem Onlineshop finden Sie eine große Auswahl an stimmigen Geschirrsets und kombinierbarem Essgeschirr, sodass Ihr Tisch stets einladend wirkt. Wenn Sie zu den Menschen gehören, die es gerne rustikal und ohne viel Schnörkel mögen, sollten Sie einen Blick auf unsere <a href=\"https:\/\/www.asa-selection.com\/geschirr\/caja\/\">Caja Serie<\/a> werfen. Mit diesem funktionalen Steinzeug Geschirr unterstützen Sie beispielsweise den Landhausstil perfekt und sorgen so für eine gemütliche Atmosphäre in Ihrer Wohnung. Auch das Steinzeug Geschirr aus unserer <a href=\"https:\/\/www.asa-selection.com\/geschirr\/coppa\/\">Coppa Serie<\/a> bietet Ihnen funktionale Designs in hochwertiger Verarbeitung. Sollten Sie auf der Suche nach modernem Geschirr sein, das schlichte Farbgestaltungen mit aufregenden Formen verbindet, empfehlen wir durch unsere <a href=\"https:\/\/www.asa-selection.com\/geschirr\/cuba\/\">Cuba Serie<\/a> zu stöbern. Diese Auswahl bietet die perfekte Mitte zwischen gemütlichem Landhausstil und angesagten Gestaltungen und gibt Ihnen somit die freie Entscheidung für mögliche Kombinationen. So können Sie einen Einrichtungsstil mit ganz persönlicher Note erzeugen. Auch modernes Geschirr, das mitunter gut zum Scandi Stil und anderen modernen Einrichtungsstilen passt, finden Sie bei ASA Selection. Dazu sollten Sie einen Blick auf unsere Serien <a href=\"https:\/\/www.asa-selection.com\/geschirr\/oco-oco-ligne-noir\/\">Oco<\/a> oder <a href=\"https:\/\/www.asa-selection.com\/geschirr\/a-table\/\">á Table<\/a> werfen. Wenn Sie auf der Suche nach extravagantem Geschirr mit individuellem Charakter sind, finden Sie hier ebenfalls die passenden Artikel. Die Serien <a href=\"https:\/\/www.asa-selection.com\/geschirr\/terrazzo\/\">Terrazzo<\/a> und <a href=\"https:\/\/www.asa-selection.com\/geschirr\/a-table-d-or\/\">á Table d‘or<\/a> präsentieren sich in aufregenden Designs, die ihrem Esstisch ein ganz besonderes Finish verleihen. Edle Farben wie Gold und aufsehenerregende Musterungen sorgen dafür, dass Ihr Geschirr zum wahren Blickfang wird. Ganz egal welchen Einrichtungsstil Sie bevorzugen – in unserem Onlineshop finden Sie garantiert das richtige Geschirr nach Ihren Vorlieben.<\/p><h2>Essgeschirr und Geschirrsets bei ASA finden<\/h2><p>Stöbern Sie durch den großen ASA Selection Onlineshop und finden Sie Geschirr, das zu Ihrem persönlichen Einrichtungsstil passt. Entdecken Sie eine große Auswahl an liebevoll gestalteten Tellern, Schalen und Tassen, die Sie nach Belieben miteinander kombinieren dürfen. Mit etwas Kreativität erzeugen Sie so im Handumdrehen eine individuelle Atmosphäre am heimischen Esstisch. Sollten Sie dann doch mal nach Anregungen suchen, empfehlen wir einfach verschiedene Geschirr Teile aus einer Serie zu wählen. Auf diese Weise können Sie sicher sein, dass alle Stücke miteinander harmonieren und ein stimmiges Gesamtbild erzeugen. Viele unserer Serien sind durch ihr anpassungsfähiges Design jedoch in der Lage unterschiedliche Einrichtungsstile abzurunden oder miteinander verfließen zu lassen. Unabhängig davon, für welches Geschirrset Sie sich entscheiden – bei ASA Selection finden Sie ausschließlich erstklassige Produkte, die langlebig sind und durch ihre hochwertige Verarbeitung überzeugen. So dürfen Sie davon ausgehen, dass Sie auch nach langer Zeit noch Freude an Ihrem ASA Geschirr haben. Lassen Sie ihrer Kreativität freien Lauf und kombinieren Sie unser Geschirr nach Ihrem ganz persönlichen Empfinden miteinander.<\/p><p><\/p><h2>Unsere große Auswahl an hochwertigem Geschirr<\/h2><p>Teller, Schalen und Tassen gehören zweifelsohne zu den ersten Produkten, an die wir denken, wenn wir von Geschirr sprechen. Neben diesen Basics finden Sie jedoch auch noch weitere Artikel bei uns, die in der Lage sind, Ihren Esstisch zu etwas ganz Besonderem zu machen. Wenn Sie mit der ganzen Familie Essen, kann auch schon mal gekleckert werden. Für diesen Fall sind unsere Kinder-<a href=\"https:\/\/www.asa-selection.com\/produkte\/tischwaesche\/\">Tischsets<\/a> und Tisch Tabletts die richtige Wahl. Tabletts eignen sich ebenfalls ideal, um warme Speisen direkt auf dem Esstisch zu platzieren. So müssen Sie nicht wieder aufstehen und in die Küchen gehen, wenn Sie Nachschlag möchten und die Gespräche mit Ihren Liebsten werden nicht unnötig unterbrochen. Außerdem finden Sie eine große Anzahl unterschiedlicher Teller in unserem Onlineshop. Egal ob Sie auf der Suche nach einem Dessertteller, Platzteller oder Essteller sind – hier finden Sie für jede Situation den richtigen Begleiter. Stöbern Sie gemeinsam mit Ihrer Familie durch unser Sortiment und entdecken Sie Geschirr, das Ihnen gefällt. Das Auge isst bekanntlich mit, aus diesem Grund sollte das neue Essgeschirr auch allen Familienmitgliedern gefallen.<\/p><h2>Pflegetipps für unser Geschirr<\/h2><p>Unser Steinzeug Geschirr erweist sich als äußerst langlebig und widerstandsfähig. Das liegt unter anderem an der besonderen Glasur. Sie dürfen unser Geschirr ganz einfach in der Spülmaschine reinigen, denn es hält auch hohen Temperaturen problemlos stand. Egal ob im Backofen oder Gefrierfach – unsere Produkte sind äußerst resistent, sowie langlebig und können in zahlreichen Situationen benutzt werden. Zwar sollten Sie Ihr Geschirr nicht mutwillig zu Boden werfen, jedoch ist es gegen Stöße vergleichsweise resistent. Mit etwas Pflege und sorgfältigem Umgang werden Sie lange Zeit Freude an Ihrem ASA Geschirr aus Steinzeug oder Porzellan haben.<\/p>",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": true,
+        "no_padding_bottom": false,
+        "color_scheme": "custom",
+        "color_bg": "",
+        "color_text": "#565454"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "9a9792eb-c714-4077-b379-be466c73db60",
+    "f2f5ce2f-0096-445f-952d-84469001ea58",
+    "aea8ac67-a390-48ba-ac44-86b410ad8696"
+  ]
+}

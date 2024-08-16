@@ -1,0 +1,100 @@
+{
+  "sections": {
+    "b0a99163-adc9-4a5b-a8f0-7f2b973ea421": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/aboutasa-header.jpg",
+        "height": "fixed",
+        "height_desktop": 450,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "simple things are beautiful",
+        "title_size": 56,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "313d4821-a78b-4c68-a0a9-9c089049ca62": {
+      "type": "Awards",
+      "settings": {
+        "subheading": "",
+        "title": "Unsere Kataloge",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p>Als familiengeführtes Unternehmen in zweiter Generation sehen wir Respekt, Verantwortung, Beständigkeit und Treue gegenüber Mitarbeiter, Partner und Ressourcen als selbstverständlich an. Ähnliche Ansichten in Design und Leben verbinden unsere Passion, die sich in der Kollektion und dem Katalog 2023 wiederfindet. Vielfach von Hand gefertigt, ist jedes Produkt ein Unikat mit Manufaktur-Charakter und wird so zum persönlichen Lieblingsstück. Es sind die Geschichten und die Menschen hinter den Kollektionen, die Emotion und menschliche Nähe ausstrahlen. Leidenschaft, Wärme und Emotion, ohne die es weder im Handwerk noch in der Familie funktioniert.<\/p>",
+        "image_width": 700,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "color_scheme": "standard",
+        "color_bg": "#f8f8f8",
+        "color_text": "#212121"
+      }
+    },
+    "b6ef38e2-90eb-4bf9-96d4-4c4b4c3c6338": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "Katalog 2024",
+        "title": "ASA-Selection",
+        "title_size": 28,
+        "text": "<p>Es erwarten Sie fantastische Glasuren, neue Materialien und viele interessante Produkte. Viel Freude beim Lesen und Genießen unserer neuen Kataloge!<\/p>",
+        "button_label": "zum Katalog",
+        "button_link": "https:\/\/subshop.asa-selection.com\/catalog\/catalog_2024\/",
+        "text_alignment": "center",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/asaselection_katalog_2024.jpg",
+        "image_width": 50,
+        "image_position": "right",
+        "media_size": "contain",
+        "color_scheme": "custom",
+        "color_bg": "#f5f5f5",
+        "color_text": "#212121"
+      }
+    },
+    "c81564fe-8c01-4d4f-9c3e-9973010a7649": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "Lookbook 2023",
+        "title": "Summer",
+        "title_size": 28,
+        "text": "<p>summer<\/p>",
+        "button_label": "zum lookbook",
+        "button_link": "",
+        "text_alignment": "center",
+        "text_width": 50,
+        "button_style": "auto",
+        "image_width": 50,
+        "image_position": "left",
+        "media_size": "contain",
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    }
+  },
+  "order": [
+    "b0a99163-adc9-4a5b-a8f0-7f2b973ea421",
+    "main",
+    "313d4821-a78b-4c68-a0a9-9c089049ca62",
+    "b6ef38e2-90eb-4bf9-96d4-4c4b4c3c6338",
+    "c81564fe-8c01-4d4f-9c3e-9973010a7649"
+  ]
+}

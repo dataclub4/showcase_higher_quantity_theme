@@ -1,0 +1,324 @@
+{
+  "sections": {
+    "animation_DrHA8T": {
+      "type": "Animation",
+      "settings": {
+        "enable_animations": true
+      }
+    },
+    "b0a99163-adc9-4a5b-a8f0-7f2b973ea421": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/header-reclay1f_2240x2240_2x_d0b87b05-4c8c-4510-b8e5-a9feadc6911a.jpg",
+        "height": "fixed",
+        "height_desktop": 450,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "recycled",
+        "title_size": 38,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "313d4821-a78b-4c68-a0a9-9c089049ca62": {
+      "type": "Awards",
+      "settings": {
+        "subheading": "",
+        "title": "Nachhaltigkeit ist eine Reise ohne Endstation.",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "<p>Ressourcenschonend, setzen wir mit der Kollektion „Re:glaze“ die Reise fort. Für die Herstellung von „Re:glaze“ lassen wir Rohstoffe vor der Entsorgung retten, aufbereiten und dem Produktionskreislauf zuführen. Das Ergebnis ist ein Steinzeug aus recyceltem Ton, kombiniert mit einer unverwechselbar weißen und zu 100% recycelten Glasur – wir nennen sie „Sparkling White“. Die charakterstarke Kollektion „Re:glaze“ ist Made in Portugal und verbindet wie selbstverständlich Nachhaltigkeit, Funktion und zeitlose Ästhetik.<\/p>",
+        "image_width": 180,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "color_scheme": "custom",
+        "color_bg": "#e8e4df",
+        "color_text": "#212121"
+      }
+    },
+    "67a959af-1882-49e0-b5a4-1422193c4435": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Re:glaze",
+        "collection": "re-glaze",
+        "layout": "rows",
+        "show_vendor": true,
+        "grid": 4,
+        "rows": 3,
+        "grid_mobile": "2",
+        "hide_swatches": false,
+        "alternate_bg_color": false,
+        "show_view_all": false
+      }
+    },
+    "07ce4f4a-71f4-4ca0-987a-363a7ba2d423": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "template--19227140227396__07ce4f4a-71f4-4ca0-987a-363a7ba2d423-16885627585a4fadde-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/reclay-sun_1280x1280_2x_4fe0b08d-f7d6-4293-aaf7-1cec70caecb5.webp",
+            "image_width": 700,
+            "title": "Nutzung von alternativen Energien",
+            "text": "<p>Die Stromversorgung der Fabrik erfolgt bei idealen Bedingungen zu 100% über Solar.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "template--19227140227396__07ce4f4a-71f4-4ca0-987a-363a7ba2d423-16885627585a4fadde-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/reclay-water_1280x1280_2x_30e0e50c-43d2-4cf2-8fe2-2c91a46e95bc.webp",
+            "image_width": 700,
+            "title": "Wiederverwertung der Glasur",
+            "text": "<p>Überschüssige Glasuren werden aufgefangen und zu 100% wiederverwertet.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "template--19227140227396__07ce4f4a-71f4-4ca0-987a-363a7ba2d423-16885627585a4fadde-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/reclau-wateruse_1280x1280_2x_f24b8a7f-6bae-4fca-be16-81ed36bb4ce0.webp",
+            "image_width": 700,
+            "title": "Reduzierung des Wasserverbrauchs",
+            "text": "<p>Das bei der Verarbeitung benötigte Wasser wird in einer Anlage aufbereitet und wiederverwendet.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "fe9aa618-03eb-4088-9d13-3762dcc5affb": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/reglaze-tempNevayuxQ6NwKy_1280x1280_2x_3f118a30-10ce-4d81-b86d-b08e0c274554.webp",
+            "image_width": 700,
+            "title": "Wärme-Effizienz",
+            "text": "<p>Während des Brennens wird die Zufuhr von Erdgas ständig an den tatsächlichen Bedarf angepasst. Die Wärme der Brennöfen wird außerdem zurückgewonnen und erneut genutzt.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "9b315c0b-5ed1-4247-9b70-da0f0c74998b": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/reclay-rec_1280x1280_2x_d02cc4b2-96ed-46d0-9349-6432835a6b03.webp",
+            "image_width": 700,
+            "title": "Wiederverwertung von Steinzeug",
+            "text": "<p>Abfallende Tonspäne sowie unglasierte Produkte, die die Qualitätskontrolle nicht überstehen, werden zu 100% dem Ausgangsmaterial zurückgeführt.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        },
+        "c3b1a287-6740-4aeb-ba0f-6f52d808142d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/reclay-recylc_1280x1280_2x_d988f932-7c9a-46da-896e-36141ff35159.webp",
+            "image_width": 700,
+            "title": "Ressourcenschonend",
+            "text": "<p>Materialien, die wir nicht wiederverwenden können (z.b. Gipsformen, Metall, Papier), werden von lizenzierten Betreibern gesammelt und in anderen Branchen wiederverwertet.<\/p>",
+            "button_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19227140227396__07ce4f4a-71f4-4ca0-987a-363a7ba2d423-16885627585a4fadde-0",
+        "template--19227140227396__07ce4f4a-71f4-4ca0-987a-363a7ba2d423-16885627585a4fadde-1",
+        "template--19227140227396__07ce4f4a-71f4-4ca0-987a-363a7ba2d423-16885627585a4fadde-2",
+        "fe9aa618-03eb-4088-9d13-3762dcc5affb",
+        "9b315c0b-5ed1-4247-9b70-da0f0c74998b",
+        "c3b1a287-6740-4aeb-ba0f-6f52d808142d"
+      ],
+      "custom_css": [
+        "h3 {font-size: 1.2em; color: #222;}"
+      ],
+      "settings": {
+        "title": "Das Konzept der ‚re:glaze‘ Kollektion",
+        "text_alignment": "left",
+        "button_style": "primary",
+        "media_shape": "natural",
+        "alternate_bg_color": true,
+        "full_width": false
+      }
+    },
+    "a54ac2a7-d3a4-4c19-9c04-697eb72b429b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "re:circle & re:tangular",
+        "collection": "recycled-tischsets",
+        "layout": "rows",
+        "show_vendor": true,
+        "grid": 4,
+        "rows": 3,
+        "grid_mobile": "2",
+        "hide_swatches": false,
+        "alternate_bg_color": false,
+        "show_view_all": false
+      }
+    },
+    "a997f78a-a841-4716-a603-72b1f7a7f01a": {
+      "type": "gallery",
+      "blocks": {
+        "template--19227140227396__a997f78a-a841-4716-a603-72b1f7a7f01a-168856273687fa4b26-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot-2022-10-13-at-16-15-44V2H72iKjJaSUI_800x800_2x_283a8692-16b4-4977-9cba-6fea727a2ac8.webp",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--19227140227396__a997f78a-a841-4716-a603-72b1f7a7f01a-168856273687fa4b26-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/screenz_800x800_2x_f83a9fc1-0b05-4c28-9905-3a5a05d7ee09.webp",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--19227140227396__a997f78a-a841-4716-a603-72b1f7a7f01a-168856273687fa4b26-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/recicklebig_1280x1280_2x_f9770208-ff5d-4818-bfd9-f87698fa4e0c.webp",
+            "video_external": "",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "e7f0b3f2-584b-46d7-8e59-368e1b6cc61a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/reglaze-wide2_1280x1280_2x_6f5f93a3-e3bd-444f-896f-d95f3a8e164e.webp",
+            "video_external": "",
+            "enlarge_image": true,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "4805a120-0692-426c-ac96-394f1e116b27": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/screenj_800x800_2x_42a25396-203d-410a-91de-50baa9a4867c.webp",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "68763fa7-a0e8-4fb8-962a-208bca36b34d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot-2022-10-13-at-16-15-48EFKk5ZlWIubgO_800x800_2x_52368ad4-be66-4340-9d1f-6d2ce92841d5.webp",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "Shop this",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        }
+      },
+      "block_order": [
+        "template--19227140227396__a997f78a-a841-4716-a603-72b1f7a7f01a-168856273687fa4b26-0",
+        "template--19227140227396__a997f78a-a841-4716-a603-72b1f7a7f01a-168856273687fa4b26-1",
+        "template--19227140227396__a997f78a-a841-4716-a603-72b1f7a7f01a-168856273687fa4b26-2",
+        "e7f0b3f2-584b-46d7-8e59-368e1b6cc61a",
+        "4805a120-0692-426c-ac96-394f1e116b27",
+        "68763fa7-a0e8-4fb8-962a-208bca36b34d"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 3,
+        "desktop_image_height": 400,
+        "mobile_image_height": 400,
+        "title_size": 44,
+        "enable_margin": true,
+        "full_width": false,
+        "enable_carousel": true,
+        "overlay_style_tint": false,
+        "alternate_bg_color": false
+      }
+    },
+    "41e4131c-113a-45cd-abbd-7b13dbc39396": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/banner-low_2240x2240_2x_047a8d6d-9caa-4f41-b5f2-1cc529d25e48.webp",
+        "height": "fixed",
+        "height_desktop": 450,
+        "height_mobile": 400,
+        "subheading": "100% recycelte Glasur",
+        "title": "Made in Portugal",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    }
+  },
+  "order": [
+    "animation_DrHA8T",
+    "b0a99163-adc9-4a5b-a8f0-7f2b973ea421",
+    "main",
+    "313d4821-a78b-4c68-a0a9-9c089049ca62",
+    "67a959af-1882-49e0-b5a4-1422193c4435",
+    "07ce4f4a-71f4-4ca0-987a-363a7ba2d423",
+    "a54ac2a7-d3a4-4c19-9c04-697eb72b429b",
+    "a997f78a-a841-4716-a603-72b1f7a7f01a",
+    "41e4131c-113a-45cd-abbd-7b13dbc39396"
+  ]
+}

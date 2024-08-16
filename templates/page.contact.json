@@ -1,0 +1,74 @@
+{
+  "sections": {
+    "92e6fcab-a519-4709-b42e-43a77248f35e": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Wood-Holztabletts-Kueche-web_16a29f52-99f2-4b70-87d4-3a6c87f1ac0f.jpg",
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 400,
+        "subheading": "",
+        "title": "Kontakt",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "<p>Wir freuen uns auf Deine Kontaktaufnahme.<\/p>",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "main": {
+      "type": "main-contact",
+      "settings": {
+        "show_title": false
+      }
+    },
+    "4fde0839-6bf7-491a-83c2-57beb8a3fee2": {
+      "type": "map",
+      "disabled": true,
+      "settings": {
+        "heading": "ASA Selection GmbH",
+        "address": "<p>Rudolf-Diesel-Straße 3<br\/>56203 Höhr-Grenzhausen<\/p><p>Telefon: +49 2624 189-0<br\/>Telefax: +49 2624 189-36<br\/>E-Mail: <a href=\"mailto:kontakt@asa-selection.com%20\" title=\"E-Mail schreiben\">kontakt@asa-selection.com <\/a><\/p><p>Erleben Sie unsere Produkte live in unserem Showroom vor Ort. Wir freuen uns auf Ihren Besuch!<\/p><p><\/p><p>*<strong>ACHTUNG! Kein Endkunden-Werksverkauf!<\/strong><\/p>",
+        "button": "Directions",
+        "text_alignment": "left",
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": "",
+        "map_address": "Rudolf-Diesel-Straße 356203 Höhr-Grenzhausen",
+        "api_key": "",
+        "map_style": "default"
+      }
+    },
+    "e8b03f9c-3dca-49e2-a76c-35c7e53d0c41": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "ASA Selection GmbH",
+        "title_size": 48,
+        "heading_h1": false,
+        "text": "<p>Rudolf-Diesel-Straße 3<br\/>56203 Höhr-Grenzhausen<\/p><p>Telefon: +49 2624 189-0<br\/>Telefax: +49 2624 189-36<br\/>E-Mail: <a href=\"mailto:kontakt@asa-selection.com%20\" title=\"E-Mail schreiben\">kontakt@asa-selection.com <\/a><\/p><p>Erleben Sie unsere Produkte live in unserem Showroom vor Ort. Wir freuen uns auf Ihren Besuch!<\/p><p>*<strong>ACHTUNG! Kein Endkunden-Werksverkauf!<\/strong><\/p>",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    }
+  },
+  "order": [
+    "92e6fcab-a519-4709-b42e-43a77248f35e",
+    "main",
+    "4fde0839-6bf7-491a-83c2-57beb8a3fee2",
+    "e8b03f9c-3dca-49e2-a76c-35c7e53d0c41"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {}
+    },
+    "da3e5292-d7fa-4471-bf3c-24980d6e5d08": {
+      "type": "collection-list-custom",
+      "blocks": {
+        "template--19003235369284__da3e5292-d7fa-4471-bf3c-24980d6e5d08-16897545038792ee44-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "kuchenhelfer",
+            "image": "shopify:\/\/shop_images\/kuechenhelfer_015a3e4b-98f0-4e90-a472-29cdf65f9411.jpg",
+            "sub-title": ""
+          }
+        },
+        "template--19003235369284__da3e5292-d7fa-4471-bf3c-24980d6e5d08-16897545038792ee44-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "ofenformen",
+            "image": "shopify:\/\/shop_images\/Ofenformen_091bb520-8736-416a-8827-7027fd34bf4c.jpg",
+            "sub-title": ""
+          }
+        },
+        "template--19003235369284__da3e5292-d7fa-4471-bf3c-24980d6e5d08-16897545038792ee44-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "tortenplatten-glasglocken",
+            "image": "shopify:\/\/shop_images\/tortenplatten_6b159e27-8118-40d5-8254-b4129e80160f.jpg",
+            "sub-title": ""
+          }
+        },
+        "c93d920e-b9ef-42d4-88a5-7066c5ff89fc": {
+          "type": "collection",
+          "settings": {
+            "collection": "servierplatten-etageren",
+            "image": "shopify:\/\/shop_images\/etageren_de98a705-c978-4479-867b-0e01873ee897.jpg",
+            "sub-title": ""
+          }
+        },
+        "9c8bccea-0e78-4d5f-bea0-b52a2ea896d8": {
+          "type": "collection",
+          "settings": {
+            "collection": "wood",
+            "image": "shopify:\/\/shop_images\/wood_c1adee2f-48de-492f-a389-796b4e69c301.jpg",
+            "sub-title": ""
+          }
+        },
+        "3ff791e5-b45c-4bc0-8a7a-ce53d41403fc": {
+          "type": "collection",
+          "settings": {
+            "collection": "grande",
+            "image": "shopify:\/\/shop_images\/grande_ab932fd5-5301-4b30-bc6c-c17c26388720.jpg",
+            "sub-title": ""
+          }
+        },
+        "a04a72da-9c93-4560-a47a-51679fa84966": {
+          "type": "collection",
+          "settings": {
+            "collection": "250degc-plus",
+            "image": "shopify:\/\/shop_images\/250grad_ae69a45c-aaf4-40d6-918c-c83c66d94e99.jpg",
+            "sub-title": ""
+          }
+        },
+        "543193e0-bce9-4985-bc62-8a29a4c87bce": {
+          "type": "collection",
+          "settings": {
+            "collection": "kitchenart",
+            "image": "shopify:\/\/shop_images\/kitchenart_91f8a881-f158-4db6-a433-336d351aa5bf.jpg",
+            "sub-title": ""
+          }
+        },
+        "2f1dd001-95b6-4af0-ae9c-26df0d068fb5": {
+          "type": "collection",
+          "settings": {
+            "collection": "tischsets",
+            "image": "shopify:\/\/shop_images\/Tischsets_b8cbee2e-7ade-4480-9dff-3468b3b75d44.jpg",
+            "sub-title": ""
+          }
+        },
+        "e2e7dd4d-0123-44f8-a1a4-89564540fca5": {
+          "type": "collection",
+          "settings": {
+            "collection": "untersetzer",
+            "image": "shopify:\/\/shop_images\/untersetzer_4d747da3-3293-40e9-b4e7-6d289165b6b4.jpg",
+            "sub-title": ""
+          }
+        },
+        "1c1f45f7-b1ab-461c-bc9e-a619ca8d4c34": {
+          "type": "collection",
+          "settings": {
+            "collection": "kitchen-textiles",
+            "image": "shopify:\/\/shop_images\/textilien_ab595e98-f0d9-48b8-8ec5-834b7bed3bca.jpg",
+            "sub-title": ""
+          }
+        },
+        "03726c83-87ef-4933-8aa9-1c90efceb729": {
+          "type": "collection",
+          "settings": {
+            "collection": "schurzen",
+            "image": "shopify:\/\/shop_images\/schuerzen_757933a9-4fe1-4a99-9240-2eaec11cc5f1.jpg",
+            "sub-title": ""
+          }
+        },
+        "0cd110fd-e290-4ec2-b781-166f6377210f": {
+          "type": "collection",
+          "settings": {
+            "collection": "hakelkorbe",
+            "image": "shopify:\/\/shop_images\/Haekelkoerbe_5137e758-14af-4a0c-bc0f-c95f058ac020.jpg",
+            "sub-title": ""
+          }
+        },
+        "0c570526-f3ef-48f5-89c2-4f502a9126eb": {
+          "type": "collection",
+          "settings": {
+            "collection": "besteck",
+            "image": "shopify:\/\/shop_images\/Besteck_c04f476c-4f0e-4237-9f62-9abff27a3b9c.jpg",
+            "sub-title": ""
+          }
+        },
+        "collection_anqEMB": {
+          "type": "collection",
+          "settings": {
+            "collection": "hey",
+            "image": "shopify:\/\/shop_images\/Hey-Butterdose-Marmeladendose_30d22dc8-51d8-4c13-bb67-5505ef524fd7.jpg",
+            "sub-title": ""
+          }
+        },
+        "collection_aDz7dq": {
+          "type": "collection",
+          "settings": {
+            "collection": "grande-al-forno",
+            "image": "shopify:\/\/shop_images\/Grande-alforno-sage-klein_f7391e5c-470a-4e75-a8f1-61d3ef6b816f.jpg",
+            "sub-title": "NEW"
+          }
+        }
+      },
+      "block_order": [
+        "template--19003235369284__da3e5292-d7fa-4471-bf3c-24980d6e5d08-16897545038792ee44-0",
+        "template--19003235369284__da3e5292-d7fa-4471-bf3c-24980d6e5d08-16897545038792ee44-1",
+        "template--19003235369284__da3e5292-d7fa-4471-bf3c-24980d6e5d08-16897545038792ee44-2",
+        "c93d920e-b9ef-42d4-88a5-7066c5ff89fc",
+        "9c8bccea-0e78-4d5f-bea0-b52a2ea896d8",
+        "3ff791e5-b45c-4bc0-8a7a-ce53d41403fc",
+        "a04a72da-9c93-4560-a47a-51679fa84966",
+        "543193e0-bce9-4985-bc62-8a29a4c87bce",
+        "2f1dd001-95b6-4af0-ae9c-26df0d068fb5",
+        "e2e7dd4d-0123-44f8-a1a4-89564540fca5",
+        "1c1f45f7-b1ab-461c-bc9e-a619ca8d4c34",
+        "03726c83-87ef-4933-8aa9-1c90efceb729",
+        "0cd110fd-e290-4ec2-b781-166f6377210f",
+        "0c570526-f3ef-48f5-89c2-4f502a9126eb",
+        "collection_anqEMB",
+        "collection_aDz7dq"
+      ],
+      "custom_css": [
+        ".collection-block {margin-top: 20px;}"
+      ],
+      "settings": {
+        "title": "",
+        "layout": "rows",
+        "grid": 4,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "alternate_bg_color": false
+      }
+    },
+    "e3029188-cb00-47e9-a849-352c78b7c302": {
+      "type": "rich-text",
+      "custom_css": [
+        ".metafield-rich_text_field {font-size: 0.9em;}",
+        "h2 {margin-bottom: 0em; font-size: 1.2em;}",
+        "h3 {margin-bottom: 0em; font-size: 1.2em;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Küchenzubehör von ASA Selection entdecken",
+        "title_size": 24,
+        "heading_h1": false,
+        "text": "<p>Im <a href=\"https:\/\/www.asa-selection.com\/kueche\/\">Küchen<\/a> Sortiment von ASA Selection können Sie Küchenutensilien entdecken, die Ihr Koch- und Backerlebnis zum Highlight machen. <a href=\"https:\/\/www.asa-selection.com\/produkte\/kueche\/tortenplatten\/\">Tortenplatten<\/a>, <a href=\"https:\/\/www.asa-selection.com\/produkte\/kueche\/etageren\/\">Etageren<\/a> und vielerlei <a href=\"https:\/\/www.asa-selection.com\/produkte\/kueche\/kuechenhelfer\/\">Küchenhelfer<\/a> werden zu Ihrer neuen Lieblings-Einrichtung und verpassen Ihrer Küche alles, was sie benötigt. Egal ob im kleinen Kreis mit der Familie, oder für große Veranstaltungen mit vielen Gästen – das Küchenzubehör von ASA Selection verschönert sowohl Ihre Küche als auch Ihren Esstisch. Stöbern Sie durch unser Küchen-Sortiment und erfreuen Sie sich an einer Vielzahl an <a href=\"https:\/\/www.asa-selection.com\/geschirr\/\">Geschirr<\/a>, <a href=\"https:\/\/www.asa-selection.com\/produkte\/besteck\/\">Besteck<\/a>, Küchenhelfern und noch vielem mehr.<\/p><h2>Tortenplatten und Glasglocken<\/h2><p>In unserem Küchensortiment finden Sie Tortenplatten und Glasglocken, mit denen Sie Ihre Backkreationen ansprechend präsentieren können. Aus der Serie Grande gibt Porzellan-Tortenplatten mit hohem Fuß in leuchtend weißer Farbe für Sie, oder auch solche, mit weniger hohem Fuß. Die runden Platten in unterschiedlichen Größen bringen Ihre Backkünste wunderbar zur Geltung. Das edle Design passt sich Ihrer Kücheneinrichtung perfekt an. Passend zu Tortenplatten, finden Sie in dieser Kategorie ebenfalls Glasglocken in verschiedenen Formen und Größen. Die <a href=\"https:\/\/www.asa-selection.com\/produkte\/kueche\/glasglocken\/\">Glasglocken<\/a> helfen dabei, dass Ihr Gebäck länger frisch und genießbar bleibt, und setzen darüber hinaus elegante Akzente. Die Kombination aus Tortenplatte und Glasglocke bringt Ihre Gäste definitiv zum Staunen. Verschönern Sie Ihr Backerlebnis mit dem Küchenzubehör von ASA Selection.<\/p><h2>Holzgeschirr für eine rustikale Tischdekoration<\/h2><p>Die Serie Wood schenkt Ihnen Küchenutensilien aus Holz, die Ihren gedeckten Tisch verschönern. Entdecken Sie zum Beispiel Holzteller in verschiedenen Größen aus hochwertigem Akazienholz. Der natürliche Look bringt rustikalen Flair auf Ihren Esstisch und ist zugleich überaus edel. Holz-Artikel präsentieren Ihre Essensauswahl wunderschön und elegant. Belegen Sie sie zum Beispiel mit verschiedenen Käse- oder Wurstspezialitäten und zaubern Sie Ihren Gästen ein Lächeln ins Gesicht. Verschiedene Schalen aus Akazienholz, sowie passendes Besteck runden Ihren Esstisch perfekt ab. Zusammen lässt sich alles mit Porzellangeschirr verbinden. Wenn Ihnen das Küchenzubehör der Serie Wood zu dunkel ist, finden Sie ebenfalls solches aus hellem Holz, aus unserer Serie Wood Light. Auch hier können Sie sich an Schneidebrettern, Tabletts und Besteck erfreuen. Entdecken Sie Küchenutensilien aus Holz im großen Küchen-Sortiment von ASA Selection.<\/p><h2>Etageren für eine elegante Präsentation<\/h2><p>In unserem Küchen-Sortiment finden Sie verschiedene <a href=\"https:\/\/www.asa-selection.com\/produkte\/kueche\/etageren\/\">Etageren<\/a>, mit denen Sie Ihre Kochkreationen perfekt in Szene setzen können. Entdecken Sie Etagere mit verschiedenen Stufen, um Speisen stilecht zu servieren. Die Serien Grande, á table und á table ligne noir präsentieren Ihnen Küchenzubehör in Form von Etageren, die schnell zum Highlight Ihres Esstischs werden. Neben ihren praktischen Eigenschaften sehen sie auch wunderschön aus.<\/p><h2>Küchenhelfer von ASA Selection<\/h2><p>Statten Sie Ihre Küche so aus, dass Sie alles haben, was Sie benötigen. Essig- und Ölflaschen aus Porzellan sind besonders elegant und praktisch. Auch Salz-, Pfeffer- und Zuckerstreuer dürfen nicht fehlen. Aus der Serie Grande finden Sie diese Küchenhelfer aus weißem Porzellan, was Eleganz in Ihre Küche bringt. Ebenfalls praktisch sind unsere Butterdosen in verschiedenen Größen, oder aber eine große Zitronenpresse, die Ihre Familie mit leckerer, frischer Limonade versorgt. Runde und eckige Backformen aus den Serien Grande und 250°C Plus helfen Ihnen beim Zaubern von leckeren Aufläufen und weiteren Kreationen. Klicken Sie sich durch unser Angebot an Küchenzubehör und Küchenhelfern von ASA Selection und schenken Sie Ihrer Küche und Ihrem Esstisch ein Update.<\/p>",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": true,
+        "no_padding_bottom": true,
+        "color_scheme": "custom",
+        "color_bg": "",
+        "color_text": "#565454"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "da3e5292-d7fa-4471-bf3c-24980d6e5d08",
+    "e3029188-cb00-47e9-a849-352c78b7c302"
+  ]
+}

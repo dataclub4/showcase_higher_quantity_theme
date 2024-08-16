@@ -1,0 +1,309 @@
+{
+  "sections": {
+    "de0592ea-4ce1-4451-96d2-fa3b2d1ae839": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Muttertag-47headdark.jpg",
+        "height": "fixed",
+        "height_desktop": 700,
+        "height_mobile": 400,
+        "subheading": "{{ article.title }}",
+        "title": "Geschenkideen zum Muttertag",
+        "title_size": 46,
+        "heading_h1": false,
+        "text": "<p>Am 12. mai ist Muttertag!<\/p>",
+        "enlarge_text": true,
+        "button_label": "",
+        "image_link": "",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "image_with_text_pg6B9H": {
+      "type": "image-with-text",
+      "settings": {
+        "subheading": "Geschenkideen zum Muttertag",
+        "title": "Am 12. Mai ist Muttertag!",
+        "title_size": 28,
+        "text": "<p><\/p><p>Zeit, sich Gedanken um das perfekte Geschenk zu machen. Zaubert euren Mamas mit den liebevollen Geschenkideen von ASA Selection ein Strahlen ins Gesicht! Neben unserem umfangreichen Sortiment findet ihr sorgfältig ausgewählte Geschenkesets für diesen besonderen Anlass.<\/p><p><br\/><\/p>",
+        "button_label": "",
+        "button_link": "",
+        "text_alignment": "left",
+        "text_width": 50,
+        "button_style": "auto",
+        "image": "shopify:\/\/shop_images\/Header-mothersday_5da186b4-33b2-42b2-a02f-a07456b7fe79.jpg",
+        "image_width": 100,
+        "image_position": "left",
+        "media_size": "cover",
+        "color_scheme": "custom",
+        "color_bg": "#dccecf",
+        "color_text": "#282526"
+      }
+    },
+    "gallery_8GAbYP": {
+      "type": "gallery",
+      "blocks": {
+        "image_eWgziz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Muttertag-170.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "Wellness-Set",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "image_VWqNe6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Muttertag-grande-white.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "Grande-Set",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "image_4K3y6h": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Muttertag-323.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "Zeit zu Zweit",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        }
+      },
+      "block_order": [
+        "image_eWgziz",
+        "image_VWqNe6",
+        "image_4K3y6h"
+      ],
+      "custom_css": [
+        ".section-spacing {padding-top: 50px; padding-bottom: 50px;}"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 3,
+        "desktop_image_height": 350,
+        "mobile_image_height": 350,
+        "title_size": 26,
+        "enable_margin": true,
+        "full_width": false,
+        "enable_carousel": true,
+        "overlay_style_tint": true,
+        "alternate_bg_color": true
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "disabled": true,
+      "custom_css": [
+        ".line-1 {text-align: center !important;}",
+        ".line-2 {text-align: center !important; color: #ffffff; font-weight: normal !important;}"
+      ],
+      "settings": {
+        "featured_image": "wide",
+        "blog_show_author": false,
+        "blog_show_date": false,
+        "blog_show_social": false
+      }
+    },
+    "a569d5ed-4056-4b46-ba80-e51c30822901": {
+      "type": "products-recommendation",
+      "settings": {
+        "title": "Geschenksets zum Muttertag",
+        "collection": "muttertag",
+        "layout": "rows",
+        "show_vendor": false,
+        "grid": 4,
+        "rows": 6,
+        "grid_mobile": "2",
+        "hide_swatches": false,
+        "alternate_bg_color": false,
+        "show_view_all": false
+      }
+    },
+    "cf08d6ac-6950-4731-93fc-a424df7f8d28": {
+      "type": "gallery",
+      "blocks": {
+        "template--19682223161668__cf08d6ac-6950-4731-93fc-a424df7f8d28-image-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Muttertag-74.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--19682223161668__cf08d6ac-6950-4731-93fc-a424df7f8d28-image-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wood-Foodstand-Muttertag.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "template--19682223161668__cf08d6ac-6950-4731-93fc-a424df7f8d28-image-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Muttertag-40.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "",
+            "title": "",
+            "heading_h1": false,
+            "button_label": "",
+            "link": "",
+            "text_alignment": "position--left position--bottom"
+          }
+        }
+      },
+      "block_order": [
+        "template--19682223161668__cf08d6ac-6950-4731-93fc-a424df7f8d28-image-1",
+        "template--19682223161668__cf08d6ac-6950-4731-93fc-a424df7f8d28-image-2",
+        "template--19682223161668__cf08d6ac-6950-4731-93fc-a424df7f8d28-image-3"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 3,
+        "desktop_image_height": 480,
+        "mobile_image_height": 400,
+        "title_size": 44,
+        "enable_margin": false,
+        "full_width": true,
+        "enable_carousel": true,
+        "overlay_style_tint": false,
+        "alternate_bg_color": false
+      }
+    },
+    "91df7aab-f3e4-49c7-a37d-33b3678e7599": {
+      "type": "collection-list-custom",
+      "blocks": {
+        "template--19682223161668__91df7aab-f3e4-49c7-a37d-33b3678e7599-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ article.metafields.custom.inspiration_serie_1.value }}",
+            "image": "{{ article.metafields.custom.inspiration_serie_1_image.value }}",
+            "sub-title": ""
+          }
+        },
+        "29621068-78aa-43a2-bd46-8d45b26e49e6": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ article.metafields.custom.inspiration_serie_2.value }}",
+            "image": "{{ article.metafields.custom.inspiration_serie_2_image.value }}",
+            "sub-title": ""
+          }
+        },
+        "template--19682223161668__91df7aab-f3e4-49c7-a37d-33b3678e7599-collection-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ article.metafields.custom.inspiration_serie_3.value }}",
+            "image": "{{ article.metafields.custom.inspiration_serie_3_image.value }}",
+            "sub-title": ""
+          }
+        },
+        "39a16167-2888-4438-b409-282ea6c5c4c4": {
+          "type": "collection",
+          "settings": {
+            "collection": "{{ article.metafields.custom.inspiration_serie_4.value }}",
+            "image": "{{ article.metafields.custom.inspiration_serie_4_image.value }}",
+            "sub-title": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19682223161668__91df7aab-f3e4-49c7-a37d-33b3678e7599-collection-1",
+        "29621068-78aa-43a2-bd46-8d45b26e49e6",
+        "template--19682223161668__91df7aab-f3e4-49c7-a37d-33b3678e7599-collection-3",
+        "39a16167-2888-4438-b409-282ea6c5c4c4"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".collection-list-custom {margin-top: -10px;}"
+      ],
+      "settings": {
+        "title": "{{ article.metafields.custom.serie_title.value }}",
+        "layout": "carousel",
+        "grid": 4,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "alternate_bg_color": true
+      }
+    },
+    "featured_collection_fbrEYd": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Muttertag Geschenk-Inspirationen",
+        "collection": "muttertag-geschenk-inspirationen",
+        "layout": "rows",
+        "show_vendor": false,
+        "grid": 4,
+        "rows": 5,
+        "grid_mobile": "2",
+        "hide_swatches": false,
+        "alternate_bg_color": false,
+        "show_view_all": true
+      }
+    },
+    "rich_text_VGx4mP": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "title_size": 20,
+        "heading_h1": false,
+        "text": "",
+        "image_width": 120,
+        "button_label": "Weitere Geschenkideen",
+        "button_link": "shopify:\/\/collections\/geschenkideen",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    }
+  },
+  "order": [
+    "de0592ea-4ce1-4451-96d2-fa3b2d1ae839",
+    "image_with_text_pg6B9H",
+    "gallery_8GAbYP",
+    "main",
+    "a569d5ed-4056-4b46-ba80-e51c30822901",
+    "cf08d6ac-6950-4731-93fc-a424df7f8d28",
+    "91df7aab-f3e4-49c7-a37d-33b3678e7599",
+    "featured_collection_fbrEYd",
+    "rich_text_VGx4mP"
+  ]
+}

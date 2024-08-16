@@ -1,0 +1,36 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-cart",
+      "settings": {
+        "cart_show_title": true,
+        "cart_terms_show": false,
+        "cart_terms_page": "",
+        "continue_shopping_page": "",
+        "cart_note_show": false,
+        "show_tax_and_shipping": true,
+        "show_additional_checkout_buttons": true,
+        "show_backorder_text": true
+      }
+    },
+    "1686238142f2f19b1e": {
+      "type": "apps",
+      "blocks": {
+        "b7372355-2db0-465c-b3b6-78e38e675079": {
+          "type": "shopify:\/\/apps\/trusted-shops-easy-integration\/blocks\/trusted-stars\/2ae4ab38-7eb9-4d62-abe3-d4a5f27cbef2",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "b7372355-2db0-465c-b3b6-78e38e675079"
+      ],
+      "settings": {
+        "skip_container": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1686238142f2f19b1e"
+  ]
+}

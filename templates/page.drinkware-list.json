@@ -1,0 +1,256 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {}
+    },
+    "f2f5ce2f-0096-445f-952d-84469001ea58": {
+      "type": "collection-list-custom",
+      "blocks": {
+        "8904fcbb-5d82-4a84-8b51-3169d2c24115": {
+          "type": "collection",
+          "settings": {
+            "collection": "sarabi",
+            "image": "shopify:\/\/shop_images\/sarabi.jpg",
+            "sub-title": ""
+          }
+        },
+        "27996229-5644-4cd6-826c-69ebb2832b96": {
+          "type": "collection",
+          "settings": {
+            "collection": "lina",
+            "image": "shopify:\/\/shop_images\/lina-serie.jpg",
+            "sub-title": ""
+          }
+        },
+        "eecd5b63-34f2-485f-8607-f093625c3c7b": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-kuro",
+            "image": "shopify:\/\/shop_images\/Coppa-Kuro-Tischszene-tea.jpg",
+            "sub-title": ""
+          }
+        },
+        "c8643a57-4e46-40b9-ad90-11b74f9a0af4": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa",
+            "image": "shopify:\/\/shop_images\/drinkware-coppa.jpg",
+            "sub-title": ""
+          }
+        },
+        "38642f61-3420-42be-8460-26b354316ae9": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-nori",
+            "image": "shopify:\/\/shop_images\/Coppa-Nori1_488a0239-4fa5-4dbe-a6e8-453817d9f8ac.jpg",
+            "sub-title": ""
+          }
+        },
+        "collection_wnMTAi": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-glass",
+            "image": "shopify:\/\/shop_images\/drinkware-coppaglas.jpg",
+            "sub-title": ""
+          }
+        },
+        "a4d823c9-47e6-4e70-9697-fde04d9f5bb8": {
+          "type": "collection",
+          "settings": {
+            "collection": "japandi",
+            "image": "shopify:\/\/shop_images\/japandihome.jpg",
+            "sub-title": ""
+          }
+        },
+        "collection_9niHdD": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-tofu",
+            "image": "shopify:\/\/shop_images\/CoppaTofu-TeeundKuchen_2c1a71e2-c83f-430d-860b-0ccfc788542e.jpg",
+            "sub-title": "new"
+          }
+        },
+        "collection_drxRjM": {
+          "type": "collection",
+          "settings": {
+            "collection": "joy-1",
+            "image": "shopify:\/\/shop_images\/joyhome.jpg",
+            "sub-title": "NEW"
+          }
+        },
+        "b3fc1944-1321-4b1f-bb73-ef58c923710b": {
+          "type": "collection",
+          "settings": {
+            "collection": "kolibri",
+            "image": "shopify:\/\/shop_images\/Kolibri-Tee_20172961-c15c-49c5-9ff9-ee910d8f0c36.jpg",
+            "sub-title": ""
+          }
+        },
+        "e6fc2b89-17d0-417e-a46c-96e6ee33c1d1": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-miso",
+            "image": "shopify:\/\/shop_images\/coppa-miso-Tea.jpg",
+            "sub-title": ""
+          }
+        },
+        "91420d24-e732-45f1-b8e1-2a4fb85beb3c": {
+          "type": "collection",
+          "settings": {
+            "collection": "nesuto",
+            "image": "shopify:\/\/shop_images\/Nesuto-Bonsai-Teekanne-Henkelbecher_80060d25-6dbf-41a6-9173-b849f0dc0427.jpg",
+            "sub-title": ""
+          }
+        },
+        "319f98c5-8ca5-4530-a157-e1b9219d52f9": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-sencha",
+            "image": "shopify:\/\/shop_images\/coppasencha_aa87a98b-b19f-4347-bf2e-59409dd2b73c.jpg",
+            "sub-title": ""
+          }
+        },
+        "e9563542-3afc-45a1-9918-7771c4f3f9f1": {
+          "type": "collection",
+          "settings": {
+            "collection": "cup-go",
+            "image": "shopify:\/\/shop_images\/thermobecher_77e460f0-3719-46d0-9dcb-7f67699763df.jpg",
+            "sub-title": ""
+          }
+        },
+        "a843fe06-4f25-407c-a9dd-ec9db4c0d322": {
+          "type": "collection",
+          "settings": {
+            "collection": "sonoko",
+            "image": "shopify:\/\/shop_images\/sonoko_b447dde2-f981-494f-9664-4b4394a154ce.jpg",
+            "sub-title": ""
+          }
+        },
+        "8a85daca-6fce-45c3-afbd-6828bd9b7df1": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-yuki",
+            "image": "shopify:\/\/shop_images\/coppayuki_8c6155ea-06c9-4e65-b379-08c058c4c6b5.jpg",
+            "sub-title": ""
+          }
+        },
+        "collection_Fe4a4H": {
+          "type": "collection",
+          "settings": {
+            "collection": "fine-bone-china-drinkware",
+            "image": "shopify:\/\/shop_images\/atable-Ligne-noire-Kaffee1_466f5132-9afd-4053-ac3b-56533fb32a1a.jpg",
+            "sub-title": ""
+          }
+        },
+        "6875cdea-e666-4583-b842-d6b3b03afdd4": {
+          "type": "collection",
+          "settings": {
+            "collection": "hey",
+            "image": "shopify:\/\/shop_images\/hey_2b13f5cd-487b-4dcd-a2b0-c176d06a3c3d.jpg",
+            "sub-title": ""
+          }
+        },
+        "e4d7b286-6284-433d-a1c4-af46d08e2648": {
+          "type": "collection",
+          "settings": {
+            "collection": "verana",
+            "image": "shopify:\/\/shop_images\/verana.jpg",
+            "sub-title": ""
+          }
+        },
+        "956e8343-1cfe-47e7-a624-3cb2fa45e8b4": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-hanami",
+            "image": "shopify:\/\/shop_images\/coppahanmi.jpg",
+            "sub-title": ""
+          }
+        },
+        "collection_kqXRbH": {
+          "type": "collection",
+          "settings": {
+            "collection": "tablett",
+            "image": "shopify:\/\/shop_images\/Coppa-Kuro-tabletop-Holztabletts.jpg",
+            "sub-title": ""
+          }
+        },
+        "0a698526-3e33-4f5b-9c52-b2cc362b79b2": {
+          "type": "collection",
+          "settings": {
+            "collection": "ti-amo-colore",
+            "image": "shopify:\/\/shop_images\/tiamo_colore.jpg",
+            "sub-title": ""
+          }
+        }
+      },
+      "block_order": [
+        "8904fcbb-5d82-4a84-8b51-3169d2c24115",
+        "27996229-5644-4cd6-826c-69ebb2832b96",
+        "eecd5b63-34f2-485f-8607-f093625c3c7b",
+        "c8643a57-4e46-40b9-ad90-11b74f9a0af4",
+        "38642f61-3420-42be-8460-26b354316ae9",
+        "collection_wnMTAi",
+        "a4d823c9-47e6-4e70-9697-fde04d9f5bb8",
+        "collection_9niHdD",
+        "collection_drxRjM",
+        "b3fc1944-1321-4b1f-bb73-ef58c923710b",
+        "e6fc2b89-17d0-417e-a46c-96e6ee33c1d1",
+        "91420d24-e732-45f1-b8e1-2a4fb85beb3c",
+        "319f98c5-8ca5-4530-a157-e1b9219d52f9",
+        "e9563542-3afc-45a1-9918-7771c4f3f9f1",
+        "a843fe06-4f25-407c-a9dd-ec9db4c0d322",
+        "8a85daca-6fce-45c3-afbd-6828bd9b7df1",
+        "collection_Fe4a4H",
+        "6875cdea-e666-4583-b842-d6b3b03afdd4",
+        "e4d7b286-6284-433d-a1c4-af46d08e2648",
+        "956e8343-1cfe-47e7-a624-3cb2fa45e8b4",
+        "collection_kqXRbH",
+        "0a698526-3e33-4f5b-9c52-b2cc362b79b2"
+      ],
+      "custom_css": [
+        ".collection-block {margin-top: 20px;}"
+      ],
+      "settings": {
+        "title": "",
+        "layout": "rows",
+        "grid": 4,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "alternate_bg_color": false
+      }
+    },
+    "aea8ac67-a390-48ba-ac44-86b410ad8696": {
+      "type": "rich-text",
+      "disabled": true,
+      "custom_css": [
+        ".metafield-rich_text_field {font-size: 0.9em;}",
+        "h2 {margin-bottom: 0em; font-size: 1.2em;}",
+        "h3 {margin-bottom: 0em; font-size: 1.2em;}"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Hochwertiges Geschirr für das Frühstück",
+        "title_size": 24,
+        "heading_h1": true,
+        "text": "<p>Bei ASA Selection finden Sie erstklassiges Geschirr aus Materialien wie Porzellan und Steinzeug für verschiedene Anlässe. Während unsere stilvollen <a href=\"https:\/\/www.asa-selection.com\/produkte\/geschirr\/teller\/\">Teller<\/a> und <a href=\"https:\/\/www.asa-selection.com\/produkte\/geschirr\/tassen-becher-kannen\/\">Tassen<\/a> die richtigen Artikel sind, um Ihren Frühstückstisch zu decken, runden smarte <a href=\"https:\/\/www.asa-selection.com\/produkte\/geschirr\/geschirr-zusatzartikel\/\">Tisch-Accessoires<\/a> wie Eierbecher, Schälchen oder Butterdosen diesen perfekt ab. Mit ASA Porzellan Geschirr wird die erste Mahlzeit des Tages bereits zum optischen Highlight. Auf diese Weise dürfen Sie in einer angenehmen Atmosphäre in den neuen Tag starten, während Sie Zeit mit Ihren Liebsten verbringen und Kraft für anstehende Aufgaben tanken. Der erste Kaffee des Tages schmeckt gleich noch besser, wenn Sie ihn gemeinsam mit Ihrer Familie genießen dürfen. Doch auch für das Mittagessen oder ein romantisches Dinner können Sie das richtige Geschirrset bei uns entdecken. Egal ob Essteller, Dessertschale, Salatschale oder elegante Essplatte – unsere Auswahl an hochwertigem Geschirr ist beinahe grenzenlos. Dabei liegt es an Ihnen, ob Sie für die ganze Familie gekocht haben, oder eine ganz besondere Köstlichkeit mit Ihrem Partner essen möchten. In unserem Onlineshop finden Sie garantiert das passende Geschirrset. Nehmen Sie sich einen Augenblick Zeit und entdecken Sie genau das Geschirr Set, das am besten zu Ihnen passt und bestellen Sie dieses ganz bequem bis an Ihre Haustür.<\/p><h2>Das richtige Geschirr Set für Ihren Einrichtungsstil bestellen<\/h2><p>In unserem Onlineshop finden Sie eine große Auswahl an stimmigen Geschirrsets und kombinierbarem Essgeschirr, sodass Ihr Tisch stets einladend wirkt. Wenn Sie zu den Menschen gehören, die es gerne rustikal und ohne viel Schnörkel mögen, sollten Sie einen Blick auf unsere <a href=\"https:\/\/www.asa-selection.com\/geschirr\/caja\/\">Caja Serie<\/a> werfen. Mit diesem funktionalen Steinzeug Geschirr unterstützen Sie beispielsweise den Landhausstil perfekt und sorgen so für eine gemütliche Atmosphäre in Ihrer Wohnung. Auch das Steinzeug Geschirr aus unserer <a href=\"https:\/\/www.asa-selection.com\/geschirr\/coppa\/\">Coppa Serie<\/a> bietet Ihnen funktionale Designs in hochwertiger Verarbeitung. Sollten Sie auf der Suche nach modernem Geschirr sein, das schlichte Farbgestaltungen mit aufregenden Formen verbindet, empfehlen wir durch unsere <a href=\"https:\/\/www.asa-selection.com\/geschirr\/cuba\/\">Cuba Serie<\/a> zu stöbern. Diese Auswahl bietet die perfekte Mitte zwischen gemütlichem Landhausstil und angesagten Gestaltungen und gibt Ihnen somit die freie Entscheidung für mögliche Kombinationen. So können Sie einen Einrichtungsstil mit ganz persönlicher Note erzeugen. Auch modernes Geschirr, das mitunter gut zum Scandi Stil und anderen modernen Einrichtungsstilen passt, finden Sie bei ASA Selection. Dazu sollten Sie einen Blick auf unsere Serien <a href=\"https:\/\/www.asa-selection.com\/geschirr\/oco-oco-ligne-noir\/\">Oco<\/a> oder <a href=\"https:\/\/www.asa-selection.com\/geschirr\/a-table\/\">á Table<\/a> werfen. Wenn Sie auf der Suche nach extravagantem Geschirr mit individuellem Charakter sind, finden Sie hier ebenfalls die passenden Artikel. Die Serien <a href=\"https:\/\/www.asa-selection.com\/geschirr\/terrazzo\/\">Terrazzo<\/a> und <a href=\"https:\/\/www.asa-selection.com\/geschirr\/a-table-d-or\/\">á Table d‘or<\/a> präsentieren sich in aufregenden Designs, die ihrem Esstisch ein ganz besonderes Finish verleihen. Edle Farben wie Gold und aufsehenerregende Musterungen sorgen dafür, dass Ihr Geschirr zum wahren Blickfang wird. Ganz egal welchen Einrichtungsstil Sie bevorzugen – in unserem Onlineshop finden Sie garantiert das richtige Geschirr nach Ihren Vorlieben.<\/p><h2>Essgeschirr und Geschirrsets bei ASA finden<\/h2><p>Stöbern Sie durch den großen ASA Selection Onlineshop und finden Sie Geschirr, das zu Ihrem persönlichen Einrichtungsstil passt. Entdecken Sie eine große Auswahl an liebevoll gestalteten Tellern, Schalen und Tassen, die Sie nach Belieben miteinander kombinieren dürfen. Mit etwas Kreativität erzeugen Sie so im Handumdrehen eine individuelle Atmosphäre am heimischen Esstisch. Sollten Sie dann doch mal nach Anregungen suchen, empfehlen wir einfach verschiedene Geschirr Teile aus einer Serie zu wählen. Auf diese Weise können Sie sicher sein, dass alle Stücke miteinander harmonieren und ein stimmiges Gesamtbild erzeugen. Viele unserer Serien sind durch ihr anpassungsfähiges Design jedoch in der Lage unterschiedliche Einrichtungsstile abzurunden oder miteinander verfließen zu lassen. Unabhängig davon, für welches Geschirrset Sie sich entscheiden – bei ASA Selection finden Sie ausschließlich erstklassige Produkte, die langlebig sind und durch ihre hochwertige Verarbeitung überzeugen. So dürfen Sie davon ausgehen, dass Sie auch nach langer Zeit noch Freude an Ihrem ASA Geschirr haben. Lassen Sie ihrer Kreativität freien Lauf und kombinieren Sie unser Geschirr nach Ihrem ganz persönlichen Empfinden miteinander.<\/p><p><\/p><h2>Unsere große Auswahl an hochwertigem Geschirr<\/h2><p>Teller, Schalen und Tassen gehören zweifelsohne zu den ersten Produkten, an die wir denken, wenn wir von Geschirr sprechen. Neben diesen Basics finden Sie jedoch auch noch weitere Artikel bei uns, die in der Lage sind, Ihren Esstisch zu etwas ganz Besonderem zu machen. Wenn Sie mit der ganzen Familie Essen, kann auch schon mal gekleckert werden. Für diesen Fall sind unsere Kinder-<a href=\"https:\/\/www.asa-selection.com\/produkte\/tischwaesche\/\">Tischsets<\/a> und Tisch Tabletts die richtige Wahl. Tabletts eignen sich ebenfalls ideal, um warme Speisen direkt auf dem Esstisch zu platzieren. So müssen Sie nicht wieder aufstehen und in die Küchen gehen, wenn Sie Nachschlag möchten und die Gespräche mit Ihren Liebsten werden nicht unnötig unterbrochen. Außerdem finden Sie eine große Anzahl unterschiedlicher Teller in unserem Onlineshop. Egal ob Sie auf der Suche nach einem Dessertteller, Platzteller oder Essteller sind – hier finden Sie für jede Situation den richtigen Begleiter. Stöbern Sie gemeinsam mit Ihrer Familie durch unser Sortiment und entdecken Sie Geschirr, das Ihnen gefällt. Das Auge isst bekanntlich mit, aus diesem Grund sollte das neue Essgeschirr auch allen Familienmitgliedern gefallen.<\/p><h2>Pflegetipps für unser Geschirr<\/h2><p>Unser Steinzeug Geschirr erweist sich als äußerst langlebig und widerstandsfähig. Das liegt unter anderem an der besonderen Glasur. Sie dürfen unser Geschirr ganz einfach in der Spülmaschine reinigen, denn es hält auch hohen Temperaturen problemlos stand. Egal ob im Backofen oder Gefrierfach – unsere Produkte sind äußerst resistent, sowie langlebig und können in zahlreichen Situationen benutzt werden. Zwar sollten Sie Ihr Geschirr nicht mutwillig zu Boden werfen, jedoch ist es gegen Stöße vergleichsweise resistent. Mit etwas Pflege und sorgfältigem Umgang werden Sie lange Zeit Freude an Ihrem ASA Geschirr aus Steinzeug oder Porzellan haben.<\/p>",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": true,
+        "no_padding_bottom": false,
+        "color_scheme": "custom",
+        "color_bg": "",
+        "color_text": "#565454"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f2f5ce2f-0096-445f-952d-84469001ea58",
+    "aea8ac67-a390-48ba-ac44-86b410ad8696"
+  ]
+}

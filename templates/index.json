@@ -1,0 +1,486 @@
+{
+  "sections": {
+    "72918b90-87cd-4966-8e2d-30d816af7a97": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "custom_css": [
+        ".overlay__content {color: #d3b664;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AW_ASA_BW23_Header.jpg",
+        "height": "natural",
+        "height_desktop": 450,
+        "height_mobile": 400,
+        "subheading": "Black Friday",
+        "title": "BLACK DEALS",
+        "title_size": 60,
+        "heading_h1": false,
+        "text": "<p>Die schönsten Angebote zum Winter!<\/p>",
+        "enlarge_text": true,
+        "button_label": "Jetzt sparen",
+        "image_link": "shopify:\/\/pages\/black-friday",
+        "overlay_position": "position--hcenter position--vcenter",
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": true
+      }
+    },
+    "d55a1248-8099-4166-a173-9bb8deb77f1c": {
+      "type": "background-video",
+      "settings": {
+        "video_shopify": "shopify:\/\/files\/videos\/ASA-Saisons-Eucalyptus_16-9_01_5 (1).mp4",
+        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "subheading": "Handgefertigtes Geschirr aus Portugal",
+        "title": "saisons eucalyptus",
+        "title_size": 50,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": true,
+        "button_label": "jetzt entdecken",
+        "button_link": "shopify:\/\/collections\/saisons-eucalyptus",
+        "overlay_position": "position--hcenter position--vcenter",
+        "height": "fixed",
+        "height_desktop": 820,
+        "height_mobile": 500,
+        "full_width": true,
+        "overlay_style_tint": true
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "ff74cbfa-59b2-44e5-bb44-3279811a8a58": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/verana-homepage.jpg",
+            "slide_link": "shopify:\/\/collections\/verana",
+            "subheading": "HANDCRAFTED",
+            "title": "verana",
+            "title_size": 80,
+            "heading_h1": false,
+            "text": "<p>in drei Größen ideal für Espresso, Kaffee und Cappuccino<\/p>",
+            "enlarge_text": true,
+            "button_label": "zur serie",
+            "overlay_position": "position--hcenter position--vcenter"
+          }
+        },
+        "1482141870755-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/saisons-almond-beluga-tischszene-topview.20230831072651491dark.jpg",
+            "slide_link": "shopify:\/\/collections\/saisons-almond-beluga",
+            "subheading": "saisons",
+            "title": "almond & beluga",
+            "title_size": 60,
+            "heading_h1": false,
+            "text": "<p>Die Dekorfarben Almond und Beluga sind inspiriert vom warmen Klima Portugals.<\/p>",
+            "enlarge_text": false,
+            "button_label": "zur serie",
+            "overlay_position": "position--hcenter position--vcenter"
+          }
+        },
+        "1499426736627": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cotton-homepage.jpg",
+            "slide_link": "shopify:\/\/collections\/cotton",
+            "subheading": "100% baumwolle",
+            "title": "COTTON TOWELS",
+            "title_size": 60,
+            "heading_h1": false,
+            "text": "<p>In der Küche, am Esstisch oder im Bad: Umweltfreundlich und dauerhaft schön.<\/p>",
+            "enlarge_text": true,
+            "button_label": "zur serie",
+            "overlay_position": "position--hcenter position--vcenter"
+          }
+        }
+      },
+      "block_order": [
+        "ff74cbfa-59b2-44e5-bb44-3279811a8a58",
+        "1482141870755-1",
+        "1499426736627"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 1000,
+        "height_mobile": 680,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style_tint": false,
+        "slide_transition": "slide",
+        "slide_navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 4
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "simple things are beautiful",
+        "title_size": 48,
+        "heading_h1": false,
+        "text": "<p>Use this text to share information about your store with your customers. Describe products, share announcements, or welcome customers to your store. Add <strong>bold<\/strong>, <em>italic<\/em> and <a href=\"\/\" title=\"\/\">hyperlinks<\/a>.<\/p>",
+        "image_width": 120,
+        "button_label": "",
+        "button_link": "",
+        "button_style": "auto",
+        "text_alignment": "center",
+        "enlarge_text": false,
+        "full_width": false,
+        "no_padding_bottom": false,
+        "color_scheme": "standard",
+        "color_bg": "",
+        "color_text": ""
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "1648220659c91ed362-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "kitchenart"
+          }
+        },
+        "1648220659c91ed362-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-kuro",
+            "image": "shopify:\/\/shop_images\/Coppa-Kuro-Dessertteller-Schale-web_dfd78e22-8c10-4a84-a767-99b10adda39e.jpg"
+          }
+        },
+        "1648220659c91ed362-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "formart"
+          }
+        },
+        "1648220659c91ed362-4": {
+          "type": "collection",
+          "settings": {
+            "collection": "poke-bowls",
+            "image": "shopify:\/\/shop_images\/poke_more.jpg"
+          }
+        },
+        "1648220659c91ed362-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-nori"
+          }
+        }
+      },
+      "block_order": [
+        "1648220659c91ed362-3",
+        "1648220659c91ed362-1",
+        "1648220659c91ed362-2",
+        "1648220659c91ed362-4",
+        "1648220659c91ed362-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "New Arrivals",
+        "layout": "carousel",
+        "grid": 4,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "alternate_bg_color": true
+      }
+    },
+    "94db42c8-393f-4447-86c1-d9b2bc411468": {
+      "type": "collection-list-custom",
+      "blocks": {
+        "collection_KiDnWd": {
+          "type": "collection",
+          "settings": {
+            "collection": "poke-bowls",
+            "image": "shopify:\/\/shop_images\/pokebowls-home.jpg",
+            "sub-title": ""
+          }
+        },
+        "93f66565-bcb9-4c6a-808a-0ab34e70454f": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-nori",
+            "image": "shopify:\/\/shop_images\/norihome.jpg",
+            "sub-title": ""
+          }
+        },
+        "collection_Qrq8Bx": {
+          "type": "collection",
+          "settings": {
+            "collection": "sarabi",
+            "image": "shopify:\/\/shop_images\/sarabihome_de56cf09-e713-4e3c-a40c-5420f896643e.jpg",
+            "sub-title": ""
+          }
+        },
+        "template--18924291981636__94db42c8-393f-4447-86c1-d9b2bc411468-16896086068b0fa492-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "manuale",
+            "image": "shopify:\/\/shop_images\/manuale-serie.jpg",
+            "sub-title": "new"
+          }
+        },
+        "d45f90fc-d691-4409-b1b5-0dafe20c4475": {
+          "type": "collection",
+          "settings": {
+            "collection": "re-glaze",
+            "image": "shopify:\/\/shop_images\/reglaze_hoimepage.jpg",
+            "sub-title": "recycled"
+          }
+        },
+        "template--18924291981636__94db42c8-393f-4447-86c1-d9b2bc411468-16896086068b0fa492-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "coppa-kuro",
+            "image": "shopify:\/\/shop_images\/Coppa-Kuro-Dessertteller-Schale-web_dfd78e22-8c10-4a84-a767-99b10adda39e.jpg",
+            "sub-title": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection_KiDnWd",
+        "93f66565-bcb9-4c6a-808a-0ab34e70454f",
+        "collection_Qrq8Bx",
+        "template--18924291981636__94db42c8-393f-4447-86c1-d9b2bc411468-16896086068b0fa492-0",
+        "d45f90fc-d691-4409-b1b5-0dafe20c4475",
+        "template--18924291981636__94db42c8-393f-4447-86c1-d9b2bc411468-16896086068b0fa492-1"
+      ],
+      "custom_css": [
+        ".section-collection-list.collection-list-custom {margin-top: 0;}"
+      ],
+      "settings": {
+        "title": "Favorites",
+        "layout": "carousel",
+        "grid": 4,
+        "grid_mobile": "2",
+        "show_view_all": false,
+        "alternate_bg_color": true
+      }
+    },
+    "79ad69ec-e520-45a8-801f-ca601e5697b9": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Black Deals",
+        "collection": "black-friday-pciks",
+        "layout": "carousel",
+        "show_vendor": false,
+        "grid": 5,
+        "rows": 2,
+        "grid_mobile": "2",
+        "hide_swatches": false,
+        "alternate_bg_color": false,
+        "show_view_all": false
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Unsere Lieblinge",
+        "collection": "unsere-lieblinge",
+        "layout": "carousel",
+        "show_vendor": false,
+        "grid": 5,
+        "rows": 2,
+        "grid_mobile": "2",
+        "hide_swatches": false,
+        "alternate_bg_color": false,
+        "show_view_all": true
+      }
+    },
+    "gallery": {
+      "type": "gallery",
+      "blocks": {
+        "1601554848772-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/alforno-home.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "ALLE KÜCHEN-ARTIKEL ANZEIGEN",
+            "title": "Küche",
+            "heading_h1": false,
+            "button_label": "anzeigen",
+            "link": "shopify:\/\/pages\/kuche",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "1601560664254": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/kuro-set_jpg.jpg",
+            "video_external": "",
+            "enlarge_image": true,
+            "subheading": "Geschirr Sets zum Vorteilspreis!",
+            "title": "Geschirrsets",
+            "heading_h1": false,
+            "button_label": "anzeigen",
+            "link": "shopify:\/\/collections\/geschirrsets",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "1601554848772-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/saisons-almond-tischszene_999272ea-9369-4c7c-a65f-e11edb5c3b5b.jpg",
+            "video_external": "",
+            "enlarge_image": true,
+            "subheading": "Alle Geschirr-Artikel anzeigen",
+            "title": "Geschirr",
+            "heading_h1": false,
+            "button_label": "anzeigen",
+            "link": "shopify:\/\/pages\/geschirr",
+            "text_alignment": "position--left position--bottom"
+          }
+        },
+        "1601554848772-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mara_Glass-Kollektion.jpg",
+            "video_external": "",
+            "enlarge_image": false,
+            "subheading": "Inneneinrichtung und Dekoration",
+            "title": "Interior",
+            "heading_h1": false,
+            "button_label": "anzeigen",
+            "link": "shopify:\/\/pages\/interior",
+            "text_alignment": "position--left position--bottom"
+          }
+        }
+      },
+      "block_order": [
+        "1601554848772-0",
+        "1601560664254",
+        "1601554848772-2",
+        "1601554848772-1"
+      ],
+      "settings": {
+        "title": "",
+        "grid": 2,
+        "desktop_image_height": 400,
+        "mobile_image_height": 400,
+        "title_size": 40,
+        "enable_margin": true,
+        "full_width": true,
+        "enable_carousel": true,
+        "overlay_style_tint": true,
+        "alternate_bg_color": false
+      }
+    },
+    "background-video": {
+      "type": "background-video",
+      "settings": {
+        "video_shopify": "shopify:\/\/files\/videos\/asa-portugal_1.mp4",
+        "video_external": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "subheading": "Fair, nachhaltig, handgefertigt",
+        "title": "Keramik handmade in Portugal",
+        "title_size": 40,
+        "heading_h1": false,
+        "text": "",
+        "enlarge_text": false,
+        "button_label": "Mehr erfahren",
+        "button_link": "shopify:\/\/pages\/portugal",
+        "overlay_position": "position--hcenter position--vcenter",
+        "height": "fixed",
+        "height_desktop": 620,
+        "height_mobile": 500,
+        "full_width": true,
+        "overlay_style_tint": true
+      }
+    },
+    "text-columns-with-images": {
+      "type": "text-columns-with-images",
+      "blocks": {
+        "1601557215944-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Saisons_Produktion_Schleifen_bunt.jpg",
+            "image_width": 700,
+            "title": "Handmade",
+            "text": "<p>Wir halten unsere Produktionsstandorte größtenteils in typischen Keramikregionen. Neben Produktionen in Osteuropa und Fernost, fertigen drei Betriebe in Portugal.<\/p>",
+            "button_label": "Mehr erfahren",
+            "link": "shopify:\/\/pages\/portugal"
+          }
+        },
+        "1601557215944-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/9.jpg",
+            "image_width": 700,
+            "title": "Recycled",
+            "text": "<p>Ressourcenschonend, setzen wir mit der Kollektion „Re:glaze“ die Reise fort. Für die Herstellung von „Re:glaze“ lassen wir Rohstoffe vor der Entsorgung retten, aufbereiten und dem <\/p>",
+            "button_label": "Mehr erfahren",
+            "link": "shopify:\/\/pages\/recycled"
+          }
+        },
+        "1601557215944-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/award.jpg",
+            "image_width": 700,
+            "title": "Awards",
+            "text": "<p>Neben den Auszeichnungen für gutes Design sind wir ganz besonders stolz auf die Prämierung GERMAN BRAND AWARD 2023 für erfolgreiche Markenführung in Deutschland.<\/p>",
+            "button_label": "Mehr erfahren",
+            "link": "shopify:\/\/pages\/awards"
+          }
+        }
+      },
+      "block_order": [
+        "1601557215944-2",
+        "1601557215944-0",
+        "1601557215944-1"
+      ],
+      "settings": {
+        "title": "Stories",
+        "text_alignment": "center",
+        "button_style": "secondary",
+        "media_shape": "natural",
+        "alternate_bg_color": false,
+        "full_width": false
+      }
+    },
+    "60c220df-ab85-44ab-87d7-ad01c822f958": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "Inspiration",
+        "blog": "inspiration",
+        "post_limit": 3,
+        "show_view_all": true,
+        "blog_show_author": false,
+        "blog_show_date": false,
+        "layout": "slideshow",
+        "blog_first_post_big": false,
+        "alternate_bg_color": false,
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 500,
+        "full_width": true,
+        "overlay_style_tint": true,
+        "autoplay": true,
+        "autoplay_speed": 5,
+        "slide_transition": "slide"
+      }
+    }
+  },
+  "order": [
+    "72918b90-87cd-4966-8e2d-30d816af7a97",
+    "d55a1248-8099-4166-a173-9bb8deb77f1c",
+    "slideshow",
+    "rich-text",
+    "collection-list",
+    "94db42c8-393f-4447-86c1-d9b2bc411468",
+    "79ad69ec-e520-45a8-801f-ca601e5697b9",
+    "featured-collection",
+    "gallery",
+    "background-video",
+    "text-columns-with-images",
+    "60c220df-ab85-44ab-87d7-ad01c822f958"
+  ]
+}
