@@ -159,14 +159,14 @@
     },
     "variant": {
       "non_existent": "Nicht verfügbar",
-      "out_of_stock": "Ausverkauft1",
-      "no_stock": "Ausverkauft2"
+      "out_of_stock": "Ausverkauft",
+      "no_stock": "Ausverkauft"
     },
     "listing": {
       "loading": "Laden..",
       "quick_view": "Quick View",
       "from": "Von",
-      "sold_out": "Ausverkauft3"
+      "sold_out": "Nicht auf Lager"
     }
   },
   "homepage": {
