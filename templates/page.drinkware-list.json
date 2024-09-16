@@ -86,13 +86,13 @@
           "settings": {
             "collection": "joy-1",
             "image": "shopify:\/\/shop_images\/joyhome.jpg",
-            "sub-title": "NEW"
+            "sub-title": "NEW2"
           }
         },
         "b3fc1944-1321-4b1f-bb73-ef58c923710b": {
           "type": "collection",
           "settings": {
-            "collection": "kolibri2",
+            "collection": "kolibri",
             "image": "shopify:\/\/shop_images\/Kolibri-Tee_20172961-c15c-49c5-9ff9-ee910d8f0c36.jpg",
             "sub-title": ""
           }
